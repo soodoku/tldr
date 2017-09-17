@@ -13,6 +13,6 @@ I would love to hear from you! If you have a suggestion about improving an exist
 3. [Wickham, Hadley. ggplot2](summaries/03_wickham_ggplot2.md)  
   [Link to Amazon](https://www.amazon.com/ggplot2-Elegant-Graphics-Data-Analysis-ebook/dp/B01GVCRF6M/)
 
-4. [Greenstein, Fred. Children and Politics](summaries/04_greenstein_children_and_politics)
+4. [Greenstein, Fred. Children and Politics](summaries/04_greenstein_children_and_politics)  
   [Link to Amazon](https://smile.amazon.com/Children-Politics-Political-Science-Study/dp/0300013191/)
 
