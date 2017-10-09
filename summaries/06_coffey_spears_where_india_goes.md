@@ -58,6 +58,7 @@
 ### Rate of Open Defecation
 
 **India**
+
     * 53% of Indian households had no toilet + didn't use public toilet. 
     * 13% of urban households lack a latrine, 70% of rural hh.
         - from the 2011 census
@@ -67,6 +68,7 @@
     - b/w 2001 and 2011, rural hh w/ latrine increased by 9%. But due to pop. growth, total hh w/o latrines increased by 8M.
 
 **Comparison**
+
     * 13% of world population defecates in open
     * 25% of people in sub-saharan africa defecate in open
     * 12% of people in S. Asia except India defecate in open
@@ -78,7 +80,7 @@
 
 ### Potential Causes
 
-* **Hedonistic**
+* **Hedonistic**  
     * Pleasant to defecate in open
     * Latrine in the house smells
     * Plenty of women also like to defecate outside 
@@ -197,8 +199,7 @@
 * Indian children shorter than children in sub-Saharan Africa (1996)
     - https://www.unicef.org/pon96/nuenigma.htm
 
-**Infant Mortality**
-
+**Infant Mortality**  
     * In 2012, 43 out of 1000 babies born died before 1
     * In 2012, 150 out of 194 countries had infant mortality rate lower than India. Higher than Bangladesh, Kenya, Rwanda.
     * Infant mortality in India is 20% greater than what GDP/per capita predicts
