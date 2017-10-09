@@ -19,5 +19,5 @@ I would love to hear from you! If you have a suggestion about improving an exist
 5. [Newport, Cal. Deep Work](summaries/05_newport_deep_work.md)  
    [Link to Amazon](https://smile.amazon.com/Deep-Work-Focused-Success-Distracted-ebook/dp/B00X47ZVXM/)
 
-6. [Coffer, Diane, and Dean Spears](summaries/06_coffey_spears_where_india_goes.md)
+6. [Coffer, Diane, and Dean Spears](summaries/06_coffey_spears_where_india_goes.md)  
    [Link to Amazon](https://smile.amazon.com/Where-India-Goes-Abandoned-Development-ebook/dp/B072WKXMML/)
