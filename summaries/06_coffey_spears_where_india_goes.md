@@ -200,6 +200,7 @@
     - https://www.unicef.org/pon96/nuenigma.htm
 
 **Infant Mortality**  
+
     * In 2012, 43 out of 1000 babies born died before 1
     * In 2012, 150 out of 194 countries had infant mortality rate lower than India. Higher than Bangladesh, Kenya, Rwanda.
     * Infant mortality in India is 20% greater than what GDP/per capita predicts
