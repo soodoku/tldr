@@ -1,8 +1,6 @@
 ## Book Summaries
 
-The density of original points in an average book tends to be pretty low. Distilling the book is thus a time intensive exercise. And I thought it would be useful to share the fruits of that labor. 
-
-I would love to hear from you! If you have a suggestion about improving an existing summary, or want to contribute a summary, open a PR.
+The density of original points in an average book tends to be pretty low. Most books are also badly organized. Distilling the book is thus a time intensive exercise. And I thought it would be useful to share the fruits of that labor. 
 
 1. [Eyal, Nir. Hooked.](summaries/01_eyal_hooked.md)  
    [Link to Amazon](https://www.amazon.com/dp/B00LMGLXTS/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)
@@ -21,3 +19,10 @@ I would love to hear from you! If you have a suggestion about improving an exist
 
 6. [Coffey, Diane, and Dean Spears. Where India Goes.](summaries/06_coffey_spears_where_india_goes.md)  
    [Link to Amazon](https://smile.amazon.com/Where-India-Goes-Abandoned-Development-ebook/dp/B072WKXMML/)
+
+7. [Stephens-Davidowitz, Seth. Everybody Lies.](summaries/07_stephens_davidowitz_everybody_lies.md)  
+   [Link to Amazon](https://smile.amazon.com/Everybody-Lies-Internet-About-Really-ebook/dp/B01AFXZ2F4/)
+
+### Contribute
+
+If you have a suggestion for improving an existing summary, or want to contribute a summary, open a PR.
