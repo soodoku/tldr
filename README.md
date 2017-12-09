@@ -23,6 +23,12 @@ The density of original points in an average book tends to be pretty low. Most b
 7. [Stephens-Davidowitz, Seth. Everybody Lies.](summaries/07_stephens_davidowitz_everybody_lies.md)  
    [Link to Amazon](https://smile.amazon.com/Everybody-Lies-Internet-About-Really-ebook/dp/B01AFXZ2F4/)
 
+8. [Cialdini, Robert. Influence.](summaries/08_cialdini_influence.md)  
+    [Link to Amazon](https://smile.amazon.com/Influence-Psychology-Persuasion-Robert-Cialdini/dp/006124189X/)
+
+9. [Bird by Bird: Some Instructions on Writing and Life](summaries/08_lamott_anne_bird_by_bird.md)
+
 ### Contribute
 
 If you have a suggestion for improving an existing summary, or want to contribute a summary, open a PR.
+
