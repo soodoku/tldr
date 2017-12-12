@@ -2,12 +2,14 @@
 
 6 broad principles behind getting people to 'mindlessly' (without thinking) agree to your request (what Bob calls 'compliance'): consistency, reciprocation, social proof, authority, liking, and scarcity. Important unsaid rule = material self-interest: people want to get the most bang for the buck.
 
+You can also think of these as heuristics for people who are time constrained etc.
+
 
 ### Automatic Behaviors
 
 * Fixed Action Patterns/Blindly Mechanical Patterns of Action
   - Example: Mother turkeys respond to cheep cheep sound by young turkeys. Experiment by M. W. Fox: polecat is a natural enemy and turkeys will attack a puppet of it. but if a tape recorder in the puppet plays cheep cheep, turkeys will take it under care. 
-  - Photuris females flash mating signals of Photinus firefly  to eat them
+  - Photuris females flash mating signals of Photinus firefly  to eat them (Lloyd 1965)
   - **Difference between *trigger* and *actual threat*.** Turkeys aren't responding to actual threats, they are responding to triggers.
   - Parallel form of automatic response in humans = **people will be more likely to grant you a favor if you provide a reason.** (Research by Ellen Langer.) 
     - "Excuse me, I have 5 pages. May I use the Xerox machine?" (**60%** comply, which is also notable.)
@@ -20,7 +22,7 @@
 
   * If two items presented in order, and if second is different from first, second's absolute value on commensurate trait will seem larger: 
       * If you pick a light object and then a heavy one, the weight of 2nd object seems heavier than when lifted first
-      * Less satisfied with our looks because of looks of good looking people in media
+      * Less satisfied with our looks because of looks of good looking people in media (Kenrick and Gutierres 1980, plus one w/ Goldberg)
           * People rated others less attractive if they saw ads in popular magazine first
           * Men in dorms rated looks of blind dates rated them lower if watching Charlie's angels
       * One hand in hot water, one in cold, then move both to lukewarm water. Hand moving from cold to lukewarm will register as warm, and hand moving from hot to lukewarm will send the signal that it is cold. Same pail of water, two different interpretations.
@@ -64,7 +66,7 @@
 
   * Once a stand has been taken, there is pressure to be consistent
   * Evidence:
-      * People more confident of a horse winning just after buying the ticket than just before it
+      * People more confident of a horse winning just after buying the ticket than just before it (Knox and Inkster 1968; see also Rosenfeld, Kennedy, and Giacalone 1986)
       * People will risk personal harm if they say yes. Experiment by Thomas Moriarty: Lay a blanket and radio next to people at a park. Leave. A confederate 'steals' the radio. Most bystanders do nothing. If the experimenter asks before leaving, hey can you watch out for these, 19 out of 20 people stop the 'thief'. 
       * Steven Sherman: asked people to predict if they would volunteer for 3 hours. Many said yes. **Tony Greenwald used the same technique to boost election turnout.**
   * Applications
@@ -99,7 +101,7 @@
   * "one means we use to determine what is correct is to find out what other people think is
     correct."
   * Examples
-    - Laughter tracks (Smyth and Fuller ) --- people laugh more and longer when laughter track is there
+    - Laughter tracks (Smyth and Fuller 1972) --- people laugh more and longer when laughter track is there
       - Paris opera houses and people paid to applaud: claquers
     - Advertisers love to point out 'fastest growing', 'largest selling'
     - Charity telethons list people who have already contributed
@@ -132,7 +134,7 @@
   * Happier to heed to requests of those we like 
       * Classic example: tupperware party
   * Attractive people are more liked, rated more highly on talent, kindness, honesty, and intelligence
-    - Canadian Voters: most voters don't realize the bias. See Gabe Lenz, Enos, etc. for better estimates than the 2.5x estimate given here.
+    - Canadian Voters: most voters don't realize the bias (Efran and Patterson 1976). See Gabe Lenz, Enos, etc. for better estimates than the 2.5x estimate given here.
     - Good grooming when interviewing led to more favorable decisions in simulated interview
     - Courts --- attractive defendants are less likely to get jail, more compensation
     - Adults view aggressive acts by good looking children as less naughty
@@ -144,7 +146,7 @@
   * Familiar is more liked
   * Sherif (Liking ~ groups, competition, cooperation)
       * Being arbitrarily split into groups causes liking and 'us vs. they'
-      * Assigning names to groups causes those feelings to increase
+      * Assigning names to groups (eagles, rangers) causes those feelings to increase
       * When competition added, hostility increased yet more
       * Joint pleasant events like movies don't do much
       * Cooperation -> more pleasant feels
@@ -165,25 +167,59 @@
     - Lunch (+ve feels because of food):
       - Endorse more statements shown when eating (Gregory Razran)
       - "at the typical fund-raising dinner the speeches, the appeals for further contributions and heightened effort never come before the meal is served, only during or after"
+* How to say no
+  * Recognize that you like someone more than you should, why you may like them, etc.
+  * Focus on the facts and question under consideration
 
 ### Authority
 
   * Milgram
-  * People in business suits and jay walking
-  * Nurses given bad directions by doctors follow it
-
+      * Broad cross-section of people
+      * Post 'experiment' assessment shows that the people are normal on psych. scales
+          * When researcher and 'victim' switched scripts so that researcher was asking the 'teacher' to stop, the 'teacher' stopped.
+          * When two researchers were assigned per 'teacher' and researchers disagreed, the 'teacher' stopped
+  * Other evidence: 
+      * 12% error rate in hospitals (whatever that means). Apparently partly attributable to others not questioning judgment of attending physician (Mike Cohen and Neil Davis in Medication Errors: Causes and Prevention)
+          * Put medication in R ear --> People put the med. in the anus
+      * Study in which call made to nurse to give (problematic) medicine to a patient:
+        * title randomized. when title was doctor, 95% did it.
+    * Leonard Bickman's experiment:
+      * randomize clothing: regular/security guard
+        * ask people to comply with some odd request on the street: pick up a paper bag, stand on the other side etc. 
+        * that guy over there is overparked. give him a dime (42% versus 92%)
+    * People in business suits/regular pants/shirt
+      * 3.5x more people followed the jaywalker when jaywalker wore the business suit
+    * Motorists wait longer to honk at expensive cars than cheaper cars (50% versus nearly 100% honking)
+  * People in authority are seen as a bit taller
+      * Experiment in which person introduced in class as x from Cambridge university where x = student, demonstrator, lecturer, professor. Professor 2.5 inch taller than student.
   * Trustworthiness
     - Show good faith by saying something that isn't in your interests. even something small
     - assure people of fair mindedness
+* How to say no?
+  * Is the authority figure truly an expert in the domain?
+  * How truthful can we expect the expert to be here?
+    * truthfulness is cued by people saying that they are working against their interests. once you trust the person based on an inexpensive gesture, you can exploit that. for instance, a waiter who suggested a dish that was 50 cents less than what customer picked and then used the trust to exploit the customer.
 
 ### Scarcity
 
-  * Deadline technique
-  * Sold out - let me go to the backroom
-  * Toys within and without reach
+  * "opportunities seem more valuable to us when their availability is limited"
+  * If stock is running low on x, it also means x is popular. And that goes back to social proof. And social proof can capture stuff like that x is actually better.
+  * Applications:
+      * Sold out: See if a customer is looking intently at X, tell them that what they are looking at is the last one and that has been sold. Now that customers see X as more attractive, look in the backroom.
+      * Deadline technique: "Exclusive, limited engagement ends soon"
+      * Buy as many photos of child as possible as 'stocking limitations' cause them to destroy all stock in 24 hours.
+  * Parental pressure and 'Romeo and Juliet effect'
+  * Psychologists think some pretty pointless experiments are informative:
+      * experiment = regular beef sales call, beef supply short in future, beef supply short in future and the info. that the supply will be short is also not well known
+          * beef sales greatest in last, followed by 2nd, followed by 1st. This is thought to convey something interesting.
+  * Scarce cookies rated more desirable (not tastier) than plentifully available cookies
+      * a. Some told that cookies given away because of demand for cookies
+      * b. Some told that cookies given away because researcher had made a mistake
+      * c. Control. only given fewer cookies.
+      * a > b > c
 
-  * Sherif:
-    - Separate boys into residences creates us vs. they
-    - more pronounced when names given: eagles and rangers
-    - more pronounced when competition 
-    - less so when cooperation
+### Loss aversion
+
+​	(Kludged under scarcity but its own point.)
+
+### 
