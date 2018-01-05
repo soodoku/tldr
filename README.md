@@ -26,7 +26,7 @@ The density of original points in an average work---book, paper, lecture--- tend
 8. [Cialdini, Robert. Influence.](summaries/08_cialdini_influence.md)  
     [Link to Amazon](https://smile.amazon.com/Influence-Psychology-Persuasion-Robert-Cialdini/dp/006124189X/)
 
-9. [Hamming, Richard. You and Your Research.](summaries/09_how_to_do_good_work.md)
+9. [Hamming, Richard. You and Your Research.](summaries/09_how_to_do_good_work.md)  
     http://www.cs.virginia.edu/~robins/YouAndYourResearch.pdf
 
 <!--9. [Akerlof, George, and Robert Shiller](summaries/09_akerlof_shiller_phishing.md)  
