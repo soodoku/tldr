@@ -35,9 +35,6 @@ The density of original points in an average work---book, paper, lecture--- tend
 10. [Bird by Bird: Some Instructions on Writing and Life](summaries/08_lamott_anne_bird_by_bird.md)  
     [Link to Amazon](https://www.amazon.com/Bird-Some-Instructions-Writing-Life/dp/0385480016)-->
 
-### Papers
-
-
 ### Contribute
 
 If you have a suggestion for improving an existing summary, or want to contribute a summary, open a PR. 
