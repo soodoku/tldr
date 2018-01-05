@@ -1,6 +1,6 @@
-## Book Summaries
+## TL;DR
 
-The density of original points in an average book tends to be pretty low. Most books are also badly organized. Distilling the book is thus a time intensive exercise. And I thought it would be useful to share the fruits of that labor. 
+The density of original points in an average work---book, paper, lecture--- tends to be pretty low. Most work also tends to be badly organized. Distilling work is thus a time intensive exercise. And I thought it would be useful to share the fruits of that labor.
 
 1. [Eyal, Nir. Hooked.](summaries/01_eyal_hooked.md)  
    [Link to Amazon](https://www.amazon.com/dp/B00LMGLXTS/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)
@@ -26,9 +26,18 @@ The density of original points in an average book tends to be pretty low. Most b
 8. [Cialdini, Robert. Influence.](summaries/08_cialdini_influence.md)  
     [Link to Amazon](https://smile.amazon.com/Influence-Psychology-Persuasion-Robert-Cialdini/dp/006124189X/)
 
-9. [Bird by Bird: Some Instructions on Writing and Life](summaries/08_lamott_anne_bird_by_bird.md)
+9. [Hamming, Richard. You and Your Research.](summaries/09_how_to_do_good_work.md)
+    http://www.cs.virginia.edu/~robins/YouAndYourResearch.pdf
+
+<!--9. [Akerlof, George, and Robert Shiller](summaries/09_akerlof_shiller_phishing.md)  
+    [Link to Amazon](https://www.amazon.com/dp/B00WAM14RE/)
+
+10. [Bird by Bird: Some Instructions on Writing and Life](summaries/08_lamott_anne_bird_by_bird.md)  
+    [Link to Amazon](https://www.amazon.com/Bird-Some-Instructions-Writing-Life/dp/0385480016)-->
+
+### Papers
+
 
 ### Contribute
 
-If you have a suggestion for improving an existing summary, or want to contribute a summary, open a PR.
-
+If you have a suggestion for improving an existing summary, or want to contribute a summary, open a PR. 
