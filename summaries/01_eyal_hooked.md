@@ -1,63 +1,65 @@
 # Hooked
 
 ### Chapter 1
-    - Aim: unprompted user engagement, bringing users back repeatedly
-    
-    - Hook Model:
-        1. Trigger: External or Internal
-        2. Action: Behavior done in anticipation of reward
-            - Make it easier to do X
-            - Psych. motivation to do X
-        3. Variable Reward:
-            - Variability in reward: activates parts associated with wanting and desire.
-        4. Investment:
-            - User puts something into the product: time, data, effort, social capital, money - increases odds that they will come back again
-    
-    - Paul Graham:
-        - The world will get more addictive in next 40 years than it did in the last forty
 
-    - Def. of Habit:
-        - Behaviors done with little or no conscious thought
+* Aim: unprompted user engagement, bringing users back repeatedly
+    
+* Hook Model:
+    
+    1. Trigger: External or Internal
+    2. Action: Behavior done in anticipation of reward
+        - Make it easier to do X
+        - Psych. motivation to do X
+    3. Variable Reward:
+        - Variability in reward: activates parts associated with wanting and desire.
+    4. Investment:
+        - User puts something into the product: time, data, effort, social capital, money - increases odds that they will come back again
+    
+* Paul Graham:
+    - The world will get more addictive in next 40 years than it did in the last forty
+    
+* Def. of Habit:
+    - Behaviors done with little or no conscious thought
 
 ### Chapter 1: Habit Zone
 
-    - Customer Life Time Value:
-        - Amount of Money spent by customer before they switch to customer, die, stop using product
-        - Habits increase CLTV
-        - Credit card CLTV --- very high
-
-    - How to exploit?
-        - Provide Flexible Pricing:
-            - First form habit (say free-to-play video game) and then charge
+* Customer Life Time Value:
+    - Amount of Money spent by customer before they switch to customer, die, stop using product
+    - Habits increase CLTV
+    - Credit card CLTV --- very high
+    
+* How to exploit?
+    - Provide Flexible Pricing:
+        - First form habit (say free-to-play video game) and then charge
         
-        - Why Hook? 
-            - Hooked users evangelize, bring other users into the product
+* Why Hook? 
+    - Hooked users evangelize, bring other users into the product
         
-        - More is more principle:
-            - more frequent usage drivers more viral growth
-
-        - Viral Cycle Time:
-            - Amount of time it takes a user to invite another user
-
-        - QWERTY designed to keep commonly used characters apart as to prevent jamming of keys. Dvorak keyboard better. 
-
-        - Building New Habits
-            - Sometimes = Replacing some Past Behaviors/Habits
-            - Habits are last in, first out
-                - Habits learned last, first to go
-
-        - Get people to do same thing more frequently to form habit
-            - Floss twice a day perhaps for 1 month? versus once a day for a month
-            - Infrequent behaviors may never become habitual
-
-        - Investors ask
-            - Are you building a vitamin or a painkiller?
-            - Painkillers solve an obvious need, relieving a specific pain
-            - Vitamins appeal to users' emotional/functional needs
-
-        - Habit 
-            - when not doing an action causes pain (really closer to an itch that needs to be scratched)
-            - by that def., FB is creating a painkiller. you are selling crack to a crack addict whose addiction you created.
+* More is more principle:
+    - more frequent usage drivers more viral growth
+    
+* Viral Cycle Time:
+    - Amount of time it takes a user to invite another user
+    
+    - QWERTY designed to keep commonly used characters apart as to prevent jamming of keys. Dvorak keyboard better. 
+    
+- Building New Habits
+    - Sometimes = Replacing some Past Behaviors/Habits
+    - Habits are last in, first out
+        - Habits learned last, first to go
+    
+- Get people to do same thing more frequently to form habit
+    - Floss twice a day perhaps for 1 month? versus once a day for a month
+    - Infrequent behaviors may never become habitual
+    
+- Investors ask
+    - Are you building a vitamin or a painkiller?
+    - Painkillers solve an obvious need, relieving a specific pain
+    - Vitamins appeal to users' emotional/functional needs
+    
+- Habit 
+    - when not doing an action causes pain (really closer to an itch that needs to be scratched)
+    - by that def., FB is creating a painkiller. you are selling crack to a crack addict whose addiction you created.
 
 ### Chapter 2: Trigger
 
@@ -226,21 +228,21 @@
 
 ### Chapter 8: Habit Testing and Where to Look for Habit Forming Opp.
 
-    * Habit Testing
-        1. Identify
+* Habit Testing
+    1. Identify
         - Who are the product's habitual users
-            - Define what it means to be a devoted user
+        - Define what it means to be a devoted user
 
-        2. Codify:
+    2. Codify:
         --  5% 
-
-        3. Modify:
+    
+    3. Modify:
         - Revisit your product and identify ways to nudge new users
-
-    * Discovering Habit-Forming
-        - Scratching your own itch
-        - Making progress on a problem you face
-        - Nascent Behavior
-            - stuff only few people use can help predict future
-        - Enabling Technologies
-        - Interface change
+    
+* Discovering Habit-Forming
+    - Scratching your own itch
+    - Making progress on a problem you face
+    - Nascent Behavior
+        - stuff only few people use can help predict future
+    - Enabling Technologies
+    - Interface change
