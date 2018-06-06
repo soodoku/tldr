@@ -32,10 +32,10 @@ The density of original points in an average work---book, paper, lecture--- tend
 10. [Sunstein, Cass and Reid Hastie. Wiser: Getting Beyond Groupthink to Make Groups Smarter.](summaries/10_sunstein_hastie_wiser.md)  
     [Link to Amazon](https://www.amazon.com/dp/B00O4CRR9C/)
 
-<!--9. [Akerlof, George, and Robert Shiller](summaries/09_akerlof_shiller_phishing.md)  
+<!--11. [Akerlof, George, and Robert Shiller](summaries/09_akerlof_shiller_phishing.md)  
     [Link to Amazon](https://www.amazon.com/dp/B00WAM14RE/)
 
-10. [Bird by Bird: Some Instructions on Writing and Life](summaries/08_lamott_anne_bird_by_bird.md)  
+12. [Bird by Bird: Some Instructions on Writing and Life](summaries/08_lamott_anne_bird_by_bird.md)  
     [Link to Amazon](https://www.amazon.com/Bird-Some-Instructions-Writing-Life/dp/0385480016)-->
 
 ### Contribute
