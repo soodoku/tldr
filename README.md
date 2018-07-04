@@ -29,7 +29,7 @@ The density of original points in an average work---book, paper, lecture--- tend
 9. [Hamming, Richard. You and Your Research.](summaries/09_hamming_how_to_do_good_work.md)  
     http://www.cs.virginia.edu/~robins/YouAndYourResearch.pdf
 
-10. [Sunstein, Cass and Reid Hastie. Wiser: Getting Beyond Groupthink to Make Groups Smarter.](summaries/10_sunstein_hastie_wiser.md) 
+10. [Sunstein, Cass and Reid Hastie. Wiser: Getting Beyond Groupthink to Make Groups Smarter.](summaries/10_sunstein_hastie_wiser.md)  
     [Link to Amazon](https://www.amazon.com/dp/B00O4CRR9C/)
 
 11. [Hit Refresh](summaries/11_hit_refresh.md)  
