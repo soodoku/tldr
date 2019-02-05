@@ -35,7 +35,7 @@ The density of original points in an average work---book, paper, lecture--- tend
 11. [Nadella, Satya, Greg Shaw, and Jill Nichols. Hit Refresh](summaries/11_hit_refresh.md)  
     [Link to Amazon](https://smile.amazon.com/Hit-Refresh-Rediscover-Microsofts-Everyone-ebook/dp/B01HOT5SQA)
 
-12. [Man's Search for Meaning](summaries/12_search_for_meaning.md)
+12. [Man's Search for Meaning](summaries/12_search_for_meaning.md)  
     [Link to Amazon](https://www.amazon.com/dp/B009U9S6FI/)
 
 <!--11. [Akerlof, George, and Robert Shiller](summaries/09_akerlof_shiller_phishing.md)  
