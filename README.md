@@ -38,6 +38,9 @@ The density of original points in an average work---book, paper, lecture--- tend
 12. [Frankl, Victor. Man's Search for Meaning](summaries/12_search_for_meaning.md)  
     [Link to Amazon](https://www.amazon.com/dp/B009U9S6FI/)
 
+13. [Gigerenzer, Gerd. Calculated Risks](summaries/13_calculated_risks.md)  
+    [Link to Amazon](https://www.amazon.com/gp/product/0743254236/)
+
 <!--11. [Akerlof, George, and Robert Shiller](summaries/09_akerlof_shiller_phishing.md)  
     [Link to Amazon](https://www.amazon.com/dp/B00WAM14RE/)
 
