@@ -2,6 +2,10 @@
 
 "Overcoming innumeracy is like completing a three-step program to statistical literacy. The first step is to defeat the illusion of certainty. The second step is to learn about the actual risks of relevant events and actions. The third step is to communicate the risks in an understandable way and to draw inferences without falling prey to clouded thinking."
 
+### Related Reading
+
+* [Simple tools for understanding risks: from innumeracy to insight](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC200816/#ref2)
+
 ### Illusion of Certainty
 
 Perceptual systems "automatically transform uncertainty into certainty, as depth ambiguities and depth illusions illustrate."
