@@ -41,7 +41,7 @@ The density of original points in an average work---book, paper, lecture--- tend
 13. [Gigerenzer, Gerd. Calculated Risks](summaries/13_calculated_risks.md)  
     [Link to Amazon](https://www.amazon.com/gp/product/0743254236/)
 
-14. [Agarwal, Ajay, Joshua Gans, and Avi Goldfarb. Prediction Machines.](summaries/14_prediction_machines.md)
+14. [Agarwal, Ajay, Joshua Gans, and Avi Goldfarb. Prediction Machines.](summaries/14_prediction_machines.md)  
     [Link to Amazon](https://smile.amazon.com/Prediction-Machines-Economics-Artificial-Intelligence-ebook/dp/B075GXJPFS/)
 
 <!--11. [Akerlof, George, and Robert Shiller](summaries/09_akerlof_shiller_phishing.md)  
