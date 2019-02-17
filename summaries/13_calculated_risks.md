@@ -1,6 +1,6 @@
 ## Calculated Risks
 
-"Overcoming innumeracy is like completing a three-step program to statistical literacy. The first step is to defeat the illusion of certainty. The second step is to learn about the actual risks of relevant events and actions. The third step is to communicate the risks in an understandable way and to draw inferences without falling prey to clouded thinking."
+"Overcoming innumeracy is like completing a three-step program to statistical literacy. The first step is to defeat the **illusion of certainty.** The second step is to learn about the actual risks of relevant events and actions. The third step is to **communicate the risks in an understandable way** and to draw inferences without falling prey to clouded thinking."
 
 ### Related Reading
 
@@ -9,43 +9,43 @@
 ### Illusion of Certainty
 
 Perceptual systems "automatically transform uncertainty into certainty, as depth ambiguities and depth illusions illustrate."
-    
-    - Depth illusion illustrated by Roger Shepard’s “Turning the Tables,”
-    - Necker cube --- ambiguous depth
-    - "often wrong but never in doubt"
-    - "human perceptual system constructs representations of three-dimensional objects from incomplete information"
-    - "Our perceptual systems assume that a line of a given length on the retina that extends into depth is actually longer than one that does not and corrects for that"
-    - The perceptual system analyzes incomplete and ambiguous information and “sells” its best guess to conscious experience as a definite product. ... Look back at the two tables; they will still appear to be different shapes. Even if one understands what is happening, the unconscious continues to deliver the same perception
-    - "Helmholtz coined the term “unconscious inference” to refer to the inferential nature of perception."
+
+- Depth illusion illustrated by Roger Shepard's "Turning the Tables"
+- Necker cube --- ambiguous depth
+- "often wrong but never in doubt"
+- "human perceptual system constructs representations of three-dimensional objects from incomplete information"
+- "Our perceptual systems assume that a line of a given length on the retina that extends into depth is actually longer than one that does not and corrects for that"
+- The perceptual system analyzes incomplete and ambiguous information and “sells” its best guess to conscious experience as a definite product. ... Look back at the two tables; they will still appear to be different shapes. Even if one understands what is happening, the unconscious continues to deliver the same perception
+- "Helmholtz coined the term “unconscious inference” to refer to the inferential nature of perception."
 
 ### Miscommunication of Risk
 
 Three major forms of risk communication that invite miscommunication:
 
-1. use of single-event probabilities. e.g. there is a 30% chance it will rain tomorrow
+1. **Use of single-event probabilities.** e.g. there is a 30% chance it will rain tomorrow
     + cannot be proven wrong/right
     + people can interpret statement as 30% of area will get rain, 30% of the day it will rain, 30% of the days like tomorrow will get rain
 
-2. relative risks
-    + "“People with high cholesterol can rapidly reduce . . . their risk of death by 22 per cent by taking a widely prescribed drug called pravastatin"
+2. **Relative risks**
+    + "People with high cholesterol can rapidly reduce . . . their risk of death by 22 per cent by taking a widely prescribed drug called pravastatin"
         * "Studies indicate that a majority of people think that out of 1,000 people with high cholesterol, 220 of these will be saved"
             - Of the 1000 people who took p for 5 years, 32 died in treat vs. 41 died in control.
-    * Fix = absolute risk reduction or NNT (here, it is 9 in 1000 or 1 in 111)
+    * **Fix** = absolute risk reduction or NNT (here, it is 9 in 1000 or 1 in 111)
 
-3. conditional probabilities:
-    - fix = use natural frequencies
+3. **Conditional probabilities**
+    - **Fix** = use natural frequencies
 
 ### Natural Frequencies
 
-    "The probability that a woman of age 40 has breast cancer is about 1 percent. If she has breast cancer, the probability that she tests positive on a screening mammogram is 90 percent. If she does not have breast cancer, the probability that she nevertheless tests positive is 9 percent. What are the chances that a woman who tests positive actually has breast cancer?"
+"The probability that a woman of age 40 has breast cancer is about 1 percent. If she has breast cancer, the probability that she tests positive on a screening mammogram is 90 percent. If she does not have breast cancer, the probability that she nevertheless tests positive is 9 percent. What are the chances that a woman who tests positive actually has breast cancer?"
     
-    vs.
+vs.
 
-    "Think of 100 women. One has breast cancer, and she will probably test positive. Of the 99 who do not have breast cancer, 9 will also test positive. Thus, a total of 10 women will test positive. How many of those who test positive actually have breast cancer?"
+"Think of 100 women. One has breast cancer, and she will probably test positive. Of the 99 who do not have breast cancer, 9 will also test positive. Thus, a total of 10 women will test positive. How many of those who test positive actually have breast cancer?"
 
 * Create a tree
 
-Of the 1000:
+  Of the 1000:
     - 992 no cancer
         + 70 positive
         + 922 negative
@@ -53,9 +53,7 @@ Of the 1000:
         + 7 positive
         + 1 negative
 
-* 'Solving a problem simply means representing it so as to make the solution transparent.' --- Herb Simon
-
-### Other Issue--Prosecutor's Fallacy
+### Other Issue---Prosecutor's Fallacy
 
   - "The probability that this match has occurred by chance is 1 in 100,000."
     Vs.
@@ -63,7 +61,7 @@ Of the 1000:
 
   - p(positive test|breast cancer) is not the same as p(breast cancer|positive test)
 
-### Cases
+### Case Studies
 
 #### Fingerprinting
 
@@ -103,12 +101,14 @@ Of the 1000:
         + No evidence that self-exam helps in addition to screenings
         + yearly or biennial screenings ---> same reduction
         + Cost ~ $21k per year of life saved.
+    
     - Costs:
         + FP
             * Only 1 in 10 women who were flagged to have cancer on their first screening had breast cancer within 13 months of the screening.
             * Of 1,000 women who have breast cancer screening b/w 40 and 50, 70 FP and 7 TP
             * In a series of 10 mammograms, 1 in 2 women will receive at least one FP
                 - 3--4M screenings in Germany each year. About 300k FP. About 100k of those have invasive surgery.
+    
     - Three sources of Costs:
         - Non progressive cancer
          --- Few women have heard of non-progressive breast cancers.
@@ -117,6 +117,7 @@ Of the 1000:
         - False Negatives
             + 5 to 20 percent. Higher in younger women.
         - Funny person: "some women probably die on the way to the screening"
+    
     - Misinformation
         - Women think the positive effects for 40+ is 60 per 1000 saved.
         - Source --- leaflets. Slaytor and Ward --- absolute risk reduction never mentioned in the 58 leaflets they analyzed. Neither is the false positive rate.
@@ -144,13 +145,22 @@ Of the 1000:
 
 ### Misc.
 
+* 'Solving a problem simply means representing it so as to make the solution transparent.' --- Herb Simon
+
 * "Franklin’s law": Nothing is certain but death and taxes.
+
 * In 17th century, buying life insurance meant making a bet on prominent person's life, e.g. mayor of paris will die in the next 3 years.
+
 * Heroism is self-deception and the greatest obstacle to progress
+
 * Placebo effect 'goes away' if you discuss treatment efficacy in NNT. 
+
 * "Math is hard. Let's go shopping."---Barbie
+
 * Americans are not alone. "In a survey, 1,000 Germans were asked what “40 percent” means: (a) one-quarter, (b) 4 out of 10, or (c) every 40th person. About one-third of respondents did not choose the right answer."
+
 * Theory of mathematical prob. only developed in 1654 --- letter b/w Pascal and Fermat.
+
 * "[a] little girl ... was scheduled to receive an injection from her pediatrician. Upset that her father signed a consent form stating that he understood that 1 out of 10,000 children experience a serious allergic reaction, she insisted on speaking to the doctor. “I want to know,” the little girl asked, “what number you’re on.”"
 
 * The nineteenth century saw a struggle among three different visions of the physician: the artist, the statistician, and the determinist. The French medical professor Risueño d’Amador, as an artist who relies on medical “tact” and his intuitions about the individual patient. His rival Pierre-Charles-Alexandre Louis ... rejected bloodletting as a medical treatment. By collecting data, he showed that slightly more people who were bled died than people who were not. The French physiologist Claude Bernard rejected the images of both the physician-artist and the physician-statistician. For Bernard, science meant certainty. **In the nineteenth century, statistical data were still considered antithetical to the scientific method. Whereas science was about certainty, statistics was about uncertainty; therefore, statistics was not a proper scientific tool.** "physician Ignaz Semmel-weis’s statistical studies of childbed fever and scurvy are as legendary as the reluctance of the relevant authorities enact the preventive measures that his statistics suggested."
