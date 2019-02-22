@@ -1,6 +1,6 @@
 ## TL;DR
 
-The density of original points in an average work---book, paper, lecture--- tends to be pretty low. Most work also tends to be badly organized. Distilling work is thus a time intensive exercise. And I thought it would be useful to share the fruits of that labor.
+The density of original points in an average work---book, paper, article, lecture---tends to be pretty low. Most work also tends to be badly organized. Distilling work is thus a time intensive exercise. So I thought it would be useful to share the fruits of that labor.
 
 1. [Eyal, Nir. Hooked.](summaries/01_eyal_hooked.md)  
    [Link to Amazon](https://www.amazon.com/dp/B00LMGLXTS/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)
@@ -43,6 +43,9 @@ The density of original points in an average work---book, paper, lecture--- tend
 
 14. [Agarwal, Ajay, Joshua Gans, and Avi Goldfarb. Prediction Machines.](summaries/14_prediction_machines.md)  
     [Link to Amazon](https://smile.amazon.com/Prediction-Machines-Economics-Artificial-Intelligence-ebook/dp/B075GXJPFS/)
+
+15. [Burke, Kevin. How to Write Documentation for People that Don't Read](summaries/15_documentation_for_people_who_dont_read.md)  
+    [YouTube Video](https://www.youtube.com/watch?v=sQP_hUNCrcE)
 
 <!--11. [Akerlof, George, and Robert Shiller](summaries/09_akerlof_shiller_phishing.md)  
     [Link to Amazon](https://www.amazon.com/dp/B00WAM14RE/)
