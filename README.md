@@ -5,7 +5,7 @@ The density of original points in an average work---book, paper, article, lectur
 1. [Eyal, Nir. Hooked.](summaries/01_eyal_hooked.md)  
    [Link to Amazon](https://www.amazon.com/dp/B00LMGLXTS/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)
 
-2. [Schmidt, Eric and Jonathan Rosenberg. How Google Works.](summaries/02_schmidt_rosenberg_how_goog_works.md)  
+2. [Schmidt, Eric, and Jonathan Rosenberg. How Google Works.](summaries/02_schmidt_rosenberg_how_goog_works.md)  
    [Link to Amazon](https://www.amazon.com/How-Google-Works-Eric-Schmidt-ebook/dp/B00HUU13Y0/)
 
 3. [Wickham, Hadley. ggplot2.](summaries/03_wickham_ggplot2.md)  
@@ -44,15 +44,15 @@ The density of original points in an average work---book, paper, article, lectur
 14. [Agarwal, Ajay, Joshua Gans, and Avi Goldfarb. Prediction Machines.](summaries/14_prediction_machines.md)  
     [Link to Amazon](https://smile.amazon.com/Prediction-Machines-Economics-Artificial-Intelligence-ebook/dp/B075GXJPFS/)
 
-15. [Burke, Kevin. How to Write Documentation for People that Don't Read](summaries/15_documentation_for_people_who_dont_read.md)  
+15. [Burke, Kevin. How to Write Documentation for People that Don't Read.](summaries/15_documentation_for_people_who_dont_read.md)  
     [YouTube Video](https://www.youtube.com/watch?v=sQP_hUNCrcE)
 
-<!--11. [Akerlof, George, and Robert Shiller](summaries/09_akerlof_shiller_phishing.md)  
-    [Link to Amazon](https://www.amazon.com/dp/B00WAM14RE/)
+16. [Sunstein, Cass. The Cost-Benefit Revolution.](summaries/16_cost_benefit_revolution.md)  
+    [Link to Amazon](https://smile.amazon.com/Cost-Benefit-Revolution-MIT-Press-ebook/dp/B07G8W617S/)
 
-12. [Bird by Bird: Some Instructions on Writing and Life](summaries/08_lamott_anne_bird_by_bird.md)  
-    [Link to Amazon](https://www.amazon.com/Bird-Some-Instructions-Writing-Life/dp/0385480016)-->
+17. [Akerlof, George, and Robert Shiller. Phishing for Phools: The Economics of Manipulation and Deception.](summaries/17_phishing.md)  
+    [Link to Amazon](https://www.amazon.com/dp/B00WAM14RE/)
 
 ### Contribute
 
-If you have a suggestion for improving an existing summary, or want to contribute a summary, open a PR. 
+If you have a suggestion for improving an existing summary or want to contribute a summary, open a PR. 
