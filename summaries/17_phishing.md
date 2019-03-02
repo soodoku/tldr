@@ -54,6 +54,11 @@ Four broad areas indicate how widespread are the NO-ONE-COULD-POSSIBLY-WANTs, re
 12. Learn from data on what works:
     "But Palmolive also got another, subtler dividend from the coupons. By affixing coupons to their advertisements, Lasker and Hopkins could tell which ads worked; which ones didn’t. Just count the coupons that were returned."
 
+13. "“You just have to sell them on the benefit of those things anyway and turn a blind eye to the high probability that they won’t need these things later on.”"
+
+“Don’t, don’t, don’t mention that you have a trade-in until after you’ve negotiated a price.
+
+"For example, if the salesman is able to focus the buyer’s attention on the monthly payment, then the buyer will fail to notice the length of the contract. But each month of extra payments is then a month of pure gravy to the dealer."
 
 ### Fun Quotes
 
