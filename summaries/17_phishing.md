@@ -1,31 +1,39 @@
 ## Phishing For Phools
 
-Thesis: "Insofar as we have any weakness in knowing what we really want, and also insofar as such a weakness can be profitably generated and primed, markets will seize the opportunity to take us in on those weaknesses."
+**Thesis:** "Insofar as we have any weakness in knowing what we really want, and also insofar as such a weakness can be profitably generated and primed, markets will seize the opportunity to take us in on those weaknesses."
 
 Phishing: "It is about getting people to do things that are in the interest of the phisherman, but not in the interest of the target."
 
-Phool is "someone who, for whatever reason, is successfully phished." "There are two kinds of phool: psychological and informational. Psychological phools, in turn, come in two types. In one case, the emotions of a psychological phool override the dictates of his common sense. In the other case, cognitive biases, which are like optical illusions, lead him to misinterpret reality, and he acts on the basis of that misinterpretation."
+Phool is "someone who, for whatever reason, is successfully phished." 
+
+"There are two kinds of phool: psychological and informational. 
+    - Psychological phools, in turn, come in two types. In one case, the emotions of a psychological phool override the dictates of his common sense. In the other case, cognitive biases, which are like optical illusions, lead him to misinterpret reality, and he acts on the basis of that misinterpretation."
     - "Information phools act on information that is intentionally crafted to mislead them."
 
-Four broad areas indicate how widespread are the NO-ONE-COULD-POSSIBLY-WANTs, regarding personal financial security; the stability of the macroeconomy (the economy as a whole); our health; and the quality of government.
-
-### Banking
-
-1. Ratings agencies started charging $ from investment banks for rating in 1970s. Pressure to give good ratings to customers otherwise no business.
-
-2. High ratings of mortgage backed securities caused people to get larger mortgages.
-
-3. One ratings agency alone, Moody’s, gave 45,000 mortgage-related securities triple-A rating (for the period 2000 to 2007)
+How can we be sure we are being phooled? By gauging the state of "NO-ONE-COULD-POSSIBLY-WANTs": 
+    - personal financial security
+    - the stability of the macroeconomy (the economy as a whole)
+    - our health
+    - the quality of government
 
 ### Phishing Strategies
 
-1. "the makers of cake mixes appealed to housewives’ desire for creativity by unnecessarily requiring the addition of an egg."
+1. Ego: "the makers of cake mixes appealed to housewives’ desire for creativity by unnecessarily requiring the addition of an egg."
 
-2. Cialdini: "we are phishable because we want to reciprocate gifts and favors; because we want to be nice to people we like; because we do not want to disobey authority; because we tend to follow others in deciding how to behave; because we want our decisions to be internally consistent; and because we are averse to taking losses."
+2. Cialdini: "we are phishable because we want to: 
+    - reciprocate gifts and favors; 
+    - because we want to be nice to people we like; 
+    - because we do not want to disobey authority; 
+    - because we tend to follow others in deciding how to behave; 
+    - because we want our decisions to be internally consistent; and 
+    - because we are averse to taking losses."
 
-3. "...the eggs and the milk are strategically in the back of the supermarket; they are the most common purchase; and, figuratively, you have to go through the whole store to get them, being reminded of the other needs ...And when you get back to the checkout counter—waiting there—it is no coincidence that the candy and the magazines are there for you (and the kids)."
+3. Prolong the route to the essential + make it easier to make on-the-spur-of-the-moment purchases: 
+    "...the eggs and the milk are strategically in the back of the supermarket; they are the most common purchase; and, figuratively, you have to go through the whole store to get them, being reminded of the other needs ...And when you get back to the checkout counter—waiting there—it is no coincidence that the candy and the magazines are there for you (and the kids)."
 
-4. Reputation mining: If I have a reputation of quality, I can sell you low quality for a higher price.
+4. Reputation mining: 
+    - Trade on reputation
+    - If I have a reputation of quality, I can sell you low quality for a higher price.
     - application = ratings agencies and fin. crash
     - carl shapiro/1982/it would lead to low-quality products being ubiqutous in a free market
         + post-discovery adjustment
@@ -34,62 +42,82 @@ Four broad areas indicate how widespread are the NO-ONE-COULD-POSSIBLY-WANTs, re
 5. Complicate the unsavory
     - Derivatives, legislation
 
-6. Trade on reputation
+6. Mine motivated scrutiny: during fin. heyday, people were loathe to question the goose laying the golden egg. Great example of nonsense analysis by Cassano.
 
-7. Mine motivated scrutiny: during fin. heyday, people were loathe to question the goose laying the golden egg. Great example of nonsense analysis by Cassano.
+7. Develop disciplines devoted to specializing in unethical stuff with framing of ethics---due process, customer success: "Just as lawyers are supposed to defend their clients, even if guilty, advertisers are supposed to enhance the sales of the companies that hire them, even if those sales reduce customers’ well-being."
 
-8. Develop disciplines devoted to specializing in unethical stuff with framing of ethics---due process, customer success: "Just as lawyers are supposed to defend their clients, even if guilty, advertisers are supposed to enhance the sales of the companies that hire them, even if those sales reduce customers’ well-being."
-
-9. "Reason why" advertising: 
+8. "Reason why" advertising: 
     - Tell people why they ought to buy X even if reasons are vacuous (you are doing obvious things done by everyone but good. For selling beer, explain it is produced in sterile conditions, uses "careful[ly chosen] ... ingredients", ..., "contains the pain reliever most recommended by doctors", etc.), misleading, or appeal to their first order pref.
 
-10. Make a misleading +ve claim:
+9. Make a misleading +ve claim:
     - "One of its soaps, at the time with lagging sales, was a combination of palm oil and olive oil: Palmolive." ---> branded as beauty soap  
     - “At 60 miles an hour the loudest noise in this new Rolls-Royce comes from the electric clock."
 
-11. Associate +ve things:
+10. Associate +ve things with whatever you are selling:
     - good looking people
     - well behaved children
     - images of farm, etc.
 
-12. Learn from data on what works:
+11. Learn from data on what works:
     "But Palmolive also got another, subtler dividend from the coupons. By affixing coupons to their advertisements, Lasker and Hopkins could tell which ads worked; which ones didn’t. Just count the coupons that were returned."
 
-13. Auto Dealer Phishing Tools:
+12. Auto Dealer Phishing Tools:
     - Extras: “You just have to sell them on the benefit of those things anyway and turn a blind eye to the high probability that they won’t need these things later on.”
 
     - Trade-in: “Don’t, don’t, don’t mention that you have a trade-in until after you’ve negotiated a price.
 
     - Focus attention on X: "For example, if the salesman is able to focus the buyer’s attention on the monthly payment, then the buyer will fail to notice the length of the contract. But each month of extra payments is then a month of pure gravy to the dealer."
 
-14. Lie
+13. Lie
 
-15. Repeat the Lie:
+14. Repeat the Lie:
     “I have not passed through life,” he wrote, “without [observing] that assertions, however broad and unfounded, if permitted to pass into the mind of the hearer, will frequently be received with the acquiescence due only to established truth.”
 
-16. Mislead without lying:
+15. Mislead without lying:
     - Make convenient unstated assumptions when making claims
 
-17. Credit Card than Cash:
+16. Credit Card than Cash:
     "Richard Feinberg found that tips left by those paying by credit card were 13 percent larger than those paying w/ cash." In exp., willingness to spend much higher w/ cc. Add'l evidence from Prelec and Simester ---Celtics tickets got more than double in the credit-card condition; the Red Sox tickets got more than 75 percent extra; the banners got a mere 60 percent extra.
 
-18. Subscription than pay per visit:
+17. Subscription than pay per visit:
 
     [From DellaVigna and Malmendier](https://eml.berkeley.edu/~sdellavi/wp/gymempAER.pdf)--- Gyms: "80 percent ... would [pay] less by the visit [than a monthly subscription]. Furthermore, the losses from this wrong choice were significant: $600 per year, out of average payments of $1,400." 
 
     "Additionally, to add insult to injury, the health clubs put roadblocks in the way of cancellation. Of the 83 clubs offering automatic monthly renewal in the DellaVigna-Malmendier sample, all accepted cancellation by personal appearance; but only 7 would accept cancellation by phone. Only 54 would accept a letter; and, of these, 25 required it to be notarized."
 
-19. Selective Information:
+18. Selective Information:
     - "Publicly, proclaim policies that will appeal to the typical voter on issues that are salient to her, and where she will be well informed. But on other issues, where the typical voter is ill informed, but where potential campaign donors are well informed, take the stance that appeals to donors. Use the contributions from these “special-interest groups” for campaigning that increases popularity among the regular run of voters, who are **more likely to vote for someone who “mows their lawn on TV."**
 
-20. Exploit self-interest:
+19. Exploit self-interest:
     - Authors of the Vioxx study, journals publishing pharma sponsored papers, etc.
     - Authors who want to peddle their theories. Clarence Little/Tobacco.
 
-21. If doing an experiment, use cheeky controls:
+20. If doing an experiment, use cheeky controls:
     naproxen for Vioxx as naproxen w/ history of gastro. issues
 
-22. Come up with a story
+21. Come up with a story
+
+22. Attributes of products that are hard to 'see': Gabaix and Laibson. Ink cartridges ~ 2/3rd of the cost of printers.
+    - 3% of HP buyers knew the cost of ink.
+    - Info. about the cost of ink delib. obfuscated. Presumably applies to cars also --- cost per mile?
+
+### Banking
+
+1. Ratings agencies started charging $ from investment banks for rating in 1970s. Pressure to give good ratings to customers otherwise no business.
+
+2. High ratings of mortgage backed securities caused people to get larger mortgages.
+
+### How to Prevent Phishing
+
+1. Consumer Reports: Objective info. on quality
+
+2. Better Business Bureaus
+
+3. Law:
+    - Uniform Commercial Code
+    - Courts
+
+4. Regulators
 
 ### Misc. Quotes, Numbers, Points, and Anecdotes
 
@@ -157,3 +185,4 @@ Four broad areas indicate how widespread are the NO-ONE-COULD-POSSIBLY-WANTs, re
 
 15. "overall there is one drug rep for every six physicians in the United States"
 
+16. One ratings agency alone, Moody’s, gave 45,000 mortgage-related securities triple-A rating (for the period 2000 to 2007)
