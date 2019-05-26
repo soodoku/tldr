@@ -47,8 +47,8 @@ The density of original points in an average work---book, paper, article, lectur
 15. [Burke, Kevin. How to Write Documentation for People that Don't Read.](summaries/15_documentation_for_people_who_dont_read.md)  
     [YouTube Video](https://www.youtube.com/watch?v=sQP_hUNCrcE)
 
-16. [Sunstein, Cass. The Cost-Benefit Revolution.](summaries/16_cost_benefit_revolution.md)  
-    [Link to Amazon](https://smile.amazon.com/Cost-Benefit-Revolution-MIT-Press-ebook/dp/B07G8W617S/)
+16. [Gawande, Atul. The Checklist Manifesto.](summaries/16_checklist_manifesto.md)  
+    [Link to Amazon](https://smile.amazon.com/Checklist-Manifesto-How-Things-Right-ebook/dp/B0030V0PEW/)
 
 17. [Akerlof, George, and Robert Shiller. Phishing for Phools: The Economics of Manipulation and Deception.](summaries/17_phishing.md)  
     [Link to Amazon](https://www.amazon.com/dp/B00WAM14RE/)
