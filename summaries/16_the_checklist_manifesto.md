@@ -135,7 +135,7 @@ Portions of the book suggest that this is less about checklists and about engine
     + What kind of checklist --- do-confirm or read-do etc.
     + 5--9 items
     + Wording should be simple and exact
-    + Free to clutter, sans-serif, etc.
+    + Free of clutter, sans-serif, etc.
     + Must be tested in real world --- or simulations of it
     + Don't list stuff people don't miss
     + Give the responsibility of checklist to #2 or someone else. Not the person in charge.
