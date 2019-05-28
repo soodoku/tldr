@@ -58,7 +58,7 @@ Portions of the book suggest that this is less about checklists and about engine
 
 ### ICU
 
-* Every data in the US, "some ninety thousand people are admitted to intensive care." "Over a year, an estimated five million Americans will be, and over a normal lifetime nearly all of us will come to know the glassed bay of an ICU from"
+* Every day in the US, "some ninety thousand people are admitted to intensive care." "Over a year, an estimated five million Americans will be, and over a normal lifetime nearly all of us will come to know the glassed bay of an ICU from"
 
 * "The average stay of an ICU patient is four days, and the survival rate is 86 percent."
 
