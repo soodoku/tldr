@@ -9,36 +9,37 @@ Portions of the book suggest that this is less about checklists and about engine
     - **necessary fallibility** --- stuff is beyond humanity's comprehension for now.
 
     - of the stuff *we* know, we fail because of:
-        + **ignorance**: practioners don't know
-        + **ineptitude**: practioners don't apply what they know correctly
+        + **ignorance**: practitioners don't know
+        + **ineptitude**: practitioners don't apply what they know correctly
             * Reasons (not via G and M):
                 1. The first is the fallibility of human memory and attention, especially when it comes to mundane, routine matters that are easily overlooked under the strain of more pressing events.
                 
-                2. People may think that steps don't matter---overconfidence, laziness,  etc. --- Line out **minimum neccessary steps**
+                2. People may think that steps don't matter---overconfidence, laziness,  etc. --- Line out **minimum necessary steps**
 
 * Problem Statement: How do you make sure that people know and are following the process correctly?
 
-* To improve outcomes---study routine failures and how you would amend process to improve outcomes.
+* To improve outcomes---study routine failures and how you would amend the process to improve outcomes.
 
 * Solutions:
 
-    - Increase in training requirements but pace of growth of knowledge > sustainable increase in training time.
-    
-    - Punish failure and reward for doing the right thing:
-        + pay for performance benefit ~ 2--4% for surgeons in one trial. 
-    
+    - Increase in training requirements
+        - downside: the pace of growth of knowledge > sustainable increase in training time.
+
     - Specialization: "There are pediatric anesthesiologists, cardiac anesthesiologists, obstetric anesthesiologists, neurosurgical anesthesiologists ..."
     
-    - Checklists for inteptitude reasons 1 and 2
+    - Punish failure and give rewards for doing the right thing:
+        + pay for performance benefit ~ 2--4% for surgeons in one trial. 
+
+    - Checklists for ineptitude reasons 1 and 2
     
     - Automating tasks or reporting of failures of adhering to guidelines
 
-    - Forcing functions: "A behavior-shaping constraint, also sometimes referred to as a forcing function or poka-yoke, is a technique used in error-tolerant design to prevent the user from making common errors or mistakes. One example is the reverse lockout on the transmission of a moving automobile." Microwave: open door to power off.
+    - Forcing functions: "A behavior-shaping constraint, also sometimes referred to as a forcing function or poka-yoke, is a technique used in error-tolerant design to prevent the user from making common errors or mistakes. One example is the reverse lockout on the transmission of a moving automobile." Microwave: open the door to power off.
         - Automation
         - Mandatory Communication.
     
-    - When working with rotating set of people
-        + Introductions help (people who know each others names work better together)
+    - When working with a rotating set of people
+        + Introductions help (people who know each other's names work better together)
         + Ask for concerns around key areas
 
 ### Volume of Surgery And Complication Rate, Other Issues in Medicine
@@ -47,7 +48,7 @@ Portions of the book suggest that this is less about checklists and about engine
 
 - By 2004, surgeons were performing some 230 million major operations annually—one for every twenty-five human beings on the planet ---
     + "Worldwide, at least seven million people a year are left disabled and at least one million dead"
-    + a bunch is avoidable --- this one from evidence from gawande's paper. 
+    + a bunch is avoidable --- this one from evidence from Gawande's paper. 
 
 - Major reasons for complications from surgery =
     + infection, bleeding, unsafe anesthesia, and what can only be called the unexpected.
@@ -64,13 +65,13 @@ Portions of the book suggest that this is less about checklists and about engine
 * Error Rate:
     - From Israel: "engineers observed patient care in ICUs for twenty-four-hour stretches. They found that the average patient required **178 individual actions per day,** ranging from administering a drug to suctioning the lungs, and every one of them posed risks. Remarkably, the nurses and doctors were observed to make an error in just **1 percent of these actions**—but that still amounted to an **average of two errors a day** with every patient"
 
-    - Half of 150k surgical deaths and 'and major complications' avoidable ("research consistently showed")
+    - Half of the 150k surgical deaths and 'and major complications' avoidable ("research consistently showed")
 
 * Infection Rates: (Most **avoidable** if you note results from Pronovost)
 
     - ICUs put five million lines into patients each year, and national statistics show that **after ten days 4 percent of those lines become infected.**
     
-    - **Line infections occur in eighty thousand people a year** in the United States and are **fatal between 5 and 28 percent of the time**, depending on how sick one is at the start. Thos who survive, stay an extra 7 days in the ICU.
+    - **Line infections occur in eighty thousand people a year** in the United States and are **fatal between 5 and 28 percent of the time**, depending on how sick one is at the start. Those who survive, stay an extra seven days in the ICU.
 
     - **After ten days with a urinary catheter, 4 percent of American ICU patients develop a bladder infection.**
 
@@ -80,7 +81,7 @@ Portions of the book suggest that this is less about checklists and about engine
 
 * "In the United States, we have nearly five million commercial buildings, almost one hundred million low-rise homes, and eight million or so high-rise residences. We add somewhere around seventy thousand new commercial buildings and one million new homes each year."
 
-* Building failure = partial or full collapse of structure. 
+* Building failure = partial or full collapse of the structure. 
 * "Ohio State University study, the United States experiences an average of just twenty serious “building failures” per year. That’s an annual avoidable failure rate of less than 0.00002 percent.
 
 ### Checklists
@@ -92,7 +93,7 @@ Portions of the book suggest that this is less about checklists and about engine
         + "Doctors are supposed to (1) wash their hands with soap, (2) clean the patient’s skin with chlorhexidine antiseptic, (3) put sterile drapes over the entire patient, (4) wear a mask, hat, sterile gown, and gloves, and (5) put a sterile dressing over the insertion site once the line is in."
         * **the ten-day line-infection rate went from 11 percent to zero.**
 
-        + Propping up head and antacids: "The proportion of patients not receiving the recommended care dropped from 70 percent to 4 percent, the occurrence of pneumonias fell by a quarter, and twenty-one fewer patients died than in the previous year."
+        + Propping up head and antacids: "The proportion of patients not receiving the recommended care dropped from 70 percent to 4 percent, the occurrence of pneumonia fell by a quarter, and twenty-one fewer patients died than in the previous year."
     
         + Michigan: "In the first month, the executives discovered that chlorhexidine soap, shown to reduce line infections, was available in less than a third of the ICUs."
 
@@ -101,16 +102,16 @@ Portions of the book suggest that this is less about checklists and about engine
         "In the Keystone Initiative’s first eighteen months, the hospitals saved an estimated $175 million in costs and more than fifteen hundred lives."
 
     * **Gawande**
-        - "Of the close to four thousand adult surgical patients we followed, more than four hundred developed major complications resulting from surgery. 56 dead. half of the complications involved infections." complication rate from 6 to 21%.
+        - "Of the close to four thousand adult surgical patients we followed, more than four hundred developed major complications resulting from surgery. 56 dead. Half of the complications involved infections." complication rate from 6 to 21%.
         - Six safety steps tracked: hospitals missed at least once in 2/3rd of the patients
-        - "The final results showed that the rate of major complications for surgical patients in all eight hospitals fell by 36 percent after introduction of the checklist. Deaths fell 47 percent. .. Infections fell by almost half." 435 to 277
+        - "The final results showed that the rate of major complications for surgical patients in all eight hospitals fell by 36 percent after the introduction of the checklist. Deaths fell 47 percent ... Infections fell by almost half." 435 to 277
     
     * **Ad hoc from Pabrai etc.**
         - Enron --- discover from company’s mandatory stock disclosures that senior leadership had sold stocks.
 
 - Construction (where people must work together):
 
-    - **Schedule of tasks:** A list all tasks that need to be completed in sequence. This list is filled out by all 16 trades, overseen by structural engineers, and sent to each for approval.
+    - **Schedule of tasks:** A list of all tasks that need to be completed in sequence. This list is filled out by all 16 trades, overseen by structural engineers, and sent to each for approval.
     
     - **Schedule of sign-offs:** To make sure stuff has been done correctly. 'submittal schedule': experts need to talk to each other about X by Y date. for instance, by Y date: diff. people have to review the condition of the elevator cars and talk about it. talk to fire-proofers by day X, talk to elevator engineers by Y, etc.
 
@@ -119,7 +120,7 @@ Portions of the book suggest that this is less about checklists and about engine
     - Anyone can flag an issue. And it will send out an email to relevant people. And the person can track progress. Each party given 3 days to sign off on.
 
 - Types of "Checklists"
-    - Basic Measurements as checklist?
+    - Basic Measurements as a checklist?
         + "Comprised of four physiological data points—body temperature, pulse, blood pressure, and respiratory rate" (these days pain is the 5th one)
     
     - Mandatory communication + sign-offs from various parties.
@@ -137,18 +138,18 @@ Portions of the book suggest that this is less about checklists and about engine
     + Free to clutter, sans-serif, etc.
     + Must be tested in real world --- or simulations of it
     + Don't list stuff people don't miss
-    + Give responsibility of checklist to #2 or someone else. Not the person in charge.
+    + Give the responsibility of checklist to #2 or someone else. Not the person in charge.
 
 ### Concern w/ Some Checklist Implementations And Some Solutions
 
-*  Incentives of follow checklists may be weak. How do you get people to follow?
+*  Incentives for following checklists may be weak. How do you get people to follow?
     -  social pressure --- checklist publicly marked as in a surgery
-    -  communicate clearly the issues and evidence on efficacy of checklists
+    -  communicate clearly the issues and evidence on the efficacy of checklists
     -  get people to own the checklists---put their name, get their ideas on it --- induce accountability
-    -  checks of whether stuff was followed and incentives and rewards based on that.
+    -  checks of whether the stuff was followed and incentives and rewards based on that.
 
-* People may stop expending their brain cells and just follow the checklist
-    - how to put in checklists that clarify that braincells imp. and incentivize that.
+* People may stop using their brain and just follow the checklist
+    - how to put in checklists that clarify that brain cells are imp. and incentivize that.
 
 * Train people to use checklists
 
@@ -174,12 +175,8 @@ incidence of pneumonia fell 48 percent. And the incidence of impetigo, a bacteri
     - on any given day he has between two and five hundred workers on-site, including people from any of sixty subcontractors.
     - 16 different trades
 
-* **India**: "The hospital had seven fully trained anesthetists, for instance, but they had to perform twenty thousand operations a year" NZ had 92 to manage same number.
+* **India**: "The hospital had seven fully trained anesthetists, for instance, but they had to perform twenty thousand operations a year" NZ had 92 to manage the same number.
 
 * **PH Brain Drain** "Manila... it turned out there was only one nurse for every four operations."
 
-* Restate professionalism as: skill + discipline (to follow the steps) + selflessness
-
-
-
-
+* Restate professionalism as skill + discipline (to follow the steps) + selflessness
