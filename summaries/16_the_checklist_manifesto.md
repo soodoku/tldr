@@ -1,6 +1,6 @@
 ### The Checklist Manifesto
 
-Beyond the usual job or organizing the material, at various places, I have expanded/amended the argument. For instance, I provide a psychological account of why some surgical checklists have worked (social pressure), and what are the potential concerns of checklists, among other things.
+Beyond the usual job of organizing the material, at various places, I have expanded/amended the argument. For instance, I provide a psychological account of why some surgical checklists have worked (social pressure), and what are the potential concerns of checklists, among other things.
 
 Portions of the book suggest that this is less about checklists and about engineering processes that reduce errors. Any process can be called a checklist---you do X followed by Y followed by Z---but that is stretching it.
 
