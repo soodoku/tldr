@@ -180,3 +180,8 @@ incidence of pneumonia fell 48 percent. And the incidence of impetigo, a bacteri
 * **PH Brain Drain** "Manila... it turned out there was only one nurse for every four operations."
 
 * Restate professionalism as skill + discipline (to follow the steps) + selflessness
+
+
+### Cool Examples
+
+* [The Startup Idea checklist](https://www.defmacro.org/2019/03/26/startup-checklist.html)      
