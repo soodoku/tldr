@@ -46,26 +46,100 @@ I am writing these notes w/ the purpose of making the points accessible to peopl
     
     - Why Don't I have the power?
         + Math?
-        + Multiple testing means something is significant. And if that is publishable, people don't care.
+        + Incentives: Smaller is cheaper. And multiple testing means something is significant. And if that is publishable, people don't care.
 
     - Consequences:
         + Stat. insig. doesn't mean much either.
+    
+        + When low power, stat. sig. mostly reflects luck. And you will always overest. effect size. So type M (magnitude) error -> **Winner's curse**
+
+        + In fast-moving fields such as genetics, the earliest published results often the most extreme because journals are most interested in publishing new and exciting results. 
+
         + Right turns on red
             * Because of oil crisis in 1973
             * study of 20 intersections. there were 308 accidents at the intersections; after, there were 337 in a similar length of time. But this difference was not statistically significant.
             * several studies found similar small increases but insig.
             * later studies showed: studies finally showed that among incidents involving right turns, collisions were occurring roughly 20% more frequently, 60% more pedestrians being run over, and twice as many bicyclists were being struck.
-            
+        
+        + Kanazawa claimed the most beautiful parents have daughters 52% of the time, but the least attractive parents have daughters only 44% of the time. Fixed analysis found that his data showed attractive parents were indeed 4.7% more likely to have girls—but the confidence interval stretched from 13.3% more likely to 3.9% less likely.
+
+    - Funny examples
+        + If you take school level averages, it can be the case that the smallest schools are the worst and the best performing.
+        + Counties w/ the lowest rate of kidney cancer are the smallest midwest counties. Smallest midwest counties also have the highest rate of kidney cancer.
+
     - Potential Fixes: 
         - Perhaps power should be part of the IRB review. 
+        
         - Use CI to see if measurement too imprecise to be useful
             + to place an upper bound
+        
         - CI assurance --- how often should the CI beat the target width
             + Accuracy in Parameter Estimation (AiPE)
+        
+        - fraction of positive votes in a comment thread or a review has same issues. perhaps sort comments by the bottom of the CI
 
-2. Multiple Testing
+2. Pseudoreplication
+    - What is it? Collecting data on same people (or from same circumstance---ala fish from the same aquarium, etc.) and treating it as iid.
+        + another variant: want to know if song in dialect A more attractive than in dialect B. but use only one song. generalizability is limited.
+        + data collected from one lab., machine, day, etc. 
 
-3.
+    - Fixes:
+        + avg. per person
+        + cluster s.e.
+
+3. The p-value and the base rate fallacy
+
+    - What is it? Say you try 100 anti-cancer meds of which only 10 actually work. You set p = .05. And say power = .8. So you detect 8 out of 10. You also get 5 false positives because of the p-value (this is not quite right but fine). Your success rate = 8/13. False discovery rate ~ 38%.
+    
+        - If base rate is low, FP is a serious concern
+    
+        - p = .0001 != 1 in 10k chance that the result is a fluke. Nope. Depends on the base rate. p = chance of seeing a result as extreme as this if null is true. it doesn't tell us the chance that the medication works.
+    
+    - Consequences
+        + where base rate is low, likely that most p < .05 are false
+        + classic breast cancer example
+
+    - Measurement error w/ more opportunities for FPs than FNs ala misinformation, self-reported use of guns in self-defense, etc.
+        + Be better at measuring rare phenomenon. A lot more care is needed.
+        + "The NCVS also tries to detect misremembered dates (a common problem) by interviewing the same respondents periodically. If the respondent reports being the victim of a crime within the last six months, but six months ago they reported the same crime a few months prior, the interviewer can remind them of the discrepancy."
+
+4. Correction for Multiple Testing
+    
+    - What is it? 
+        - FP increases. Chance of atleast one FP if sig. = .05 and you conduct n independent tests = 1 - (1 - .05)^n
+    
+    - How Common?
+        + A survey of medical trials in the 1980s found that the average trial made 30 therapeutic comparisons.
+
+    - Fixes
+        - Bonferroni - If you conduct n tests, divide sig. by n. So .05/n
+            + Assumes all null hypotheses are true
+        - Benjamini-Hochberg:
+            + get p-value of each test.
+            + sort in ascending order with order denoted by i
+            + choose fdr --- q
+            + number of tests = m
+            + find largest p s.t. p \le iq/m
+                * think about basically i/m as what you are pro-rating by
+
+5. Diff. b/w Sig. and Non sig. may not be sig.
+    - What it is?
+        - See Gelman..
+        - Explanation: 
+            - dichotomization creates pathologies. .05 is sig. and .06 is not. It doesn't mean that one is diff. from the other.
+        - Say two drugs have same effects. Say power is B for both. Chance we will discover one effect and not another = B (1 - B) + B (1 - B) (2 drugs so you do it twice)
+    
+    - How Common?:
+        + Neuroscientists screw up 50% of the time
+
+    - Fixes
+        + Use C.I.
+        + 
+
+### Misc.
+
+1. Overprecision
+    - "Huff agrees that expressing the result as a mortality ratio is perfectly proper but states: It does have an unfortunate result: it makes it appear that we now know the actual mortality ratio of two kinds of groups right down to a decimal place." Huff's main point was about beta without CI and just p, which makes it hard to know but there is a Gelmanesque point.
 
 ### Consequences
 
