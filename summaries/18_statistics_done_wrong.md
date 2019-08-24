@@ -94,7 +94,15 @@ I am writing these notes w/ the purpose of making the points accessible to peopl
         - If the base rate is low, FP is a serious concern
     
         - p = .0001 != 1 in 10k chance that the result is a fluke. Nope. Depends on the base rate. p = chance of seeing a result as extreme as this if null is true. it doesn't tell us the chance that the medication works.
-    
+        
+        - Math:
+            + $\pi$ = "null" hypothesis is not true
+            
+            + $p(tp | stat_sig) = p (stat_sig | tp) * p (tp) / p (stat_sig)$
+                             $= ((1 - \beta) * \pi )/ ( \alpha (1 - \pi) + \beta (1 - \pi))$
+
+            + if $\pi$ is 1/3, then $p(tp | stat_sig)$ ~ 89\%. If $\pi = 1/500$, batting average ~ 3\%.
+
     - Consequences
         + where base rate is low, likely that most p < .05 are false
         + classic breast cancer example
