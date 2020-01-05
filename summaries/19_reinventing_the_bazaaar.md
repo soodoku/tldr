@@ -3,11 +3,12 @@
 ### Observations About the Economy
 
 * Even in the most market-oriented economy, a majority of transactions do not actually go through markets.
-    - Unpaid work: full-time homemaker in the United States, by one estimate, produces outputs that if priced would be worth about $17,000 per year.
-    - gov. work like police + road building --- about a fifth of most modern economies
-    - Within firms: more transactions happen within firm that across firms
+    - **Unpaid work**: full-time homemaker in the United States, by one estimate, produces outputs that if priced would be worth about $17,000 per year.
+    - **Gov. work like police + road building** --- about a fifth of most modern economies
+    - **Within firms**: more transactions happen within firm that across firms
 
-* **Primitive Markets** 
+* **"Primitive" Markets**
+
     * The stallholders are not just retailers but also wholesalers: they buy in bulk to sell small quantities to consumers, and they aggregate small purchases for resale to other sellers. 
 
     * They organize the transportation of goods—not a simple matter in a country with inadequate roads and railroads—serving as intermediaries between widely scattered producers and consumers. 
