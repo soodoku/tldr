@@ -24,52 +24,65 @@
 ### What is a Market?
 
 A market for something exists if there are people who want to buy it and people who want to sell it.:
+
     * Decision-making autonomy is key...They are free to make decisions—to buy, to sell, to exert effort, to invest—that reflect their own preferences. 
+
     * Their choices are not completely free though: they are constrained by the extent of their resources and by the rules of the marketplace.
-    * Being able to veto any deal does convey some bargaining power, but not necessarily much.
-    * Competition curbs power
-
-### What is Market Design?
-
-Market design consists of the mechanisms that organize buying and selling; channels for the flow of information; state-set laws and regulations that define property rights and sustain contracting; and the market’s culture, its self-regulating norms, codes, and conventions governing behavior.
-
-Transaction Costs
-
-* Comparing alternative sellers and choosing among them takes effort by the buyer. The quality of the goods for sale is often not immediately apparent, and the buyer may have to go to some trouble to evaluate it.
-* costs. Monitoring work costs time and money. The enforcement of contracts and the prevention and settling of disputes do
-Unemployment exists, for example, not simply because there are too few jobs, but also because transaction costs in the labor market prevent some employers and job seekers from connecting with each other.
-
-#### Top Down or Formal
-
-* government’s role in market design is the defining of property rights.
-
-*  South Africa passed a law in 1997 to make essential medicines affordable by
-compulsory licensing
 
 ### Markets Are Inescapable
 
-* Rwandans in refugee camps in Zaire (now the Democratic Republic of Congo), having commercial activity. Some eighty-two thousand businesses mushroomed in the camps by 1995, according to a report by the United Nations High Commissioner for Refugees.
+* Rwandans in refugee camps in Zaire (now the Democratic Republic of Congo), having commercial activity. Some **eighty-two thousand businesses** mushroomed in the camps by 1995, according to a report by the United Nations High Commissioner for Refugees.
                 
-* Markets sprang up, similarly, in prisoner-of-war camps during the Second World War. The prisoners traded their Red Cross rations of food, cigarettes, and clothing, according to R. A. Radford,
+* Markets sprang up, similarly, in prisoner-of-war camps during the Second World War. The prisoners traded their Red Cross rations of food, cigarettes, and clothing, according to R. A. Radford.
 
-* Food prices rose whenever a new group of hungry prisoners arrived. In the early days, prices ... food delivery, but later the prisoners began to hold stocks of food, which smoothed
+    * Food prices rose whenever a new group of hungry prisoners arrived. In the early days, prices ... food delivery, but later the prisoners began to hold stocks of food, which smoothed
 
-* alcohol consumption end of the Prohibition era, was still about two-thirds its pre-Prohibition level.
+* **Alcohol consumption end of the Prohibition era was still about two-thirds its pre-Prohibition level.**
 
 ### Markets in Everything
 
 * 1500 listed under the heading “Victorian tradecards”—which, it turns out, are a nineteenth-century version of junk mail.
 
+### Market Design
+
+#### Definition
+
+* Market design consists of the mechanisms that organize buying and selling; channels for the flow of information; state-set laws and regulations that define property rights and sustain contracting; and the market’s culture, its self-regulating norms, codes, and conventions governing behavior.
+
+* A workable platform has five elements: 
+    
+    * information flows smoothly
+    * property rights are protected
+    * people can be trusted to live up to their promises
+    * side effects on third parties are curtailed
+    * competition is fostered.
+
+#### Transaction Costs
+
+* Comparing alternative sellers and choosing among them takes effort by the buyer. The quality of the goods for sale is often not immediately apparent, and the buyer may have to go to some trouble to evaluate it.
+
+* Monitoring work costs time and money. The enforcement of contracts and the prevention and settling of disputes etc.
+
+* Unemployment exists, for example, not simply because there are too few jobs, but also because transaction costs in the labor market prevent some employers and job seekers from connecting with each other.
+
+#### Competition
+
+* Being able to veto any deal does convey some bargaining power, but not necessarily much. Competition curbs power.
+
+#### Property Rights
+
+* Top Down or Formal
+
+    * Government’s role in market design is the defining of property rights.
+
+    * South Africa passed a law in 1997 to make essential medicines affordable by compulsory licensing
+
 ### Market Support
 
 * Entire sectors of a modern economy are devoted to organizing transactions. The retail and wholesale trades and the advertising, insurance, and finance industries exist not to manufacture things but to facilitate transacting. These activities ... accounting in the United States for one-fourth of the gross national product.
 
-### Principles of Market Design
 
-A workable platform has five elements: information flows smoothly; property rights are protected; people can be trusted to live up to their promises; side
-effects on third parties are curtailed; and competition is fostered.
-
-### Innovations
+### Innovations in Markets
 
 * In 1792, one John Sutton, sensing an opportunity, organized a securities exchange at 22 Wall Street, which was then a muddy lane. Sellers would bring in their stocks and bonds each morning, and at noon Sutton would auction them for a commission. then they would hold their own sales, offering the securities at lower commission rates and taking business away from Sutton. This practice soon became self-defeating, as it meant too few securities
 To solve this problem, twenty-four of Wall Street’s most prominent brokers agreed to form a new auction. They would trade securities at fixed fees. Membership in the stock exchange was restricted and lucrative, so the brokers were able to regulate themselves on the sanction of Members who defaulted on contracts were barred. Nonmembers who reneged on contracts with members were blacklisted.
@@ -109,8 +122,3 @@ being sold and sometimes a potential price for those shares. Investors then stat
 brand names, trademarks, wholesalers, advertising, 
     - yellow pages
     - 
-
-
-
-
-
