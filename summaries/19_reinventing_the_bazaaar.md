@@ -65,6 +65,14 @@ A market for something exists if there are people who want to buy it and people 
 
 * Unemployment exists, for example, not simply because there are too few jobs, but also because transaction costs in the labor market prevent some employers and job seekers from connecting with each other.
 
+*  There are search costs: the time, effort, and money spent learning what is available where for how much. And there are evaluation costs, arising from the difficulties buyers have in assessing quality.
+
+* repeat business relationships are only a partial solution to informational problems.
+
+brand names, trademarks, wholesalers, advertising, 
+    - yellow pages
+    - 
+
 #### Competition
 
 * Being able to veto any deal does convey some bargaining power, but not necessarily much. Competition curbs power.
@@ -115,10 +123,3 @@ being sold and sometimes a potential price for those shares. Investors then stat
     - Consumption of drugs remains flat. 
     - Anti-ulcer: 10% increase in price 7% lower demand
 
-*  There are search costs: the time, effort, and money spent learning what is available where for how much. And there are evaluation costs, arising from the difficulties buyers have in assessing quality.
-
-* repeat business relationships are only a partial solution to informational problems.
-
-brand names, trademarks, wholesalers, advertising, 
-    - yellow pages
-    - 
