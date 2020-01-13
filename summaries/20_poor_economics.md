@@ -8,3 +8,7 @@ the fifty countries where most of the poor live is 16 Indian rupees per person p
 
 
 
+### Fun Facts
+
+* But in Udaipur, we visited over 100 facilities once a week at some random time during working hours for a year. We found them closed 56 percent of the time. And in only 12 percent of the cases was this because the nurse was on duty somewhere else near the center.
+
