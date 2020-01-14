@@ -12,3 +12,9 @@ the fifty countries where most of the poor live is 16 Indian rupees per person p
 
 * But in Udaipur, we visited over 100 facilities once a week at some random time during working hours for a year. We found them closed 56 percent of the time. And in only 12 percent of the cases was this because the nurse was on duty somewhere else near the center.
 
+Das and Hammer describe it as the 3-3-3 rule: The median interaction lasts three minutes; the provider asks three questions and occasionally performs some examinations.
+
+patient is then provided with three medicines (providers usually dispense medicine directly rather than writing prescriptions). Referrals are rare (fewer than 7 percent of the time); patients are given instructions only about half the time and only about one-third of doctors offer any guidance regarding follow-up. As if this is not bad enough, things
+                
+than in the private sector. Public providers spend about two minutes per patient on average.They ask fewer questions, and in most cases don’t touch the patient at all. Mostly, they just ask the patient for a diagnosis and then treat the patient’s self-diagnosis.
+
