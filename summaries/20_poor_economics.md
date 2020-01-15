@@ -18,3 +18,5 @@ patient is then provided with three medicines (providers usually dispense medici
                 
 than in the private sector. Public providers spend about two minutes per patient on average.They ask fewer questions, and in most cases don’t touch the patient at all. Mostly, they just ask the patient for a diagnosis and then treat the patient’s self-diagnosis.
 
+* the world, child absentee rates vary between 14 percent and 50 percent.
+
