@@ -6,6 +6,7 @@
     - **Unpaid work**: full-time homemaker in the United States, by one estimate, produces outputs that if priced would be worth about $17,000 per year.
     - **Gov. work like police + road building** --- about a fifth of most modern economies
     - **Within firms**: more transactions happen within firm that across firms
+        - Well over 50% of the GDP is worker comp. in the U.S.
 
 * **"Primitive" Markets**
 
@@ -41,11 +42,9 @@ A market for something exists if there are people who want to buy it and people 
 
 ### Markets in Everything
 
-* 1500 listed under the heading “Victorian tradecards”—which, it turns out, are a nineteenth-century version of junk mail.
+* 1500 listings on ebay under the heading “Victorian tradecards”—which, it turns out, are a nineteenth-century version of junk mail.
 
 ### Market Design
-
-#### Definition
 
 * Market design consists of the mechanisms that organize buying and selling; channels for the flow of information; state-set laws and regulations that define property rights and sustain contracting; and the market’s culture, its self-regulating norms, codes, and conventions governing behavior.
 
@@ -73,9 +72,22 @@ brand names, trademarks, wholesalers, advertising,
     - yellow pages
     - 
 
+* Sutton: stock exchange at Wall Street. Earlier stock trading happened haphazardly via word of mouth of newspaper. Sutton created a 'stock exchange'---sellers and buyers would assemble at one place and one time and Sutton would auction off.
+    - Sutton charged a commission, which was then undercut as others started holding these markets. 
+    - 21 prominent brokers came together to create a new auction. Agreed to transact on fixed fees and only among themselves.
+        - setup rules: merchants defaulting on contracts were barred.
+
 #### Competition
 
 * Being able to veto any deal does convey some bargaining power, but not necessarily much. Competition curbs power.
+
+* The logic of competition. 
+    - must buy X
+    - cost of prod. = $5
+    - your cut-off price = $10. 
+    - if 1 seller, you pay $10.
+    - if search cost = 0, eval. of quality costs $0, etc., you see bids by several merchants, you pay $5
+    - if search cost != 0, merchants price at $10. price-cutter gets no compensating boost in sales.
 
 #### Property Rights
 
@@ -85,10 +97,19 @@ brand names, trademarks, wholesalers, advertising,
 
     * South Africa passed a law in 1997 to make essential medicines affordable by compulsory licensing
 
+### Trust
+
+* 5th century b.c., Croesus starts issuing gold and silver coins of guaranteed purity
+
+* Moneyback guarantee (likely invented by Potter Palmer, the founder of Marshall Field and Co.)
+
 ### Market Support
 
 * Entire sectors of a modern economy are devoted to organizing transactions. The retail and wholesale trades and the advertising, insurance, and finance industries exist not to manufacture things but to facilitate transacting. These activities ... accounting in the United States for one-fourth of the gross national product.
 
+### Political Economy
+
+[Pharma] subject[s] the U.S. government to fierce lobbying, in part to counter accusations of price gouging. During the election campaign of 2000, the pharmaceutical industry’s spending on lobbying, $167 million ...
 
 ### Innovations in Markets
 
@@ -103,23 +124,46 @@ being sold and sometimes a potential price for those shares. Investors then stat
 
 ### Market Failures
 
+#### Concern
+
 * Of the 33 million people infected worldwide as of 2000, 23 million were in Africa. Every single day, AIDS was killing an average of 5,500 Africans.
 
 * Antiretroviral drugs successfully countered AIDS. U.S. deaths from AIDS fell 70 percent between 1996 and 1998.
 
-* If the key discoveries cited in biomedical patents, just 17% came from industry
+* drug to cure sleeping sickness discovered accidentally when looking for an anti-cancer drug. but patent holder didn't care about the market so production ran short till its use discovered in preventing hair from growing.
 
 * Medicines against tropical diseases make up a minuscule 1 percent of new drug patents.
 
+#### Patent Economy
+
+* Anti-ulcer: 10% increase in price 7% lower demand
+    - if you have monopoly (patent), you can price much above the prod. cost
+
+#### Profits
+
 * In profitability, the pharmaceutical industry ranked comfortably first in the 1999 Fortune 500 list of the top global companies. Its profits were 18 percent of revenues, putting it far ahead of the second-place industry, diversified financial firms, whose profits were 11 percent of revenues;
 
-* The industry’s marketing costs in the United States are estimated to be more than $8,000 per physician.
+#### Research Funding and Innovation
 
-*  They subject the U.S. government to fierce lobbying, in part to counter accusations of price gouging. During the election campaign of 2000, the pharmaceutical industry’s spending on lobbying, $167 million, exceeded
+* The industry’s marketing costs in the United States are estimated to be more than $8,000 per physician.
+    - pharmacia corp., which makes eye drops for glaucoma, in one year spent 2x the amount of marketing and admin. than research. (total money spent on marketing and admin = 40% of revenue)
+    - GSK spent 37% of revenue on marketing and admin. and 14% on research in 2000
+
+* If the key discoveries cited in biomedical patents, just 17% came from industry
 
 * via the National Institutes of Health (NIH) and other federal agencies totaled $18 billion in 2000. Universities, foundations, and charities spent another $10 billion or amounts add up to more than the research spending of all the U.S. pharmaceutical companies, which was $22.5 billion.
 
-* Pharma:
-    - Consumption of drugs remains flat. 
-    - Anti-ulcer: 10% increase in price 7% lower demand
+* Gov. funded research
+    - Of the key discoveries cited in biomedical patents, just 17 percent came from industry, according to a study by the National Science Foundation.
+    - green revolution --- research from consortia of governments
 
+### Misc. 
+
+* "God is in the details," declared the architect Ludwig Mies van der Rohe. Tradespeople building to architects’ plans would habitually grumble that “the Devil is in the details,” and Mies van der Rohe was inverting their complaint. --- Reinventing the bazaar
+
+* Futures market
+    - 1260 in Nagoya, Japan. Futures in rice. Farmers can get paid before harvest.
+
+* In a 1781 letter to his father, Mozart said, doubtless exaggerating somewhat, “Believe me, my sole purpose is to make as much money as possible; for after good health it is the best thing to have.”
+
+* "Buying and selling is therefore a form of creation." --- John McMillan
