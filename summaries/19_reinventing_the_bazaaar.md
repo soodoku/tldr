@@ -58,19 +58,46 @@ A market for something exists if there are people who want to buy it and people 
 
 #### Transaction Costs
 
-* Comparing alternative sellers and choosing among them takes effort by the buyer. The quality of the goods for sale is often not immediately apparent, and the buyer may have to go to some trouble to evaluate it.
+* Two types of information costs:
+    - search costs: the time, effort, and money spent learning what is available where for how much. . 
+    - evaluation costs: 
+        - The quality of the goods for sale is often not immediately apparent, and the buyer may have to go to some trouble to evaluate it.
+        - Monitoring work costs time and money. 
 
-* Monitoring work costs time and money. The enforcement of contracts and the prevention and settling of disputes etc.
+* price dispersion measured by the difference between the highest and lowest prices charged for a particular item as a percentage of its average price, the typical dispersion, according to one study, was 37 percent for books and 25 percent for compact discs. reasons =
+    - shoppers are lazy
+    - can't observe quality
+
+* market of lemons:
+    
+    * Imagine it costs a seller $1.00 to supply a quart of high-quality milk, and $.60 to supply a quart of watered down milk. A typical buyer would willingly pay up to $1.20 for good milk and $.80 for inferior milk. In either case mutual gains could be obtained from trade. If the buyer could recognize the milk’s quality, both buyer and seller would benefit from a sale at a price somewhere between $.60 and $.80 for the low-quality milk and between $1.00 and $1.20 for the high-quality milk. If the buyer is unable to distinguish quality, however, both grades of milk would sell for the same price. Suppose all vendors look alike to our buyer, and he believes that 60 percent of them water down their milk. Then the most he would pay for a quart of milk is $.96, and probably less. (The arithmetic of this is that there is a 40 percent chance the milk is worth $1.20 to the buyer and a 60 percent chance it is worth $.80, so on average it is worth $1.20 0.4 + $.80 0.6, which equals $.96.) But this situation is not sustainable. It costs $1.00 to supply the good milk.
+
+    * Gresham's law --- low-quality drives out high-quality
+
+* search cost and competition. 
+    - must buy X
+    - cost of prod. = $5
+    - your cut-off price = $10. 
+    - if 1 seller, you pay $10.
+    - if search cost = 0, eval. of quality costs $0, etc., you see bids by several merchants, you pay $5
+    - if search cost != 0, price-cutter gets less compensating boost in sales. 
+    - math error: if search cost is say .10 per sample and there are 50 sellers and 1 seller is selling at $10. expected return per search = (1/50)*$5 or 10 cents.
+    - the price cutter brings the price back up to the extent he doesn't see compensating revenue
+    - merchants sell at $15 knowing everyone else is doing the same
+    - upshot: small transaction costs can cause big effects
+
+* solutions to search and eval. costs:
+    * repeat business relationships
+    * brand names---can charge for assurance of quality
+    * trademarks 
+    * advertising---apparently celebrities cue company's confidence that it will recoup its money 
+    * yellow pages
+    * consumer reports, etc.
+    * real estate agents
+
+* The enforcement of contracts and the prevention and settling of disputes etc.
 
 * Unemployment exists, for example, not simply because there are too few jobs, but also because transaction costs in the labor market prevent some employers and job seekers from connecting with each other.
-
-*  There are search costs: the time, effort, and money spent learning what is available where for how much. And there are evaluation costs, arising from the difficulties buyers have in assessing quality.
-
-* repeat business relationships are only a partial solution to informational problems.
-
-brand names, trademarks, wholesalers, advertising, 
-    - yellow pages
-    - 
 
 * Sutton: stock exchange at Wall Street. Earlier stock trading happened haphazardly via word of mouth of newspaper. Sutton created a 'stock exchange'---sellers and buyers would assemble at one place and one time and Sutton would auction off.
     - Sutton charged a commission, which was then undercut as others started holding these markets. 
@@ -81,13 +108,7 @@ brand names, trademarks, wholesalers, advertising,
 
 * Being able to veto any deal does convey some bargaining power, but not necessarily much. Competition curbs power.
 
-* The logic of competition. 
-    - must buy X
-    - cost of prod. = $5
-    - your cut-off price = $10. 
-    - if 1 seller, you pay $10.
-    - if search cost = 0, eval. of quality costs $0, etc., you see bids by several merchants, you pay $5
-    - if search cost != 0, merchants price at $10. price-cutter gets no compensating boost in sales.
+* for effective competition, buyers should be able to easily compare choices
 
 #### Property Rights
 
@@ -167,3 +188,5 @@ being sold and sometimes a potential price for those shares. Investors then stat
 * In a 1781 letter to his father, Mozart said, doubtless exaggerating somewhat, “Believe me, my sole purpose is to make as much money as possible; for after good health it is the best thing to have.”
 
 * "Buying and selling is therefore a form of creation." --- John McMillan
+
+* People who comparison shop do a favor to everyone else. Sellers more likely to cut costs as they can gain revenue from such people.
