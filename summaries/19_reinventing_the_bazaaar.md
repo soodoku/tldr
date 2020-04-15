@@ -190,6 +190,16 @@ A market for something exists if there are people who want to buy it and people 
     - Licenses are inter-dependent
     - Multiple auctions open for diff. licenses and all auctions remain open till there is bidding on any one. Bidding happens in rounds. 
 
+* Dango is the name given in Japan to a negotiation among bidders to decide which firm will get the job. The designated firm submits a high bid and its “rivals” bid still higher, maintaining the illusion of competition. For the firms this is a congenial way to do business. Under dango each firm knows that it will eventually “win” a contract, without having to go to the trouble of competing, and dango spares the firms the discomfort of low prices.
+    - "According to tax agency data, the Japanese construction industry each year spends $5 billion or more on entertainment."
+
+### Externalities
+
+* Vickrey (of the auction fame) proposed congestion tax
+    - hard to set the tax exactly right
+
+* Coase: define property rights and let people trade
+
 ### Innovations in Markets
 
 * In 1792, one John Sutton, sensing an opportunity, organized a securities exchange at 22 Wall Street, which was then a muddy lane. Sellers would bring in their stocks and bonds each morning, and at noon Sutton would auction them for a commission. then they would hold their own sales, offering the securities at lower commission rates and taking business away from Sutton. This practice soon became self-defeating, as it meant too few securities
@@ -201,9 +211,15 @@ being sold and sometimes a potential price for those shares. Investors then stat
 
 ### Market Failures
 
-* students asked to divide $10. Breakdown of the bargaining, with both bargainers receiving nothing, was surprisingly common: it occurred in one-fourth of the negotiations. In the competition experiments (10 bids), the money was always successfully divided, and the bids were driven down to a few cents, meaning the seller got most of the money.
+#### Concern 1
 
-#### Concern
+* Externalities  ~ fishing etc.
+    - part of the problem is that many gov. subsidize fishing -> overcapacity -> "So heavy is the subsidization that, according to the FAO, $90 billion is spent each year around the world to catch $70 billion worth of fish"
+    - solutions:
+        + social norms
+        + quotas
+
+#### Concern 2
 
 * Of the 33 million people infected worldwide as of 2000, 23 million were in Africa. Every single day, AIDS was killing an average of 5,500 Africans.
 
@@ -231,6 +247,27 @@ being sold and sometimes a potential price for those shares. Investors then stat
 * Alternate ways to spur innovation
     - research tournaments. innovation need not be 'complete.' think DARPA challenges.
     - patent buyout
+
+#### Managing Sports --- No good solution
+
+* returns ~ f(competitive, star_power, home_team)
+* If team level, say we start with one weak team, it may harm gate tickets for everyone else. it can be that the total payoffs for the teams are lower.
+* fixes:
+    - rookie draft in Am. football, worst team gets the first pick  
+        + ineffective as rich teams buy best players.
+    - reserve clause, bound the player for the career to a team (baseball)
+        + ruled illegal as limited player salaries. ineffective.
+    - salary cap (NBA and NFL)
+        + transfer or earnings from players to owners
+    - revenue sharing
+        + NFL does most.
+    - multiple divisions w/ relegation
+    - transfer fees
+        + not v. successful
+
+### Corruption
+
+* If multiple agencies are corrupt, it is a bigger problem
 
 #### Profits
 
@@ -272,5 +309,6 @@ being sold and sometimes a potential price for those shares. Investors then stat
 
 * The U.S. Federal Highway Administration estimated that in 2000 the negative spillovers from driving—the costs of congestion, pollution, and accidents—totaled $446 billion. $108 B --- insurance premiums, etc. rest = externality. ~ 10 cents/mi
 
-* Vickrey (of the auction fame) proposed congestion tax
-    - hard to set the tax exactly right
+* students asked to divide $10. Breakdown of the bargaining, with both bargainers receiving nothing, was surprisingly common: it occurred in one-fourth of the negotiations. In the competition experiments (10 bids), the money was always successfully divided, and the bids were driven down to a few cents, meaning the seller got most of the money.
+
+
