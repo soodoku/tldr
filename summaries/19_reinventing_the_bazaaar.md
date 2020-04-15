@@ -86,16 +86,24 @@ A market for something exists if there are people who want to buy it and people 
     - merchants sell at $15 knowing everyone else is doing the same
     - upshot: small transaction costs can cause big effects
 
-* solutions to search and eval. costs:
+* solutions to search and eval. costs (should include whether or not someone will pay up):
     * repeat business relationships
+        - concern for future. 
+            - from poor econ.: payoff from reneging > cost, a reason why ROSCA doesn't get big 
     * brand names---can charge for assurance of quality
+        - mcdonald's -> work on consistency
     * trademarks 
+    * showy offices
     * advertising---apparently celebrities cue company's confidence that it will recoup its money 
     * yellow pages
     * consumer reports, etc.
     * real estate agents
+    * contracts, enforcement from governing associations, gov.
 
-* The enforcement of contracts and the prevention and settling of disputes etc.
+* people who don't pay
+    - publicize info. on people who don't repay loans. ala GoFish.
+        - can be a service 
+    - The enforcement of contracts and the prevention and settling of disputes etc.
 
 * Unemployment exists, for example, not simply because there are too few jobs, but also because transaction costs in the labor market prevent some employers and job seekers from connecting with each other.
 
@@ -110,6 +118,19 @@ A market for something exists if there are people who want to buy it and people 
 
 * for effective competition, buyers should be able to easily compare choices
 
+* the price under competition is the second lowest price for that is when the competition stops
+    - same w/ auctions
+
+* In the late 1980s, television rights for all of English soccer were negotiated for £2.5 million. Then, an upstart television provider, BSkyB, injected some bidding competition, to such an extent that in 1992, contracted with it for £45 million per year; in 2000 the bidding for a three-year deal rocketed to £537 million per year.
+
+#### Uncertain Value
+
+* value of a product = private + common (what you think others will pay)
+    - in auction, people may overestimate common value -> winner's curse
+    - in an open auction, people learn what X is worth to others. 
+    - in closed auction, people bid lower to avoid winner's curse
+        + fix that by using second price
+
 #### Property Rights
 
 * Top Down or Formal
@@ -117,6 +138,20 @@ A market for something exists if there are people who want to buy it and people 
     * Government’s role in market design is the defining of property rights.
 
     * South Africa passed a law in 1997 to make essential medicines affordable by compulsory licensing
+
+### Ownership
+
+* Right to residual returns where residual = anything beyond what the owner has committed to employees or creditors.
+
+* Explains why small biz. more innovative than larger biz.
+    - In large biz., head of division's upside capped at some number. 
+
+* Growth in prod. in China due to switch to ind. ownership
+    - prod. in '78 apparently lower than in '49
+    - Xiaogang
+    - 83 --- ind. farming consistent w/ socialism
+    - total rural poor declined by 170M b/w 78 and 84 --- WB
+    - no direct ownership still. people are contracted out the land. initially for 3 years and then for 15 years. 
 
 ### Trust
 
@@ -132,18 +167,41 @@ A market for something exists if there are people who want to buy it and people 
 
 [Pharma] subject[s] the U.S. government to fierce lobbying, in part to counter accusations of price gouging. During the election campaign of 2000, the pharmaceutical industry’s spending on lobbying, $167 million ...
 
+### Auctions
+
+*  Dutch Auction: As each lot of flowers is towed by, the clock’s hand starts at a high price and rotates through lower prices until one of the bidders stops it with a push of a button.
+
+* Closed -> second-price
+
+* Open > Closed
+    - bid reflects your + other people's info.
+
+* Efficiency -> Fixed end time
+    - ebay allows people to set the max they are willing to bid
+    - amazon: if last second bids or sniping, auction closing time pushed further out until 10 min. with no new bids
+
+* Open issues -> shill bidding -- get someone else to bid up prices
+
+* To solve trust
+    - ratings, escrow account services which hold money till X delivered, appraisal companies, etc.
+
+* Simultaneous ascending auction: 
+    - Used for selling rights for wireless etc.
+    - Licenses are inter-dependent
+    - Multiple auctions open for diff. licenses and all auctions remain open till there is bidding on any one. Bidding happens in rounds. 
+
 ### Innovations in Markets
 
 * In 1792, one John Sutton, sensing an opportunity, organized a securities exchange at 22 Wall Street, which was then a muddy lane. Sellers would bring in their stocks and bonds each morning, and at noon Sutton would auction them for a commission. then they would hold their own sales, offering the securities at lower commission rates and taking business away from Sutton. This practice soon became self-defeating, as it meant too few securities
 To solve this problem, twenty-four of Wall Street’s most prominent brokers agreed to form a new auction. They would trade securities at fixed fees. Membership in the stock exchange was restricted and lucrative, so the brokers were able to regulate themselves on the sanction of Members who defaulted on contracts were barred. Nonmembers who reneged on contracts with members were blacklisted.
-
-*  Dutch Auction: As each lot of flowers is towed by, the clock’s hand starts at a high price and rotates through lower prices until one of the bidders stops it with a push of a button. Computers then automatically organize the flowers’ delivery to the buyer’s address.
 
 * Hambrecht: open IPOs --- even in 2002 people were talking about this
      In a Dutch auction, a company reveals the maximum amount of shares
 being sold and sometimes a potential price for those shares. Investors then state the number of shares they want and at what price. Once a minimum clearing price is determined, investors who bid at least that price are awarded shares. If there are more bids than shares available, allotment is on a pro-rata basis--awarding a percent of actual shares available based on the percent bid for--or a maximum basis, which fills the maximum amount of smaller bids by setting an allocation for the largest bids 
 
 ### Market Failures
+
+* students asked to divide $10. Breakdown of the bargaining, with both bargainers receiving nothing, was surprisingly common: it occurred in one-fourth of the negotiations. In the competition experiments (10 bids), the money was always successfully divided, and the bids were driven down to a few cents, meaning the seller got most of the money.
 
 #### Concern
 
@@ -159,6 +217,20 @@ being sold and sometimes a potential price for those shares. Investors then stat
 
 * Anti-ulcer: 10% increase in price 7% lower demand
     - if you have monopoly (patent), you can price much above the prod. cost
+
+* Patent/Copyright is legally sanctioned restraint on trade
+    - a license to overcharge
+        + e.g.,  For books still under copyright, like The Grapes of Wrath and For Whom the Bell Tolls, the list price of the American paperback edition is $12 and up. Books out of copyright, like Tom Sawyer and Pride and Prejudice, have a list price of around $5 in mass-market editions and around $8 in higher-quality paperback editions.
+
+* Spending on software, etc. didn't increase substantially when patent laws for software brought into place in 1980s
+
+* Business methods became patentable in 1998
+    - one-click
+    - 'reverse auction' by priceline
+
+* Alternate ways to spur innovation
+    - research tournaments. innovation need not be 'complete.' think DARPA challenges.
+    - patent buyout
 
 #### Profits
 
@@ -190,3 +262,15 @@ being sold and sometimes a potential price for those shares. Investors then stat
 * "Buying and selling is therefore a form of creation." --- John McMillan
 
 * People who comparison shop do a favor to everyone else. Sellers more likely to cut costs as they can gain revenue from such people.
+
+* Govt. apparently once used lotteries to assign rights. For cellular auction, 400k applied. "In one not atypical case, some dentists won the right to run cellular-telephone service on Cape Cod; they immediately sold their license to a real telephone company, Southwestern Bell, for $41 million."
+    - **Switch to auction in 1993**
+
+* "Allah is the only one who sets the prices and gives prosperity" --- Mohammed
+
+* The old Eastern European lament applied also in China: “We pretend to work, they pretend to pay us.”
+
+* The U.S. Federal Highway Administration estimated that in 2000 the negative spillovers from driving—the costs of congestion, pollution, and accidents—totaled $446 billion. $108 B --- insurance premiums, etc. rest = externality. ~ 10 cents/mi
+
+* Vickrey (of the auction fame) proposed congestion tax
+    - hard to set the tax exactly right
