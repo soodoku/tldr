@@ -265,10 +265,6 @@ being sold and sometimes a potential price for those shares. Investors then stat
     - transfer fees
         + not v. successful
 
-### Corruption
-
-* If multiple agencies are corrupt, it is a bigger problem
-
 #### Profits
 
 * In profitability, the pharmaceutical industry ranked comfortably first in the 1999 Fortune 500 list of the top global companies. Its profits were 18 percent of revenues, putting it far ahead of the second-place industry, diversified financial firms, whose profits were 11 percent of revenues;
@@ -311,4 +307,4 @@ being sold and sometimes a potential price for those shares. Investors then stat
 
 * students asked to divide $10. Breakdown of the bargaining, with both bargainers receiving nothing, was surprisingly common: it occurred in one-fourth of the negotiations. In the competition experiments (10 bids), the money was always successfully divided, and the bids were driven down to a few cents, meaning the seller got most of the money.
 
-
+* Tokyo prosecutors in 1993 arrested Shin Kanemaru, the deputy prime minister, on charges of income tax evasion. They found in his office safe over $50 million worth of cash, bonds, and gold bars—donations that had come mainly from the construction industry—intended not for his personal use, according to Mr. Kanemaru, but to realize his “cherished dream of political reform.”
