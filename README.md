@@ -50,11 +50,14 @@ The density of original points in an average work---book, paper, article, lectur
 16. [Gawande, Atul. The Checklist Manifesto.](summaries/16_the_checklist_manifesto.md)  
     [Link to Amazon](https://smile.amazon.com/Checklist-Manifesto-How-Things-Right-ebook/dp/B0030V0PEW/)
 
-17. [Akerlof, George, and Robert Shiller. Phishing for Phools: The Economics of Manipulation and Deception.](summaries/17_phishing.md)  
-    [Link to Amazon](https://www.amazon.com/dp/B00WAM14RE/)
+17. [McMillan, John. Reinventing the Bazaar.](summaries/17_reinventing_the_bazaaar)
+    [Link to Amazon](https://www.amazon.com/dp/B001T7EJ9Q/)
 
 18. [Reinhart Alex. Statistics Done Wrong.](summaries/18_statistics_done_wrong.md)  
     [Link to Amazon](https://smile.amazon.com/Statistics-Done-Wrong-Woefully-Complete-ebook/dp/B00UMA61RE/)
+
+19. [Akerlof, George, and Robert Shiller. Phishing for Phools: The Economics of Manipulation and Deception.](summaries/17_phishing.md)  
+    [Link to Amazon](https://www.amazon.com/dp/B00WAM14RE/)
 
 ### Contribute
 
