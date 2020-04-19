@@ -109,7 +109,7 @@ A market for something exists if there are people who want to buy it and people 
 
     * South Africa passed a law in 1997 to make essential medicines affordable by compulsory licensing
 
-### Ownership
+#### Ownership
 
 * Right to residual returns where residual = anything beyond what the owner has committed to employees or creditors.
 
@@ -167,7 +167,7 @@ A market for something exists if there are people who want to buy it and people 
 * Dango is the name given in Japan to a negotiation among bidders to decide which firm will get the job. The designated firm submits a high bid and its “rivals” bid still higher, maintaining the illusion of competition. For the firms this is a congenial way to do business. Under dango each firm knows that it will eventually “win” a contract, without having to go to the trouble of competing, and dango spares the firms the discomfort of low prices.
     - "According to tax agency data, the Japanese construction industry each year spends $5 billion or more on entertainment."
 
-### Dealing With Externalities
+#### Dealing With Externalities
 
 * Vickrey (of the auction fame) proposed congestion tax
     - hard to set the tax exactly right
@@ -206,7 +206,7 @@ A market for something exists if there are people who want to buy it and people 
     - research tournaments. innovation need not be 'complete.' think DARPA challenges.
     - patent buyout
 
-#### Managing Sports --- No good solution
+### Managing Sports --- No good solution
 
 * returns ~ f(competitive, star_power, home_team)
 * If team level, say we start with one weak team, it may harm gate tickets for everyone else. it can be that the total payoffs for the teams are lower.
@@ -273,7 +273,7 @@ being sold and sometimes a potential price for those shares. Investors then stat
 * Being illiterate, the stallholders must keep their business records in their heads, using impressive powers of memory. They make precise calculations of their input costs so as to keep track of their profits.
 
 
-#### Pharma
+### Pharma
 
 * In profitability, the pharmaceutical industry ranked comfortably first in the 1999 Fortune 500 list of the top global companies. Its profits were 18 percent of revenues, putting it far ahead of the second-place industry, diversified financial firms, whose profits were 11 percent of revenues;
 
