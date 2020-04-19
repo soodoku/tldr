@@ -3,8 +3,9 @@
 ### What is a Market?
 
 A market for something exists if there are people who want to buy it and people who want to sell it.:
-    * Decision-making autonomy is key...They are free to make decisions—to buy, to sell, to exert effort, to invest—that reflect their own preferences. 
-    * Their choices are not completely free though: they are constrained by the extent of their resources and by the rules of the marketplace.
+
+* Decision-making autonomy is key...They are free to make decisions—to buy, to sell, to exert effort, to invest—that reflect their own preferences. 
+* Their choices are not completely free though: they are constrained by the extent of their resources and by the rules of the marketplace.
 
 ### Markets Are Inescapable (and Markets in Everything)
 
