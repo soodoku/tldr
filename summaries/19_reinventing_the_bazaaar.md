@@ -1,27 +1,5 @@
 ## Reinventing the Bazaar
 
-### Observations About the Economy
-
-* Even in the most market-oriented economy, a majority of transactions do not actually go through markets.
-    - **Unpaid work**: full-time homemaker in the United States, by one estimate, produces outputs that if priced would be worth about $17,000 per year.
-    - **Gov. work like police + road building** --- about a fifth of most modern economies
-    - **Within firms**: more transactions happen within firm that across firms
-        - Well over 50% of the GDP is worker comp. in the U.S.
-
-* **"Primitive" Markets**
-
-    * The stallholders are not just retailers but also wholesalers: they buy in bulk to sell small quantities to consumers, and they aggregate small purchases for resale to other sellers. 
-
-    * They organize the transportation of goods—not a simple matter in a country with inadequate roads and railroads—serving as intermediaries between widely scattered producers and consumers. 
-    
-    * They do some rudimentary manufacturing: crafting with beads and processing raw materials into foodstuffs, condiments, and cosmetics. 
-    
-    * They find recycling uses for cans, bottles, and newspapers. 
-    
-    * Assessing their customers’ creditworthiness and granting some of them credit, they take on the role of banks.
-    
-    * Being illiterate, the stallholders must keep their business records in their heads, using impressive powers of memory. They make precise calculations of their input costs so as to keep track of their profits.
-
 ### What is a Market?
 
 A market for something exists if there are people who want to buy it and people who want to sell it.:
@@ -30,7 +8,7 @@ A market for something exists if there are people who want to buy it and people 
 
     * Their choices are not completely free though: they are constrained by the extent of their resources and by the rules of the marketplace.
 
-### Markets Are Inescapable
+### Markets Are Inescapable (and Markets in Everything)
 
 * Rwandans in refugee camps in Zaire (now the Democratic Republic of Congo), having commercial activity. Some **eighty-two thousand businesses** mushroomed in the camps by 1995, according to a report by the United Nations High Commissioner for Refugees.
                 
@@ -40,8 +18,6 @@ A market for something exists if there are people who want to buy it and people 
 
 * **Alcohol consumption end of the Prohibition era was still about two-thirds its pre-Prohibition level.**
 
-### Markets in Everything
-
 * 1500 listings on ebay under the heading “Victorian tradecards”—which, it turns out, are a nineteenth-century version of junk mail.
 
 ### Market Design
@@ -49,7 +25,6 @@ A market for something exists if there are people who want to buy it and people 
 * Market design consists of the mechanisms that organize buying and selling; channels for the flow of information; state-set laws and regulations that define property rights and sustain contracting; and the market’s culture, its self-regulating norms, codes, and conventions governing behavior.
 
 * A workable platform has five elements: 
-    
     * information flows smoothly
     * property rights are protected
     * people can be trusted to live up to their promises
@@ -100,7 +75,7 @@ A market for something exists if there are people who want to buy it and people 
     * real estate agents
     * contracts, enforcement from governing associations, gov.
 
-* people who don't pay
+* Solutions for people who don't pay 
     - publicize info. on people who don't repay loans. ala GoFish.
         - can be a service 
     - The enforcement of contracts and the prevention and settling of disputes etc.
@@ -112,6 +87,10 @@ A market for something exists if there are people who want to buy it and people 
     - 21 prominent brokers came together to create a new auction. Agreed to transact on fixed fees and only among themselves.
         - setup rules: merchants defaulting on contracts were barred.
 
+        "In 1792, one John Sutton, sensing an opportunity, organized a securities exchange at 22 Wall Street, which was then a muddy lane. Sellers would bring in their stocks and bonds each morning, and at noon Sutton would auction them for a commission. then they would hold their own sales, offering the securities at lower commission rates and taking business away from Sutton. This practice soon became self-defeating, as it meant too few securities
+        
+        To solve this problem, twenty-four of Wall Street’s most prominent brokers agreed to form a new auction. They would trade securities at fixed fees. Membership in the stock exchange was restricted and lucrative, so the brokers were able to regulate themselves on the sanction of Members who defaulted on contracts were barred. Nonmembers who reneged on contracts with members were blacklisted."
+
 #### Competition
 
 * Being able to veto any deal does convey some bargaining power, but not necessarily much. Competition curbs power.
@@ -122,14 +101,6 @@ A market for something exists if there are people who want to buy it and people 
     - same w/ auctions
 
 * In the late 1980s, television rights for all of English soccer were negotiated for £2.5 million. Then, an upstart television provider, BSkyB, injected some bidding competition, to such an extent that in 1992, contracted with it for £45 million per year; in 2000 the bidding for a three-year deal rocketed to £537 million per year.
-
-#### Uncertain Value
-
-* value of a product = private + common (what you think others will pay)
-    - in auction, people may overestimate common value -> winner's curse
-    - in an open auction, people learn what X is worth to others. 
-    - in closed auction, people bid lower to avoid winner's curse
-        + fix that by using second price
 
 #### Property Rights
 
@@ -153,21 +124,25 @@ A market for something exists if there are people who want to buy it and people 
     - total rural poor declined by 170M b/w 78 and 84 --- WB
     - no direct ownership still. people are contracted out the land. initially for 3 years and then for 15 years. 
 
-### Trust
+#### Trust
 
 * 5th century b.c., Croesus starts issuing gold and silver coins of guaranteed purity
 
 * Moneyback guarantee (likely invented by Potter Palmer, the founder of Marshall Field and Co.)
 
-### Market Support
+#### Market Support
 
 * Entire sectors of a modern economy are devoted to organizing transactions. The retail and wholesale trades and the advertising, insurance, and finance industries exist not to manufacture things but to facilitate transacting. These activities ... accounting in the United States for one-fourth of the gross national product.
 
-### Political Economy
+#### Uncertain Value
 
-[Pharma] subject[s] the U.S. government to fierce lobbying, in part to counter accusations of price gouging. During the election campaign of 2000, the pharmaceutical industry’s spending on lobbying, $167 million ...
+* value of a product = private + common (what you think others will pay)
+    - in auction, people may overestimate common value -> winner's curse
+    - in an open auction, people learn what X is worth to others. 
+    - in closed auction, people bid lower to avoid winner's curse
+        + fix that by using second price
 
-### Auctions
+#### Auctions
 
 *  Dutch Auction: As each lot of flowers is towed by, the clock’s hand starts at a high price and rotates through lower prices until one of the bidders stops it with a push of a button.
 
@@ -193,41 +168,25 @@ A market for something exists if there are people who want to buy it and people 
 * Dango is the name given in Japan to a negotiation among bidders to decide which firm will get the job. The designated firm submits a high bid and its “rivals” bid still higher, maintaining the illusion of competition. For the firms this is a congenial way to do business. Under dango each firm knows that it will eventually “win” a contract, without having to go to the trouble of competing, and dango spares the firms the discomfort of low prices.
     - "According to tax agency data, the Japanese construction industry each year spends $5 billion or more on entertainment."
 
-### Externalities
+### Dealing With Externalities
 
 * Vickrey (of the auction fame) proposed congestion tax
     - hard to set the tax exactly right
 
 * Coase: define property rights and let people trade
 
-### Innovations in Markets
+* Emissions trading:
+    - government sets quota. trade. major success.
+    - sometimes NGOs buy the credits and hold them inactive
 
-* In 1792, one John Sutton, sensing an opportunity, organized a securities exchange at 22 Wall Street, which was then a muddy lane. Sellers would bring in their stocks and bonds each morning, and at noon Sutton would auction them for a commission. then they would hold their own sales, offering the securities at lower commission rates and taking business away from Sutton. This practice soon became self-defeating, as it meant too few securities
-To solve this problem, twenty-four of Wall Street’s most prominent brokers agreed to form a new auction. They would trade securities at fixed fees. Membership in the stock exchange was restricted and lucrative, so the brokers were able to regulate themselves on the sanction of Members who defaulted on contracts were barred. Nonmembers who reneged on contracts with members were blacklisted.
-
-* Hambrecht: open IPOs --- even in 2002 people were talking about this
-     In a Dutch auction, a company reveals the maximum amount of shares
-being sold and sometimes a potential price for those shares. Investors then state the number of shares they want and at what price. Once a minimum clearing price is determined, investors who bid at least that price are awarded shares. If there are more bids than shares available, allotment is on a pro-rata basis--awarding a percent of actual shares available based on the percent bid for--or a maximum basis, which fills the maximum amount of smaller bids by setting an allocation for the largest bids 
-
-### Market Failures
-
-#### Concern 1
+* Picking winners when strong externalities (railway tracks)    
+    - http://raven.stern.nyu.edu/networks/brewer.pdf
 
 * Externalities  ~ fishing etc.
     - part of the problem is that many gov. subsidize fishing -> overcapacity -> "So heavy is the subsidization that, according to the FAO, $90 billion is spent each year around the world to catch $70 billion worth of fish"
     - solutions:
         + social norms
         + quotas
-
-#### Concern 2
-
-* Of the 33 million people infected worldwide as of 2000, 23 million were in Africa. Every single day, AIDS was killing an average of 5,500 Africans.
-
-* Antiretroviral drugs successfully countered AIDS. U.S. deaths from AIDS fell 70 percent between 1996 and 1998.
-
-* drug to cure sleeping sickness discovered accidentally when looking for an anti-cancer drug. but patent holder didn't care about the market so production ran short till its use discovered in preventing hair from growing.
-
-* Medicines against tropical diseases make up a minuscule 1 percent of new drug patents.
 
 #### Patent Economy
 
@@ -265,11 +224,59 @@ being sold and sometimes a potential price for those shares. Investors then stat
     - transfer fees
         + not v. successful
 
-#### Profits
+### Puzzles of Advanced Capitalist Economies
+
+#### Primacy of Non-Market Transactions 
+
+Even in the most market-oriented economy, a majority of transactions do not actually go through markets.
+    * **Unpaid work**: full-time homemaker in the United States, by one estimate, produces outputs that if priced would be worth about $17,000 per year.
+    * **Gov. work like police + road building** --- about a fifth of most modern economies
+    * **Within firms**: more transactions happen within firm that across firms
+        * Well over 50% of the GDP is worker comp. in the U.S.
+        * Employees' earnings—which represent transactions inside the boundaries of firms and other organizations—account for 71 percent of Americans' aggregate income.
+
+#### Primacy of Large Corporations
+
+* In the US, plants with fifty or more employees account for over 80 percent of total manufacturing employment. In Thailand they account for 30 percent of manufacturing employment, and in Indonesia and Ghana, 15 percent. Richer countries have larger firms
+
+* Corp > Public owned
+    * Following privatization, most firms (though not all) charge their customers lower prices and offer better service than state ownership. Output per worker is higher (by about 20 percent on average), as are investment spending (by about 5 percent on average) and profitability (by about 4 percent on average).
+
+* But still inefficient:
+    * Principal Agent Problem
+
+    * Middle managers have an interest in husbanding information. A study of large U.S. corporations found that divisional managers built slack into their annual budgets by understating expected revenues (by using low price and sales estimates) and overstating costs (by inflating personnel requirements, proposing unneeded projects, and failing to report the adoption of cost-lowering padding, which was lower in years when operating conditions were adverse, averaged 20 to 25 percent of the divisions’
+
+    * Of the major cases of fraud suffered by corporations, according to a survey of senior executives in fifteen industrialized countries, one-fourth are perpetrated in-house by the firms’ own managers.
+        * ...top executives of CUC International, a hotel, car rental, and real estate franchising firm. In the biggest accounting fraud ever (according to U.S. authorities), costing investors $19 billion, they inflated earnings and projected earnings in order to keep the stock price artificially high.
+
+* Corporations are as big as nations. Alphabet's revenue is ~ 35B. So why is it reasonably productive when planned nation state economies are not?
+    * Some market incentives, bonus schemes, etc.
+
+#### IPOs
+
+Hambrecht: open IPOs --- even in 2002 people were talking about this
+     In a Dutch auction, a company reveals the maximum amount of shares
+being sold and sometimes a potential price for those shares. Investors then state the number of shares they want and at what price. Once a minimum clearing price is determined, investors who bid at least that price are awarded shares. If there are more bids than shares available, allotment is on a pro-rata basis--awarding a percent of actual shares available based on the percent bid for--or a maximum basis, which fills the maximum amount of smaller bids by setting an allocation for the largest bids
+
+### "Primitive" Markets
+
+* The stallholders are not just retailers but also wholesalers: they buy in bulk to sell small quantities to consumers, and they aggregate small purchases for resale to other sellers. 
+
+* They organize the transportation of goods—not a simple matter in a country with inadequate roads and railroads—serving as intermediaries between widely scattered producers and consumers. 
+    
+* They do some rudimentary manufacturing: crafting with beads and processing raw materials into foodstuffs, condiments, and cosmetics. 
+    
+* They find recycling uses for cans, bottles, and newspapers. 
+    
+* Assessing their customers’ creditworthiness and granting some of them credit, they take on the role of banks.
+    
+* Being illiterate, the stallholders must keep their business records in their heads, using impressive powers of memory. They make precise calculations of their input costs so as to keep track of their profits.
+
+
+#### Pharma
 
 * In profitability, the pharmaceutical industry ranked comfortably first in the 1999 Fortune 500 list of the top global companies. Its profits were 18 percent of revenues, putting it far ahead of the second-place industry, diversified financial firms, whose profits were 11 percent of revenues;
-
-#### Research Funding and Innovation
 
 * The industry’s marketing costs in the United States are estimated to be more than $8,000 per physician.
     - pharmacia corp., which makes eye drops for glaucoma, in one year spent 2x the amount of marketing and admin. than research. (total money spent on marketing and admin = 40% of revenue)
@@ -285,14 +292,14 @@ being sold and sometimes a potential price for those shares. Investors then stat
 
 ### Misc. 
 
-* "God is in the details," declared the architect Ludwig Mies van der Rohe. Tradespeople building to architects’ plans would habitually grumble that “the Devil is in the details,” and Mies van der Rohe was inverting their complaint. --- Reinventing the bazaar
+* "God is in the details," declared the architect Ludwig Mies van der Rohe. Tradespeople building to architects’ plans would habitually grumble that “the Devil is in the details,” and Mies van der Rohe was inverting their complaint.
 
 * Futures market
     - 1260 in Nagoya, Japan. Futures in rice. Farmers can get paid before harvest.
 
 * In a 1781 letter to his father, Mozart said, doubtless exaggerating somewhat, “Believe me, my sole purpose is to make as much money as possible; for after good health it is the best thing to have.”
 
-* "Buying and selling is therefore a form of creation." --- John McMillan
+* "Buying and selling is therefore a form of creation."
 
 * People who comparison shop do a favor to everyone else. Sellers more likely to cut costs as they can gain revenue from such people.
 
@@ -307,4 +314,10 @@ being sold and sometimes a potential price for those shares. Investors then stat
 
 * students asked to divide $10. Breakdown of the bargaining, with both bargainers receiving nothing, was surprisingly common: it occurred in one-fourth of the negotiations. In the competition experiments (10 bids), the money was always successfully divided, and the bids were driven down to a few cents, meaning the seller got most of the money.
 
-* Tokyo prosecutors in 1993 arrested Shin Kanemaru, the deputy prime minister, on charges of income tax evasion. They found in his office safe over $50 million worth of cash, bonds, and gold bars—donations that had come mainly from the construction industry—intended not for his personal use, according to Mr. Kanemaru, but to realize his “cherished dream of political reform.”
+* Tokyo prosecutors in 1993 arrested Shin Kanemaru, the deputy prime minister, on charges of income tax evasion. They found in his office safe over $50 million worth of cash, bonds, and gold bars—donations that had come mainly from the construction industry—intended not for his personal use, according to Mr. Kanemaru, but to realize his **“cherished dream of political reform.”**
+
+* Size of the shadow economy: in most countries, an increase in economic activity of 1 percent brings an increase in electricity consumption of about 1 percent. ...it has been estimated that Nigeria, Egypt, and Thailand have the world’s largest shadow economies, at nearly three-fourths the size of their official national income. 
+
+* In Indonesia, the Philippines, and Thailand, ten rich families control half of the corporate assets.
+
+* China liberalization: state-owned firms were required to sell their output to the state at fixed prices. Under reform, this aspect of the plan stayed in place, but they were allowed to produce extra output to sell in markets. There were dual prices;
