@@ -56,10 +56,10 @@ The density of original points in an average work---book, paper, article, lectur
 18. [Reinhart Alex. Statistics Done Wrong.](summaries/18_statistics_done_wrong.md)
     [Link to Amazon](https://smile.amazon.com/Statistics-Done-Wrong-Woefully-Complete-ebook/dp/B00UMA61RE/)
 
-19. [Akerlof, George, and Robert Shiller. Phishing for Phools: The Economics of Manipulation and Deception.](summaries/19_phishing.md)
+19. [Akerlof, George, and Robert Shiller. Phishing for Phools: The Economics of Manipulation and Deception.](summaries/19_phishing.md)  
     [Link to Amazon](https://www.amazon.com/dp/B00WAM14RE/)
 
-20. [Cairo, Alberto. How Charts Lie.](summaries/20_how_charts_lie.md)  
+20. [Cairo, Alberto. How Charts Lie.](summaries/20_how_charts_lie.md)
     [Link to Amazon](https://www.amazon.com/dp/B07P88R6DW/)
 
 ### Contribute
