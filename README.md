@@ -2,7 +2,7 @@
 
 The density of original points in an average work---book, paper, article, lecture---tends to be pretty low. Most work also tends to be badly organized. Distilling work is thus a time intensive exercise. So I thought it would be useful to share the fruits of that labor.
 
-1. [Eyal, Nir. Hooked.](summaries/01_eyal_hooked.md)  
+1. [Eyal, Nir. Hooked.](summaries/01_eyal_hooked.md)
    [Link to Amazon](https://www.amazon.com/dp/B00LMGLXTS/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)
 
 2. [Schmidt, Eric, and Jonathan Rosenberg. How Google Works.](summaries/02_schmidt_rosenberg_how_goog_works.md)
@@ -59,7 +59,7 @@ The density of original points in an average work---book, paper, article, lectur
 19. [Akerlof, George, and Robert Shiller. Phishing for Phools: The Economics of Manipulation and Deception.](summaries/19_phishing.md)
     [Link to Amazon](https://www.amazon.com/dp/B00WAM14RE/)
 
-20. [Cairo, Alberto. How Charts Lie.](summaries/20_how_charts_lie.md)
+20. [Cairo, Alberto. How Charts Lie.](summaries/20_how_charts_lie.md)  
     [Link to Amazon](https://www.amazon.com/dp/B07P88R6DW/)
 
 ### Contribute
