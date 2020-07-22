@@ -62,6 +62,9 @@ The density of original points in an average work---book, paper, article, lectur
 20. [Cairo, Alberto. How Charts Lie.](summaries/20_how_charts_lie.md)  
     [Link to Amazon](https://www.amazon.com/dp/B07P88R6DW/)
 
+21. [Jackson, Matthew. The Human Network.](summaries/21_human_network.md)  
+        [Link to Amazon](https://www.amazon.com/Human-Network-Position-Determines-Behaviors-ebook/dp/B073YTX8TM)
+
 ### Contribute
 
 If you have a suggestion for improving an existing summary or want to contribute a summary, open a PR.
