@@ -63,7 +63,10 @@ The density of original points in an average work---book, paper, article, lectur
     [Link to Amazon](https://www.amazon.com/dp/B07P88R6DW/)
 
 21. [Jackson, Matthew. The Human Network.](summaries/21_human_network.md)  
-        [Link to Amazon](https://www.amazon.com/Human-Network-Position-Determines-Behaviors-ebook/dp/B073YTX8TM)
+    [Link to Amazon](https://www.amazon.com/Human-Network-Position-Determines-Behaviors-ebook/dp/B073YTX8TM)
+
+22. [Doerr, John. Measure What Matters](summaries/22_okrs.md)  
+    [Link to Amazon](https://www.amazon.com/Measure-What-Matters-Google-Foundation/dp/0525536221)
 
 ### Contribute
 
