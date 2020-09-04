@@ -8,6 +8,8 @@ the tendency to find meaningful patterns in both meaningful and meaningless data
 
 The diagnostic belief bias was pervasive. Because Rosenhan’s charges were bored out of their skulls in these institutions, to pass the time they kept detailed notes of their experiences. In one poignant descriptor, the staff reported that “patient engages in writing behavior”
 
+schedules of reinforcement—for which pecking a key inside a box in which the pigeon was placed would result in delivery of the food through a small food hopper (see figure 1)—the pigeons exhibited an odd assortment of behaviors, such as side-to-side hopping or twirling around counterclockwise before pecking the key.
+
 
 http://psychrights.org/articles/rosenham.htm
 
