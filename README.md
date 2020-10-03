@@ -68,6 +68,9 @@ The density of original points in an average work---book, paper, article, lectur
 22. [Doerr, John. Measure What Matters](summaries/22_okrs.md)  
     [Link to Amazon](https://www.amazon.com/Measure-What-Matters-Google-Foundation/dp/0525536221)
 
+23. [Boswell, Dustin, and Trevor Foucher. The Art of Readable Code.](summaries/23_art_of_readable_code.md)  
+    [Link to Amazon](https://www.amazon.com/dp/B0064CZ1XE/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)
+
 ### Contribute
 
 If you have a suggestion for improving an existing summary or want to contribute a summary, open a PR.
