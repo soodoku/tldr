@@ -71,6 +71,9 @@ The density of original points in an average work---book, paper, article, lectur
 23. [Boswell, Dustin, and Trevor Foucher. The Art of Readable Code.](summaries/23_art_of_readable_code.md)  
     [Link to Amazon](https://www.amazon.com/dp/B0064CZ1XE/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)
 
+24. [Rodrik, Dani. Economics Rules.](summaries/24_economics_rules.md)  
+    [Link to Amazon](https://www.amazon.com/Economics-Rules-Rights-Wrongs-Science-ebook/dp/B00TIZFO90/)
+
 ### Contribute
 
 If you have a suggestion for improving an existing summary or want to contribute a summary, open a PR.
