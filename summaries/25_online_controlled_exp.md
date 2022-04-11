@@ -62,10 +62,7 @@
 			+ When Bing had a ranker bug that resulted in very poor results being shown to users in a Treatment, two key organizational metrics improved significantly: distinct queries per user went up over 10%, and revenue-per-user went up over 30%.		
 	
 	* Consider quality when defining goal or driver metrics. A click on a search result is a “bad” click if the user clicks the back button right away;
-	
-	* Skew:
-		- With ads revenue, it is common for a few outliers to have a disproportionally high influence on revenue, like clicks with very high cost-per-click. 
-	
+
 	* "Did we do the experiment correctly?" metrics
 		- Sample mismatch ratio, etc.
 
@@ -76,6 +73,23 @@
 		- Het. treat by segments
 			+ Split by language (translation issues)
 			+ Technical issues: split by browser, desktop/mobile, OS, average network latency, etc.
+
+### How to measure
+
+* Technical issues
+	- Click tracking is typically done using web beacons (typically a 1x1 GIF sent to the server to signal a click), which is known to be lossy (i.e., not 100% of clicks are properly recorded). This is not normally an issue, as the loss is similar for all variants, but sometimes the Treatment can impact the loss rate, making low-activity users (e.g., those who only had a single click) appear at a different rate and cause an SRM. When the web beacon is placed in a different area of the page, timing differences will skew the instrumentation.
+
+	- Never subtract client and server times, as they could be significantly off even after adjusting for time zones.
+	
+	- Server side logging more reliable than client side
+	
+* Skew
+	- With ads revenue, it is common for a few outliers to have a disproportionally high influence on revenue, like clicks with very high cost-per-click. Solution ~ Winsorize. 
+	
+	- For example, assume a single very large outlier o in the data. When computing the t-statistics (see Equation 19.6): (19.6) the outlier will fall into one of the two variants and the delta of the means will be close to o/n (or its negation), as all the other numbers will be swamped by this outlier. The variance of the mean for that variant will also be close to , so the T value will be close to 1 or close to −1, which maps to a p-value of about 0.32.
+
+* Variance
+	* Pick a similar metric with lower variance. For example, the number of searches has a higher variance than the number of searchers;
 
 ### People Get It Wrong All The Time (+ What to keep in mind when working with people from other functions, etc.)
 
@@ -92,42 +106,9 @@
 	
 * Triggering based on attributes that are changing over time
 	- assume you run an e-mail campaign that triggers for users who have been inactive for three months. If the campaign is effective, those users become active and ...
-
-* Technical issues
-	- Click tracking is typically done using web beacons (typically a 1x1 GIF sent to the server to signal a click), which is known to be lossy (i.e., not 100% of clicks are properly recorded). This is not normally an issue, as the loss is similar for all variants, but sometimes the Treatment can impact the loss rate, making low-activity users (e.g., those who only had a single click) appear at a different rate and cause an SRM. When the web beacon is placed in a different area of the page, timing differences will skew the instrumentation.
 				
-* Simpson
-	- Table 3.1 shows a simple example, where a website has 1 million visitors per day on two days: Friday and Saturday. On Friday, the experiment runs with 1% of traffic assigned to the Treatment. On Saturday that percentage is raised to 50%. Even though the Treatment has a conversion rate that is better on Friday (2.30% vs. 2.02%) and a conversion rate that is better on Saturday (1.2% vs. 1.00%),
-
 * Solutions for technical issues
 	- Run A/A tests
-
-### Wisdom
-
-* Twyman’s law, perhaps the most important single law in the whole of data analysis… The more unusual or interesting the data, the more likely they are to have been the result of an error of one kind or another 
-
-### Engineering System for Experiments
-
-* Two types...
-	- In a nested design, system parameters are partitioned into layers so that experiments that in combination may produce a poor user experience must be in the same layer and be prevented by design from running for the same user. For example, there might be one layer for the common UI elements (e.g., the header of the page and all information in the header), another layer for the body, a third layer for back-end systems, a fourth layer for ranking parameters, and so on.
-	
-	- A constraints-based design has experimenters specify the constraints and the system uses a graph-coloring algorithm to ensure that no two experiments that share a concern are exposed to the user.
-	- Automated systems for detecting interactions
-
-* Releasing on thin/thick client
-	+ web server: 
-	+ app
-		* staged rollout
-		* if you rollout
-			- users have to update
-			- config changes can be pushed (so code must exist before)
-			- More fine-grained parameterization can be used extensively to add flexibility in creating new variants without needing a client release. This is because even though new code cannot be pushed to the client easily, new configurations can be passed, which effectively creates a new variant if the client understands how to parse the configurations. For
-
-			* To truly run a randomized controlled experiment on the new app as a whole, bundle both versions behind the same app and start some users -> app size
-			* data cannot be uploaded whenever (wi-fi, battery)
-			* When users open an app, their device could be offline. For consistency reasons, we should cache experiment assignment in case the next open occurs when the device is offline.
-
-	- considered in downstream processing. For example, never subtract client and server times, as they could be significantly off even after adjusting for time zones.
 
 ### Randomization Unit
 
@@ -147,13 +128,59 @@
 
 	- It is common for a user to access the same site via multiple devices and platforms, for example, desktop, mobile app, and mobile web. This can have two implications. 1. Different IDs may be available on different devices. As a result, the same user may be randomized into different variants on different
 
+* Triggered Randomization can be more efficient
 
- For example, the number of searches has a higher variance than the number of searchers;
+	* If you make a change to checkout, only trigger users who started checkout. If you make a change to collaboration, such as co-editing a document in Microsoft Word or Google Docs: only trigger when people start collaboration.
+	
+	*  Why?
 
-For example, assume a single very large outlier o in the data. When computing the t-statistics (see Equation 19.6): (19.6) the outlier will fall into one of the two variants and the delta of the means will be close to o/n (or its negation), as all the other numbers will be swamped by this outlier. The variance of the mean for that variant will also be close to , so the T value will be close to 1 or close to −1, which maps to a p-value of about 0.32.
+		+ Bernoulli trial with p = 0.05. The standard deviation, σ. σ2 = 0.05(1 − 0.05) = 0.0475. You need at least: 16∗0.0475/(0.05⋅0.05)2 = 121,600 users.
+		+ Assume that 10% of users initiate checkout, so that given the 5% purchase rate, half of them complete checkout, or p = 0.5. The variance σ2= 0.5(1 − 0.5)= 0.25. You therefore need at least ~ 6400 users
 
-A change to checkout: only trigger users who started checkout. 2. A change to collaboration, such as co-editing a document in Microsoft Word or Google Docs: only trigger
+### Interpreting Results
 
-Bernoulli trial with p = 0.05. The standard deviation, σ, of a Bernoulli is and thus  σ2 = 0.05(1 − 0.05) = 0.0475 . According to the above formula, you need at least 16 ∗ 0.0475/(0.05 ⋅ 0.05)2 = 121,600 users.
+* Simpson
+	- Table 3.1 shows a simple example, where a website has 1 million visitors per day on two days: Friday and Saturday. On Friday, the experiment runs with 1% of traffic assigned to the Treatment. On Saturday that percentage is raised to 50%. Even though the Treatment has a conversion rate that is better on Friday (2.30% vs. 2.02%) and a conversion rate that is better on Saturday (1.2% vs. 1.00%),
 
-analyze triggered users who started the checkout process. Assume that 10% of users initiate checkout, so that given the 5% purchase rate, half of them complete checkout, or p = 0.5. The variance  σ2 = 0.5(1 − 0.5) = 0.25. You therefore need at least
+### Wisdom
+
+* Twyman’s law, perhaps the most important single law in the whole of data analysis… The more unusual or interesting the data, the more likely they are to have been the result of an error of one kind or another 
+
+### Engineering System for Experiments
+
+* Abstraction (Third is most common.)
+	
+	- The first architecture creates a code fork based on variant assignment: variant = getVariant(userId) If (variant == Treatment) then buttonColor = red Else buttonColor = blue 
+	
+	- The second architecture moves to a parameterized system, where any possible change that you want to test in an experiment must be controlled by an experiment parameter. You can either choose to continue to use code forks:
+		```variant = getVariant(userId) If (variant == Treatment) then buttonColor = variant.getParam(“buttonColor”) Else buttonColor = blue 
+		Or move to: 
+
+		variant = getVariant(userId) … 
+		buttonColor = variant.getParam(“buttonColor”)
+		```
+
+	- The third architecture removes even the getVariant() call. Instead, early in the flow, variant assignment is done, and a configuration with the variant and all parameter values for that variant and for that user are passed down through the remaining flow. 
+	
+	```
+	buttonColor = config.getParam(“buttonColor”)
+	```
+
+* Two types of designs to abstract out experimentation systems
+	- In a nested design, system parameters are partitioned into layers so that experiments that in combination may produce a poor user experience must be in the same layer and be prevented by design from running for the same user. For example, there might be one layer for the common UI elements (e.g., the header of the page and all information in the header), another layer for the body, a third layer for back-end systems, a fourth layer for ranking parameters, and so on.
+	
+	- A constraints-based design has experimenters specify the constraints and the system uses a graph-coloring algorithm to ensure that no two experiments that share a concern are exposed to the user.
+	- Automated systems for detecting interactions
+
+* Releasing on thin/thick client
+	+ web server: 
+	+ app
+		* users have to update
+		
+		* More fine-grained parameterization can be used extensively to add flexibility in creating new variants without needing a client release. This is because even though new code cannot be pushed to the client easily, new configurations can be passed, which effectively creates a new variant if the client understands how to parse the configurations. For
+
+		* To truly run a randomized controlled experiment on the new app as a whole, bundle both versions behind the same app and start some users -> app size
+		
+		* data cannot be uploaded whenever (wi-fi, battery)
+		
+		* When users open an app, their device could be offline. For consistency reasons, we should cache experiment assignment in case the next open occurs when the device is offline.
