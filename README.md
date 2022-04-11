@@ -74,6 +74,9 @@ The density of original points in an average work---book, paper, article, lectur
 24. [Rodrik, Dani. Economics Rules.](summaries/24_economics_rules.md)  
     [Link to Amazon](https://www.amazon.com/Economics-Rules-Rights-Wrongs-Science-ebook/dp/B00TIZFO90/)
 
+25. [Kohavi, Ron. Trustworthy Online Controlled Experiments.](summaries/25_online_controlled_exp.md)  
+    [Link to Amazon](https://www.amazon.com/Trustworthy-Online-Controlled-Experiments-Practical/dp/1108724264)
+
 ### Contribute
 
 If you have a suggestion for improving an existing summary or want to contribute a summary, open a PR.
