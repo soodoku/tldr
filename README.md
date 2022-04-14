@@ -77,6 +77,9 @@ The density of original points in an average work---book, paper, article, lectur
 25. [Kohavi, Ron, Diane Tang, and Ya Xu. Trustworthy Online Controlled Experiments.](summaries/25_online_controlled_exp.md)  
     [Link to Amazon](https://www.amazon.com/Trustworthy-Online-Controlled-Experiments-Practical/dp/1108724264)
 
+26. [Bryar, Colin, and Bill Carr. Working Backwards.](summaries/26_working_backwards.md)  
+    [Link to Amazon](https://www.amazon.com/dp/B08N5LPVY3/)
+
 ### Contribute
 
 If you have a suggestion for improving an existing summary or want to contribute a summary, open a PR.
