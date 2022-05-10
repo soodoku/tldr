@@ -80,6 +80,9 @@ The density of original points in an average work---book, paper, article, lectur
 26. [Bryar, Colin, and Bill Carr. Working Backwards.](summaries/26_working_backwards.md)  
     [Link to Amazon](https://www.amazon.com/dp/B08N5LPVY3/)
 
+27. [Kahneman, Daniel, Olive Sibony, and Cass Sunstein. Noise: A Flaw in Human Judgment](summaries/27_noise.md)
+    [Link to Amazon](https://www.amazon.com/dp/B08KSC11KQ/)
+
 ### Contribute
 
 If you have a suggestion for improving an existing summary or want to contribute a summary, open a PR.
