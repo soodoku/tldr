@@ -27,4 +27,17 @@
 
 4. Effect of sentencing commission: " According to another study, the expected difference in sentence length between judges was 17%, or 4.9 months, in 1986 and 1987. That number fell to 11%, or 3.9 months, between 1988 and 1993."
 
-5. 
+5. Judges more lenient on defendant's birthday ~ 1--3% in France. https://www.iast.fr/publications/clash-norms-judicial-leniency-defendant-birthdays (seems too big)
+
+6. Underwriters + Claims adjusters
+    * To prepare for the noise audit, executives of the company constructed detailed descriptions of five representative cases for each group (underwriters and adjusters). Employees were asked to evaluate two or three cases each, working independently. They were not told that the purpose of the study was to examine the variability of their judgments.
+    * Most executives of the insurance company guessed 10%
+    * Our noise audit found much greater differences. By our measure, the median difference in underwriting was 55%, about five times as large
+    * For claims adjusters, the median ratio was 43%. We stress that these results are medians: in half the pairs of cases, the difference between the two judgments was even larger. 
+
+
+
+
+
+
+
