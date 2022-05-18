@@ -56,6 +56,8 @@
 
 5. Wine "experts": "When wine experts at a major US wine competition tasted the same wines twice, they scored only 18% of the wines identically" https://www.sjakes.com/wp-content/uploads/2009/07/Robert-Hodgson-Tasting-Unconsistent.pdf
 
+6. Too little data: "In this paper, we report from an experiment where seven experienced software professionals estimated the same sixty software development tasks over a period of three months. Six of the sixty tasks were estimated twice. We found a high degree of inconsistency in the software professionals’ effort estimates. The mean difference of the effort estimates of the same task by the same estimator was as much as 71%. The correlation between the corresponding estimates was 0.7." https://www.sciencedirect.com/science/article/abs/pii/S0164121207000714
+
 ### Why does 'noise' go unnoticed?
 
 1. Motivated reasoning: looking to agree, storytell why X makes sense
