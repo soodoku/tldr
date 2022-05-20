@@ -56,11 +56,11 @@
 
 5. Wine "experts": "When wine experts at a major US wine competition tasted the same wines twice, they scored only 18% of the wines identically" https://www.sjakes.com/wp-content/uploads/2009/07/Robert-Hodgson-Tasting-Unconsistent.pdf
 
-6. Surprising that this paper is cited in the book: "In this paper, we report from an experiment where **seven** experienced software professionals estimated the same sixty software development tasks over a period of three months. Six of the sixty tasks were estimated twice. We found a high degree of inconsistency in the software professionals’ effort estimates. The mean difference of the effort estimates of the same task by the same estimator was as much as 71%. The correlation between the corresponding estimates was 0.7." https://www.sciencedirect.com/science/article/abs/pii/S0164121207000714
+6. book: "when the same software developers were asked on two separate days to estimate the completion time for the same task, the hours they projected differed by 71%, on average."
+    paper: "In this paper, we report from an experiment where **seven** experienced software professionals estimated the same sixty software development tasks over a period of three months. Six of the sixty tasks were estimated twice. We found a high degree of inconsistency in the software professionals’ effort estimates. The mean difference of the effort estimates of the same task by the same estimator was as much as 71%. The correlation between the corresponding estimates was 0.7." https://www.sciencedirect.com/science/article/abs/pii/S0164121207000714
 
 ### Why does 'noise' go unnoticed?
 
-1. Motivated reasoning: looking to agree, storytell why X makes sense
-
+1. Motivated reasoning: we are looking to agree and storytell why the number we see makes sense
 
 
