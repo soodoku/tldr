@@ -154,7 +154,11 @@
 
 ### Why does 'noise' go unnoticed?
 
-1. Motivated reasoning: we are looking to agree and storytell why the number we see makes sense
+1. Motivated reasoning: 
+    * others are looking to agree and storytell why the number we see makes sense
+    * False-consensus effect---we believe others will agree so we don't actively solicit opinions from others
+2. Principal agent problem --- managers don't really care
+3. People are busy
 
 
 ### Fun Facts
