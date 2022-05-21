@@ -16,7 +16,7 @@
 2. Case workers
 3. Judges
 4. Underwriters
-5. Patent
+5. Patent examiners
 
 #### Noisy Facts
 
@@ -86,6 +86,9 @@
     * Muchnik
         - "After seeing an initial up vote (and recall that it was entirely artificial), the next viewer became 32% more likely to give an up vote."
         - "After five months, a single positive initial vote artificially increased the mean rating of comments by 25%."
+    * why is it conceptually problematic?
+        - Responding to the first like generally means responding to too little data. 
+        - Interesting thing = what is the perceived value of planting a like w/o watching the content? on twitter, like may mean cueing group love but on YT, not clear. The harm is that YT will recommend videos based on the like.
 
 4. Swapping the complex question with a simpler question
     
