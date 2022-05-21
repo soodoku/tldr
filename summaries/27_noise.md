@@ -68,7 +68,6 @@
     * "An early study found that 31% of the time, physicians evaluating angiograms disagreed on whether a major vessel was more than 70% blocked"
     * https://www.ahajournals.org/doi/pdf/10.1161/01.CIR.53.4.627
     * but see also: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2569075/
-    * 
 
 ### Reasons for 'noise'
 
@@ -120,7 +119,7 @@
     * Yu and kuncel
        - random linear model beats people <- with probably sig. constraints on 'random'  
     * Dawes: give equal weights to predictors. beats humans.
-    * Nice point by Dawes: “we do not need models more precise than our measurements.”
+    * **Nice point by Dawes: “we do not need models more precise than our measurements.”**
     * Mullainathan et al.
         - Mullainathan’s team calculated, crime rates could be reduced by up to 24%, because the people behind bars would be the ones most likely to recidivate. Conversely, if the risk threshold is set to reduce the number of people denied bail as much as possible without increasing crime, the researchers calculated that the number of people detained could be reduced by up to 42%.
 
@@ -132,7 +131,8 @@
 
 7. Train people. Gigerenzer/Boosting--- teach people statistical literacy
 
-8. Statistical Prediction Than Clinical 
+8. Statistical Prediction Than Clinical
+    - pattern matching. we forget about using base rates.
 
 9. Using simple scoresheets like BI-RADS
 
