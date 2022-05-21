@@ -27,12 +27,13 @@
     * "A study of cases that were randomly allotted to different judges found that one judge admitted 5% of applicants, while another admitted 88%." https://scholarship.law.georgetown.edu/cgi/viewcontent.cgi?article=2914&context=facpub
 
     * In 1977, for example, William Austin and Thomas Williams conducted a survey of forty-seven judges, asking them to respond to the same five cases, each involving low-level offenses. All the descriptions of the cases included summaries of the information used by judges in actual sentencing, such as the charge, the testimony, the previous record (if any), social background, and evidence relating to character. 
+
 	5 cases: 38.3% guilty + 70.2% guilty + 87.2% guilty + (100% + 57.4%) guilty + 95.7% guilty ~> 74%
         https://scholarlycommons.law.northwestern.edu/cgi/viewcontent.cgi?article=6026&context=jclc
 
         sentencing varies more but harder to quantify the variation
 
-    * Effect of sentencing commission: " According to another study, the expected difference in sentence length between judges was 17%, or 4.9 months, in 1986 and 1987. That number fell to 11%, or 3.9 months, between 1988 and 1993."
+    * Effect of sentencing commission: "According to another study, the expected difference in sentence length between judges was 17%, or 4.9 months, in 1986 and 1987. That number fell to 11%, or 3.9 months, between 1988 and 1993."
 
     * Judges more lenient on defendant's birthday ~ 1--3% in France. https://www.iast.fr/publications/clash-norms-judicial-leniency-defendant-birthdays (seems too big)
     
@@ -46,6 +47,9 @@
 
     Level noise (some judges harsher than others): The standard deviation of the values in the rightmost column was 2.4 years.
 
+    * Solution
+        - Marvin Frankel and sentencing commission. sc overturned.
+
 3. Underwriters + Claims adjusters
     * To prepare for the noise audit, executives of the company constructed detailed descriptions of five representative cases for each group (underwriters and adjusters). Employees were asked to evaluate two or three cases each, working independently. They were not told that the purpose of the study was to examine the variability of their judgments.
     * Most executives of the insurance company guessed 10%
@@ -56,8 +60,14 @@
 
 5. Wine "experts": "When wine experts at a major US wine competition tasted the same wines twice, they scored only 18% of the wines identically" https://www.sjakes.com/wp-content/uploads/2009/07/Robert-Hodgson-Tasting-Unconsistent.pdf
 
-6. book: "when the same software developers were asked on two separate days to estimate the completion time for the same task, the hours they projected differed by 71%, on average."
+### Callouts
+
+1. book: "when the same software developers were asked on two separate days to estimate the completion time for the same task, the hours they projected differed by 71%, on average."
     paper: "In this paper, we report from an experiment where **seven** experienced software professionals estimated the same sixty software development tasks over a period of three months. Six of the sixty tasks were estimated twice. We found a high degree of inconsistency in the software professionals’ effort estimates. The mean difference of the effort estimates of the same task by the same estimator was as much as 71%. The correlation between the corresponding estimates was 0.7." https://www.sciencedirect.com/science/article/abs/pii/S0164121207000714
+
+2. The word 'noise' is used inconsistently in the book. 
+   In the equation they write: Overall Error (MSE) = Bias2 + Noise2
+   But in many places, by noise, authors just mean the MSE.
 
 ### Why does 'noise' go unnoticed?
 
