@@ -154,7 +154,7 @@
     * good mood causes greater receptivity to bullshit
 
 4. "When calories are on the left, consumers receive that information first and evidently think “a lot of calories!” or “not so many calories!” before they see the item. Their initial positive or negative reaction greatly affects their choices. By contrast, when people see the food item first, they apparently think “delicious!” or “not so great!” before they see the calorie label. Here again, their initial reaction greatly affects their choices. This hypothesis is supported by the authors’ finding that for Hebrew speakers, who read right to left, the calorie label has a significantly larger impact.."
-    paper: https://psyarxiv.com/23asd/
+    paper: https://psyarxiv.com/23asd/ "We show that if the effect sizes in Dallas et al. (2019) are representative of the populations, a replication of the six studies (with the same sample sizes) has a probability of only 0.014 of producing uniformly significant outcomes."
 
 5. When people disagree on made-up cases, you can imagine that in the real world people get opportunity to get additional data that allows them to narrow their disagreements. 
 
