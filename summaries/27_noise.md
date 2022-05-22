@@ -89,15 +89,14 @@
     * why is it conceptually problematic?
         - Responding to the first like generally means responding to too little data. 
         - Interesting thing = what is the perceived value of planting a like w/o watching the content? on twitter, like may mean cueing group love but on YT, not clear. The harm is that YT will recommend videos based on the like.
-
-4. Swapping the complex question with a simpler question
     
-5. Anchoring
+4. Anchoring
     * In a typical demonstration, you might be presented with a number of items whose price is not easy to guess, such as an unfamiliar bottle of wine. You are asked to jot down the last two digits of your Social Security number and indicate whether you would that amount for the bottle. Finally, you are asked to state the maximum amount you would be willing to pay for it. The results show that anchoring on your Social Security number will affect your final buying price. 
+        - paper: https://academic.oup.com/qje/article-abstract/118/1/73/1917051?redirectedFrom=PDF
 
-6. Other Cognitive biases
+5. Other Cognitive biases
     * Order of information may matter as we form initial judgments quickly
-        - The first "like" should not matter as it could happen by chance depending on who came before us
+        - The first "like" should not matter as it could happen by chance depending on who came before
     * Confirmation bias
     * Affect heuristic
         - The psychologist Paul Slovic terms this the affect heuristic: people determine what they think by consulting their feelings.
@@ -154,18 +153,21 @@
 
     * good mood causes greater receptivity to bullshit
 
+4. "When calories are on the left, consumers receive that information first and evidently think “a lot of calories!” or “not so many calories!” before they see the item. Their initial positive or negative reaction greatly affects their choices. By contrast, when people see the food item first, they apparently think “delicious!” or “not so great!” before they see the calorie label. Here again, their initial reaction greatly affects their choices. This hypothesis is supported by the authors’ finding that for Hebrew speakers, who read right to left, the calorie label has a significantly larger impact.."
+    paper: https://psyarxiv.com/23asd/
 
-### Why does 'noise' go unnoticed?
+5. When people disagree on made-up cases, you can imagine that in the real world people get opportunity to get additional data that allows them to narrow their disagreements. 
+
+### Why does 'noise' go unnoticed in the insurance company?
 
 1. Motivated reasoning: 
     * others are looking to agree and storytell why the number we see makes sense
     * False-consensus effect---we believe others will agree so we don't actively solicit opinions from others
 2. Principal agent problem --- managers don't really care
-3. People are busy
-
+3. Managers are busy. Don't read carefully.
+4. Managers 'anchor' their estimate on the number they read.
+5. Customers don't complain. They probably get a single quote per company and attribute cross-company variation as 'X company is better'. 
 
 ### Fun Facts
 
 * In 2015, Deloitte calculated that it was spending 2 million hours each year evaluating its sixty-five thousand people.
-
-
