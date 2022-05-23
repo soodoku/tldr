@@ -80,6 +80,7 @@
 
 2. Hunger/Low blood glucose levels/etc.:
     "Our data consist of 1,112 judicial rulings, collected over 50 d in a 10-mo period, by **eight Jewish-Israeli judges** (two females) who preside over two different parole boards that serve four major prisons in Israel." https://www.pnas.org/doi/10.1073/pnas.1018033108#fig01
+        see also: http://journal.sjdm.org/16/16823/jdm16823.html
 
 3. Internal local smoothing
     "the chance that an asylum applicant will be admitted in the United States drops by 19% if the hearing follows two successful ones by the same judge."
@@ -166,6 +167,10 @@ the second one is https://www.jstor.org/stable/255641 (it analyzes data at a gro
 
 7. cor(predictions based on hiring ratings, performance ratings) = .15 
     - selecting on the dependent variable here so probably one reason why cor is low here.
+
+8.  Hunger/Low blood glucose levels/etc.:
+    "Our data consist of 1,112 judicial rulings, collected over 50 d in a 10-mo period, by **eight Jewish-Israeli judges** (two females) who preside over two different parole boards that serve four major prisons in Israel." https://www.pnas.org/doi/10.1073/pnas.1018033108#fig01
+        see also: http://journal.sjdm.org/16/16823/jdm16823.html
 
 ### Why does 'noise' go unnoticed in the insurance company?
 
