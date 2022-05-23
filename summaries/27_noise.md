@@ -78,11 +78,14 @@
 
     * "In a large sample, the order rates of breast and colon screening tests were highest at 8 a.m., at 63.7%. They decreased throughout the morning to 48.7% at 11 a.m. They increased to 56.2% at noon—and then decreased to 47.8% at 5 p.m."
 
-2. Internal local smoothing
+2. Hunger/Low blood glucose levels/etc.:
+    "Our data consist of 1,112 judicial rulings, collected over 50 d in a 10-mo period, by **eight Jewish-Israeli judges** (two females) who preside over two different parole boards that serve four major prisons in Israel." https://www.pnas.org/doi/10.1073/pnas.1018033108#fig01
+
+3. Internal local smoothing
     "the chance that an asylum applicant will be admitted in the United States drops by 19% if the hearing follows two successful ones by the same judge."
         - need to find the paper
 
-3. Social influence. Salganik, Macy, Muchnik, etc. 
+4. Social influence. Salganik, Macy, Muchnik, etc. 
     * Muchnik
         - "After seeing an initial up vote (and recall that it was entirely artificial), the next viewer became 32% more likely to give an up vote."
         - "After five months, a single positive initial vote artificially increased the mean rating of comments by 25%."
@@ -90,11 +93,11 @@
         - Responding to the first like generally means responding to too little data. 
         - Interesting thing = what is the perceived value of planting a like w/o watching the content? on twitter, like may mean cueing group love but on YT, not clear. The harm is that YT will recommend videos based on the like.
     
-4. Anchoring
+5. Anchoring
     * In a typical demonstration, you might be presented with a number of items whose price is not easy to guess, such as an unfamiliar bottle of wine. You are asked to jot down the last two digits of your Social Security number and indicate whether you would that amount for the bottle. Finally, you are asked to state the maximum amount you would be willing to pay for it. The results show that anchoring on your Social Security number will affect your final buying price. 
         - paper: https://academic.oup.com/qje/article-abstract/118/1/73/1917051?redirectedFrom=PDF
 
-5. Other Cognitive biases
+6. Other Cognitive biases
     * Order of information may matter as we form initial judgments quickly
         - The first "like" should not matter as it could happen by chance depending on who came before
     * Confirmation bias
