@@ -158,6 +158,9 @@
 
 5. When people disagree on made-up cases, you can imagine that in the real world people get opportunity to get additional data that allows them to narrow their disagreements. 
 
+6. chapter 25 cites three things and one of them is (no data here): https://sloanreview.mit.edu/article/a-structured-approach-to-strategic-decisions/ 
+the second one is https://www.jstor.org/stable/255641 (it analyzes data at a group level and there are 60 groups and 3 treatment conditions.) The third citation is to an entire book ('Fear of judging...'). Citations to think pieces in Harvard Business Review (10 citations in total based on a keyword search) and books like 'Work Rules!' dot other chapters.
+
 ### Why does 'noise' go unnoticed in the insurance company?
 
 1. Motivated reasoning: 
