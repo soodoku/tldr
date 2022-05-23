@@ -56,7 +56,7 @@
     * Our noise audit found much greater differences. By our measure, the median difference in underwriting was 55%, about five times as large
     * For claims adjusters, the median ratio was 43%. We stress that these results are medians: in half the pairs of cases, the difference between the two judgments was even larger. 
 
-4. Investors: They asked forty-two experienced investors in the firm to estimate the fair value of a stock (the price at which the investors would be indifferent to buying or selling). The investors based their analysis on a one-page description of the business; the data included simplified profit and loss, balance sheet, and cash flow statements for the past three years and projections for the next two. Median noise, measured in the same way as in the insurance company, was 41%.
+4. Investors: They asked **forty-two** experienced investors in the firm to estimate the fair value of a stock (the price at which the investors would be indifferent to buying or selling). The investors based their analysis on a one-page description of the business; the data included simplified profit and loss, balance sheet, and cash flow statements for the past three years and projections for the next two. Median noise, measured in the same way as in the insurance company, was 41%.
 
 5. Wine "experts": "When wine experts at a major US wine competition tasted the same wines twice, they scored only 18% of the wines identically" https://www.sjakes.com/wp-content/uploads/2009/07/Robert-Hodgson-Tasting-Unconsistent.pdf
 
@@ -129,12 +129,12 @@
     - People can do ratios well also. 
         "S. S. Stevens discovered the surprising fact that people share strong intuitions about the ratios of intensity of many subjective experiences and attitudes. They can adjust a light so that it appears “twice as bright” as another, and they agree the emotional significance of a ten-month prison sentence is not nearly ten times as bad as that of a sentence of one month." etc.
 
-6. Break decisions into constituent portions evaluated separately
+6. Break decisions into constituent portions evaluated separately. Come up with weights upfront.
 
 7. Train people. Gigerenzer/Boosting--- teach people statistical literacy
 
 8. Statistical Prediction Than Clinical
-    - pattern matching. we forget about using base rates.
+    - pattern matching. we forget to use base rates.
 
 9. Using simple scoresheets like BI-RADS
 
@@ -160,6 +160,9 @@
 
 6. chapter 25 cites three things and one of them is (no data here): https://sloanreview.mit.edu/article/a-structured-approach-to-strategic-decisions/ 
 the second one is https://www.jstor.org/stable/255641 (it analyzes data at a group level and there are 60 groups and 3 treatment conditions.) The third citation is to an entire book ('Fear of judging...'). Citations to think pieces in Harvard Business Review (10 citations in total based on a keyword search) and books like 'Work Rules!' dot other chapters.
+
+7. cor(predictions based on hiring ratings, performance ratings) = .15 
+    - selecting on the dependent variable here so probably one reason why cor is low here.
 
 ### Why does 'noise' go unnoticed in the insurance company?
 
