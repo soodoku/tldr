@@ -1,5 +1,6 @@
+## The Voltage Effect
 
-Reasons for drop in voltage:
+### Reasons for a drop in voltage
 
 1. False positives, e.g., DARE
 
@@ -35,8 +36,7 @@ Reasons for drop in voltage:
 
 2. Resentful demoralization
 	- people who learned their peers earned more, worked less hard at canvassing, etc.
-	- After analyzing the results, they found that employees who were told their manager made 10 percent more than they originally thought actually worked slightly harder; the average number of hours they worked increased by 1.5 percent over the next ninety days. Conversely, when employees learned that peers made 10 percent more than they did, they worked 9.4 percent less over the next ninety days. 
-
+	- After analyzing the results, they found that employees who were told their manager made 10 percent more than they originally thought actually worked slightly harder; the average number of hours they worked increased by 1.5 percent over the next ninety days. Conversely, when employees learned that peers made 10 percent more than they did, they worked 9.4 percent less over the next ninety days.
 
 3. Data on tipping
 	- When we looked at the data on how often passengers tipped—or didn’t tip—we found that only 1 percent of Uber passengers tipped on every trip they took. That’s right, only one in every hundred people was sure to tip their driver! Meanwhile, 60 percent of people never tipped, and 39 percent sometimes did.
