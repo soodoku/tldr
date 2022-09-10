@@ -57,6 +57,6 @@
 
 ### Didn't pass the smell test for me
 
-1. "we had a treatment group of potential applicants, who saw a posting with an EEO statement, and a control group, who saw a posting with no such statement. Nearly 2,500 people applied. We also offered potential job-seekers a $10 ... It turned out that the EEO statement discouraged racial minorities from applying, and by as much as a shocking 30 percent. "
+1. "we had a treatment group of potential applicants, who saw a posting with an EEO statement, and a control group, who saw a posting with no such statement. Nearly 2,500 people applied. We also offered potential job-seekers a \$10 ... It turned out that the EEO statement discouraged racial minorities from applying, and by as much as a shocking 30 percent. "
 
-2. $10 canvassers in van where people in mixed van ($10 and $15) were less productive and stole more. 
+2. \$10 canvassers in van where people in mixed van (\$10 and \$15) were less productive and stole more. 
