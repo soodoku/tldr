@@ -83,6 +83,9 @@ The density of original points in an average work---book, paper, article, lectur
 27. [Kahneman, Daniel, Olive Sibony, and Cass Sunstein. Noise: A Flaw in Human Judgment](summaries/27_noise.md)  
     [Link to Amazon](https://www.amazon.com/dp/B08KSC11KQ/)
 
+28. [List, John. The Voltage Effect.](summaries/28_voltage_effect.md)  
+    [Link to Amazon](https://smile.amazon.com/Voltage-Effect-Ideas-Great-Scale-ebook/dp/B093YSPVJY/)
+
 ### Contribute
 
 If you have a suggestion for improving an existing summary or want to contribute a summary, open a PR.
