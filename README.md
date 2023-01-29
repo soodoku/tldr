@@ -86,6 +86,9 @@ The density of original points in an average work---book, paper, article, lectur
 28. [List, John. The Voltage Effect.](summaries/28_voltage_effect.md)  
     [Link to Amazon](https://smile.amazon.com/Voltage-Effect-Ideas-Great-Scale-ebook/dp/B093YSPVJY/)
 
+29. [Manski, Charles. Patient Care Under Uncertainty.](summaries/29_patient_care_under_uncertainty.md)  
+    [Link to Google Play Books](https://play.google.com/store/books/details/Charles_F_Manski_Patient_Care_under_Uncertainty?id=3AacDwAAQBAJ)
+
 ### Contribute
 
 If you have a suggestion for improving an existing summary or want to contribute a summary, open a PR.
