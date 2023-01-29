@@ -14,46 +14,44 @@
 
 ### Identification Problems
 
-* as sample size grows, the problems persist
-* Unobservability of counterfactual treatment outcomes
-* External Validity -- extrapolation
-* Data Quality, e.g., surrogate outcomes, missing data, etc.
+* As the sample size grows, the problem persists
+* Classic issues:
+	* Unobservability of counterfactual treatment outcomes
+	* External Validity -- extrapolation
+	* Data Quality, e.g., surrogate outcomes, missing data, etc.
 
 ### Questions
 
 * Clinical practice guidelines
-* Sample size for trials
-* Diagnostic testing and treatment under ambiguity
-	* Should i collect more data?
+* Optimal sample size for trials + statistical methods for analysis
+* Classic clinical questions = 
+	* Diagnostic testing and treatment under ambiguity
+		* Should i collect more data? (GS: Treatment is one way to collect data. If aspirin "works", ...)
 	* Surveillance Vs. Aggresive Treatment
 		* Localized cancer 
 			- CT scans, ultrasound
-			- Immunotherapy, etc.
+			- Immunotherapy, biospy, Lymphadenectomy, etc.
 				- Reduce the risk of disease dev./severity of disease 
 				- Side effects, etc.
 
-
-### Clinical practice guidelines (CPGs)
+### Clinical Practice Guidelines (CPGs)
 
 * CVD
 	* Demographic
 	* Labs
 	* History	
-	* Doesn't condition on obesity, exercise, etc.
 
 * BCRA
 	* BRCA mutation
 	* Age
 	* Race
 	* 1st degree relatives w/ breast cancer, etc.
-	* but doesn't condition on 2nd degree relatives, ethnic group, etc.
 
 * strong financial/legal incentives to comply
 
 #### Why CPG?
 
-* Clinicians do not have rational expectations
-		
+* Clinicians do not have rational expectations (and the accuracy of models is better)
 		- Sarbin (1943, 1944)
 		- Meehl (1954)
 		- Goldberg (1968) -- model of you beats you
@@ -67,11 +65,12 @@
 
 * Guidelines disagree with one other
 * Clinicians Observe more traits + more info. about patient pref.
+	- e.g., CVD doesn't condition on obesity, etc.
 * Methodological underpinnings are shot
-* Doctors may be better
-	* no experiment on CGG vs. discretion
-	* compare point prediction than intervals
-		- yes/no implies > .5 or < .5 so you could compare wider bounds
+* Doctors may be better than what the evidence suggests
+	* no experiment on CPG vs. discretion
+	* existing lit. compares point prediction than intervals
+		- yes/no in binary decision Leimplies > .5 or < .5 so you may want to compare wider bounds
 
 #### Methodological Underpinnings
 
@@ -106,26 +105,46 @@
 
 
 * decision rules: 
-	- common sense: choose the option favored by the available evidence, even if only by a small margin. 
+	- ES: choose the option favored by the available evidence, even if only by a small margin. 
 		-  one-sided test at 50%. 
 	- hypothesis testing at 5% --- extreme loss aversion
-	- minimax regret criteria --- minimizes the maximum regret
+	- minimax regret criteria (MMR) --- minimizes the maximum regret
 		- A = 5 years if mutation, 2 mo. w/o mutation
 		- B = 4 mo. if mutation, 3 year w/o
 		- A minimizes maximum regret
-
+		- Empirical Success (ES) criterion
+		- Binary
+			- Choosing A when B is true: Type 1 error prob.*(Loss)
+			- Choosing B when A is true: Type II error prob.*(Loss)
+	
 	- maximin regret --- worst (maximum) loss is better than the least (minimum) loss of all other option
 		- A = 2 mo. --- 5 years, B = 4 mo. --- 3 years
 		- Clinicial chooses B
-	
-	- A sufficiently strict test ensures that the probability of Type I errors (acceptance of bad innovations) is smaller than the ratio between the proponent’s cost of collecting the evidence (e.g., clinical trials) and the proponent’s benefit from the regulator’s acceptance. I show that hypothesis tests at this level are optimal for a regulator having maximin utility1 with ambiguity regarding the quality of potential proposals. 15%
 
-	- DiMasi et al. (2003), who collected detailed confidential cost data from pharmaceutical firms for a sample of drugs first tested in 1983–1994. They report $119.2 million (in 2000 dollars) as the average scost of a Phase III clinical trial, including trials that did not lead to approval. The trial costs are spread over an average of 30.5 months and the estimate discounts the costs at 11% rate to the time of approval (estimated to be 18.2 months after the end of Phase III trials). The rate of 11% is the real cost of capital estimated by DiMasi et al. (2003) for the pharmaceutical industry during the study’s time period.
+	- Adaptive Minimax Regret
+		- observationally similar patients  ... adaptive diversification
 
-	- As a case study, we reconsider a trial comparing nodal observation and lymph node dissection when treating patients with cutaneous melanoma. Using a statistical power calculation, the investigators assigned 971 patients to dissection and 968 to observation. We conclude that assigning 244 patients to each option would yield findings that enable suitably near-optimal treatment choice. --- https://www.tandfonline.com/doi/full/10.1080/00031305.2018.1543617
+	- If sign of the treatment effect is not identified?
+		- No optimal way but reasonable ways	
 
-	* Adaptive Minimax Regret
-		- observationally similar patients 
+### Optimal Sample size
+		
+* Q. = optimal sample size when regret > epsilon (min. clinically important diff. in ATE)
+				- see Manski and Tetenov 2016
+		
+* As a case study, we reconsider a trial comparing nodal observation and lymph node dissection when treating patients with cutaneous melanoma. Using a statistical power calculation, the investigators assigned 971 patients to dissection and 968 to observation. We conclude that assigning 244 patients to each option would yield findings that enable suitably near-optimal treatment choice. --- https://www.tandfonline.com/doi/full/10.1080/00031305.2018.1543617
 
-	* If sign of the treatment effect is not identified?
-		- No optimal way but reasonable ways
+* A sufficiently strict test ensures that the probability of Type I errors (acceptance of bad innovations) is smaller than the ratio between the proponent’s cost of collecting the evidence (e.g., clinical trials) and the proponent’s benefit from the regulator’s acceptance. I show that hypothesis tests at this level are optimal for a regulator having maximin utility1 with ambiguity regarding the quality of potential proposals. 15%
+
+### Fun Facts
+
+* FDA, Institute of Medicine etc. reject formal decision analysis
+	- Policy proposal: go from 0/1 approval in phase 3 to adaptive approval where more people are treated as evidence accumulates. Give limited term licenses.
+
+* DiMasi et al. (2003), who collected detailed confidential cost data from pharmaceutical firms for a sample of drugs first tested in 1983–1994. They report $119.2 million (in 2000 dollars) as the average scost of a Phase III clinical trial, including trials that did not lead to approval. The trial costs are spread over an average of 30.5 months and the estimate discounts the costs at 11% rate to the time of approval (estimated to be 18.2 months after the end of Phase III trials). The rate of 11% is the real cost of capital estimated by DiMasi et al. (2003) for the pharmaceutical industry during the study’s time period.
+
+### Odd bits
+
+* "Instead, CPGs could encourage clinicians to recognize that treatment choice may reasonably depend on how one interprets the available evidence and on the decision criterion that one uses. The result could then be natural treatment variation that yields some of the error-limitation and learning benefits of adaptive diversification."
+
+* ...
