@@ -70,18 +70,16 @@
 * Doctors may be better than what the evidence suggests
 	* no experiment on CPG vs. discretion
 	* existing lit. compares point prediction than intervals
-		- yes/no in binary decision Leimplies > .5 or < .5 so you may want to compare wider bounds
+		- yes/no in binary decision implies > .5 or < .5 so you may want to compare wider bounds
 
 #### Methodological Underpinnings
 
 * Extrapolation
-	* No comorbidities
-		* Specific symptoms for hypertension --- isolated syslotic but not diastolic 
-	* Volunteers with constraints on age, geo., etc.
-	* Get more attention during trials including more f2f + more tests
-	* Blinding --- in clinical practice, both sides know they are getting this drug
-		- sequential experimentation for hypertension drugs is common
-		- ITT won't predict how clinicians and patients respond when both are aware
+	* Selection Bias
+		* volunteers with constraints on age, geo., etc.
+		* selection criteria includes "no comorbidities"
+			* Specific symptoms for hypertension --- isolated syslotic but not diastolic 
+	* Patients get more attention during trials including more f2f + more tests
 	* Surrogate outcome
 		- Phase 3 trials ~ 2--3 years
 		- oncology drugs (2009--2013)---improvements in quality of life but quantity of life clinical improvement not meaningful (Davis et al. 2017)
@@ -91,6 +89,10 @@
 			* Secondary outcomes don't differ much across conditions
 		* Warfarin for AFib
 			* Can cause serious bleeding
+	* Blinding --- in clinical practice, both sides know they are getting this drug
+		* sequential experimentation for hypertension drugs is common
+		* ITT won't predict how clinicians and patients respond when both are aware
+
 	* Has led to efficacy trials (ideal conditions), effectiveness trials (pragmatic)
 
 * Hypothesis Testing
