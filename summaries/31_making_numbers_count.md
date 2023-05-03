@@ -34,7 +34,7 @@
 	- 65 out of every 100 wounded soliders died of infections << 3 out of every 5 wounded soliders died of infections
 
 * Provide context for numbers
-	- $61B on SNAP -> $1.37 per meal per person
+	- \$61B on SNAP -> $1.37 per meal per person
 
 * Convert to familiar units (which can be objects, concepts like calendar time, distance you need to travel, etc.)
 	* Fathom, Mile, etc.
