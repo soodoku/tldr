@@ -89,6 +89,12 @@ The density of original points in an average work---book, paper, article, lectur
 29. [Manski, Charles. Patient Care Under Uncertainty.](summaries/29_patient_care_under_uncertainty.md)  
     [Link to Google Play Books](https://play.google.com/store/books/details/Charles_F_Manski_Patient_Care_under_Uncertainty?id=3AacDwAAQBAJ)
 
+30. [Kleppman, Martin. Designing Data-Intensive Applications.]()
+    [Link to Amazon](https://play.google.com/store/books/details/Charles_F_Manski_Patient_Care_under_Uncertainty?id=3AacDwAAQBAJ)
+
+31. [Heath, Chip, and Karla Starr. Making Numbers Count.](summaries/31_making_numbers_count.md)  
+    [Link to Amazon](https://www.amazon.com/Making-Numbers-Count-Science-Communicating/dp/1982165448)
+
 ### Contribute
 
 If you have a suggestion for improving an existing summary or want to contribute a summary, open a PR.
