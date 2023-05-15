@@ -95,7 +95,7 @@ The density of original points in an average work---book, paper, article, lectur
 31. [Heath, Chip, and Karla Starr. Making Numbers Count.](summaries/31_making_numbers_count.md)  
     [Link to Amazon](https://www.amazon.com/Making-Numbers-Count-Science-Communicating/dp/1982165448)
 
-32. [Stone, Dan. Undue Hate](summaries/32_undue_hate.md)
+32. [Stone, Dan. Undue Hate](summaries/32_undue_hate.md)  
     [Link to Amazon](https://www.amazon.com/Undue-Hate-Behavioral-Economic-Polarization/dp/0262047500/)
 
 
