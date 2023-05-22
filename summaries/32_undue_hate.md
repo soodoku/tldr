@@ -41,14 +41,13 @@
 				* helps you win arguments
 
 	* WYSIATI what you see is all there is (whiz-ee-ah-tee) (Kahneman)
-				* that we fail to think carefully about the information we don’t see and reality tends to be more complicated than it seems
-					* correspondence bias (overinference about a person’s traits based on observed actions; see Ross and Nisbett, 1991
+		* that we fail to think carefully about the information we don’t see and reality tends to be more complicated than it seems
+			* correspondence bias (overinference about a person’s traits based on observed actions; see Ross and Nisbett, 1991
 
 	* Tastes
-			* mistake horizontal for vertical 
-				* Naive realism can also make us overestimate the objectivity of our prefer- ences. If we think that if we like salads better than burgers, then salads must simply be (objectively) better than burgers, then we’ll think that people who choose burgers are simply wrong and not just different.
-			* moral foundations as 'taste buds': fairness, care, loyalty, authority, and purity. Liberals value the first two higher than the others, and conservatives place approximately equal weight on all five. 
-
+		* mistake horizontal for vertical 
+		* Naive realism can also make us overestimate the objectivity of our prefer- ences. If we think that if we like salads better than burgers, then salads must simply be (objectively) better than burgers, then we’ll think that people who choose burgers are simply wrong and not just different.
+		* moral foundations as 'taste buds': fairness, care, loyalty, authority, and purity. Liberals value the first two higher than the others, and conservatives place approximately equal weight on all five. 
 
 	* False Consensus
 		* Either way, overestimating the underlying agree- ment logically causes overinference of the chance of the other side having an ulterior motive for claiming to disagree.
