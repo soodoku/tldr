@@ -51,25 +51,24 @@
 
 
 	* False Consensus
-			* Either way, overestimating the underlying agree- ment logically causes overinference of the chance of the other side having an ulterior motive for claiming to disagree.
-
+		* Either way, overestimating the underlying agree- ment logically causes overinference of the chance of the other side having an ulterior motive for claiming to disagree.
 
 	* Macro factors like technological change --- product differentiation, etc., geographic sorting
-			* Media's incentives to highlight conflict
-				* People can't guess (see Ben Enke)
-			* I’ll follow Bail (2021) and Kim’s team (2021) and call this tendency to observe out-partisans online behaving in a misleadingly unlikable way the social media prism. (When we see copartisans express extreme opinions and act belligerently online, we don’t mind it so much and maybe even like them for it, a phenomenon called political acrophily; see Clark, 2021.)
-			*  The correlation between spouses’ party-feeling thermometer scores increased from 0.39 in 1965 to 0.77 in 2015. For parents’ and their children’s scores, this correlation increased from 0.20 to 0.64 over the same period (Iyengar et al., 2018). 
-			* Nuance
-				* The paper’s main results were that ideological segregation was higher for online media than for traditional media, but not by much, and ideological segregation for both was quite low as compared to for offline interactions.
+		* Media's incentives to highlight conflict
+			* People can't guess (see Ben Enke)
+		* I’ll follow Bail (2021) and Kim’s team (2021) and call this tendency to observe out-partisans online behaving in a misleadingly unlikable way the social media prism. (When we see copartisans express extreme opinions and act belligerently online, we don’t mind it so much and maybe even like them for it, a phenomenon called political acrophily; see Clark, 2021.)
+		*  The correlation between spouses’ party-feeling thermometer scores increased from 0.39 in 1965 to 0.77 in 2015. For parents’ and their children’s scores, this correlation increased from 0.20 to 0.64 over the same period (Iyengar et al., 2018). 
+		* Nuance
+			* The paper’s main results were that ideological segregation was higher for online media than for traditional media, but not by much, and ideological segregation for both was quite low as compared to for offline interactions.
 		
 	* Unmotivated factors
-			* Limited strategic thinking
-			* Selection neglect
-				* why we are unduly influenced by the social media prism
-			* Correlation Neglect
-			* Representativeness, Availability (plus media)
-			* mere exposure effect: prefer content and ideas that we are exposed to repeatedly
-			* illusory truth effect makes us more likely to believe false content when we hear it repeatedly
+		* Limited strategic thinking
+		* Selection neglect
+			* why we are unduly influenced by the social media prism
+		* Correlation Neglect
+		* Representativeness, Availability (plus media)
+		* mere exposure effect: prefer content and ideas that we are exposed to repeatedly
+		* illusory truth effect makes us more likely to believe false content when we hear it repeatedly
 
 
 
