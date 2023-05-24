@@ -26,19 +26,19 @@
 	* Motivated reasoning
 		* Motivated skepticism of claims/confirmation bias
 			* We’re also too credulous of congenial information that’s uncer- tain or unverified. 
-					* why?
-						* wired to ignore inconsistent data. chris chabris, etc.
-						* see above
+				* why?
+					* wired to ignore inconsistent data. chris chabris, etc.
+					* see above
 		* ultimate attribution error source: Hewstone’s metastudy implies that this tendency is “motivatedly” asymmetric: we attribute positive acts by in-groups to character traits and negative acts to bad luck and vice versa for out-groups.
 		* Infer cynical motives: Politics is the art of making your selfish desires seem like the national interest.
 
 	* Why?
 		* make us feel good about ourselves and our identities 
 		* in-party is more likely to prevail in future elections and policy choices, which is a pleasant thought
-				* Hostility toward the out-party can benefit the in-party via improved political motivation and engagement.
-				* signal ... loyalty and contributions to the in-group
-				* also the group is biased so exploiting those biases for your gain
-				* helps you win arguments
+			* Hostility toward the out-party can benefit the in-party via improved political motivation and engagement.
+			* signal ... loyalty and contributions to the in-group
+			* also the group is biased so exploiting those biases for your gain
+			* helps you win arguments
 
 	* WYSIATI what you see is all there is (whiz-ee-ah-tee) (Kahneman)
 		* that we fail to think carefully about the information we don’t see and reality tends to be more complicated than it seems
@@ -68,6 +68,4 @@
 		* Representativeness, Availability (plus media)
 		* mere exposure effect: prefer content and ideas that we are exposed to repeatedly
 		* illusory truth effect makes us more likely to believe false content when we hear it repeatedly
-
-
 
