@@ -45,7 +45,7 @@
 			* correspondence bias (overinference about a person’s traits based on observed actions; see Ross and Nisbett, 1991
 
 	* Tastes
-		* mistake horizontal for vertical 
+		* mistake horizontal for vertical product (moral) characteristics
 		* Naive realism can also make us overestimate the objectivity of our prefer- ences. If we think that if we like salads better than burgers, then salads must simply be (objectively) better than burgers, then we’ll think that people who choose burgers are simply wrong and not just different.
 		* moral foundations as 'taste buds': fairness, care, loyalty, authority, and purity. Liberals value the first two higher than the others, and conservatives place approximately equal weight on all five. 
 
