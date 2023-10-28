@@ -2,7 +2,7 @@
 
 ### Education and Afrocentrism
 
-  ![](../src/black_pride_black_prejudice/educated_aa_afrocentrism.MP.jpg)
+  <img src = "../src/black_pride_black_prejudice/educated_aa_afrocentrism.MP.jpg" width="500">
 
 ### Conspiratorial Thinking
 
@@ -11,17 +11,16 @@
 
 ### Anti-Semitism
   
-  ![](../src/black_pride_black_prejudice/black_anti_semitism_1.jpg){width=500px}
+  ![](../src/black_pride_black_prejudice/black_anti_semitism_1.jpg)
   ![](../src/black_pride_black_prejudice/black_anti_semitism_2.jpg)
   ![](../src/black_pride_black_prejudice/black_anti_semitism_3.jpg)
   ![](../src/black_pride_black_prejudice/black_anti_semitism_4.jpg)
   ![](../src/black_pride_black_prejudice/black_anti_semitism_5.jpg)
-  ![](../src/black_pride_black_prejudice/black_anti_semitism_6.jpg){width=500px}
-
+  ![](../src/black_pride_black_prejudice/black_anti_semitism_6.jpg)
 
 ### Cancel Culture Circa 1999
 
-  ![](../src/black_pride_black_prejudice/reasons_why_aa_behind.jpg)
+  ![](../src/black_pride_black_prejudice/cancel_culture_1999.jpg)
 
 ### Isaiah Berlin (Voting for Co-ethnics)
 
