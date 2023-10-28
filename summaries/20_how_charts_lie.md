@@ -7,10 +7,10 @@
 ### Common Ways of (Mis)leading
 
 1. Using different encoding (area rather than length): "the difference between the sizes of the two counties looks less dramatic when population is encoded with area (bubble chart) than when it is encoded with length or height (bar chart)."
-   ![](how_charts_lie/differences_may_look_larger_in_bar_than_circle.png)
+   ![](../src/how_charts_lie/differences_may_look_larger_in_bar_than_circle.png)
 
 2. Truncated vertical axis
-   ![](how_charts_lie/deceptions.png)
+   ![](../src/how_charts_lie/deceptions.png)
 
 3. Aspect ratio
 
@@ -27,21 +27,22 @@
   * Not plotting intervening years (ala Bill Bishop/Big Sort)
   * Not plotting all categories (ala this abortion thing)
   * Solution: plot comprehensively if interpretation changes dramatically. show missing data with dashed lines or something.
-  ![](how_charts_lie/truncated_x_1.png)
-  ![](how_charts_lie/truncated_x_2.png)
-  ![](how_charts_lie/truncated_x_3.png)
-  ![](how_charts_lie/truncated_x_4.png)
+  ![](../src/how_charts_lie/truncated_x_1.png)
+  ![](../src/how_charts_lie/truncated_x_2.png)
+  ![](../src/how_charts_lie/truncated_x_3.png)
+  ![](../src/how_charts_lie/truncated_x_4.png)
 
 6. Playing with encoding:
   * visual encoding of color can be done in a way that top-end is truncated --- maps with colors. poverty rate top-end could be 54% or it could be 10%.
-  ![](how_charts_lie/color_encoding_1.png)
-  ![](how_charts_lie/color_encoding_2.png)
-  ![](how_charts_lie/color_encoding_3.png)
+  ![](../src/how_charts_lie/color_encoding_1.png)
+  ![](../src/how_charts_lie/color_encoding_2.png)
+  ![](../src/how_charts_lie/color_encoding_3.png)
 
 7. double y-axes with misleading scales
-![](how_charts_lie/missing_years_categories_double_y_axes.png)
-![](how_charts_lie/missing_years_categories_single_y_axis.png)
-![](how_charts_lie/missing_years_categories_single_y_axis_2.png)
+
+  ![](../src/how_charts_lie/missing_years_categories_double_y_axes.png)
+  ![](../src/how_charts_lie/missing_years_categories_single_y_axis.png)
+  ![](../src/how_charts_lie/missing_years_categories_single_y_axis_2.png)
 
 ### Plausibly interesting point
 
@@ -58,4 +59,4 @@
 
   * **physicians feared that their profession would be undermined if it was somehow shown that sanitation and ventilation were more important than medical care**
 
-![](how_charts_lie/crimean_war.png)
+![](../src/how_charts_lie/crimean_war.png)
