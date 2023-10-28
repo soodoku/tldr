@@ -98,6 +98,11 @@ The density of original points in an average work---book, paper, article, lectur
 32. [Stone, Dan. Undue Hate](summaries/32_undue_hate.md)  
     [Link to Amazon](https://www.amazon.com/Undue-Hate-Behavioral-Economic-Polarization/dp/0262047500/)
 
+33. [Sniderman, Paul, and Ed Carmines. Reaching Beyond Race.](summaries/33_reaching_beyond_race.md)  
+    [Link to Amazon](https://www.amazon.com/Reaching-beyond-Race-Paul-Sniderman/dp/067414578X/)
+
+34. [Sniderman, Paul, and Thomas Piazza. Black Pride and Black Prejudice.](summaries/34_black_pride_black_prejudice.md)  
+    [Link to Amazon](https://www.amazon.com/Black-Pride-Prejudice-Princeton-Paperbacks/dp/0691120374)
 
 ### Contribute
 
