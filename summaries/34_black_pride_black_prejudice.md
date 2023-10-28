@@ -12,6 +12,7 @@
 ### Anti-Semitism
   
   <img src = "../src/black_pride_black_prejudice/black_anti_semitism_1.jpg" width = "500">
+  <img src = "../src/black_pride_black_prejudice/adl_dat.jpg" width = "500">
   <img src = "../src/black_pride_black_prejudice/black_anti_semitism_2.jpg" width = "500">
   <img src = "../src/black_pride_black_prejudice/black_anti_semitism_3.jpg" width = "500">
   <img src = "../src/black_pride_black_prejudice/black_anti_semitism_4.jpg" width = "500">
