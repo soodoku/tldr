@@ -33,10 +33,3 @@
   <img src = "../src/black_pride_black_prejudice/qualified_over_aa2.jpg" width = "500">
   <img src = "../src/black_pride_black_prejudice/qualified_over_aa3.jpg" width = "500">
 
-
-
-
-
-
-
-
