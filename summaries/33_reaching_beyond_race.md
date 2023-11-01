@@ -13,3 +13,7 @@
 
   <img src = "../src/reaching_beyond_race/special_favors.jpg" width="500">
 
+
+see also: https://osf.io/preprints/socarxiv/qwusz/
+
+"We investigate whether these attitudes predict anti-Black discrimination and evaluations of the fairness of intergroup inequality.Study 1 used the Ultimatum Game (UG) to obtain a behavioral measure of racial discrimination and found whites engaged in anti-Black discrimination. Explicit prejudice explained which whites discriminated whereas resentment did not. In Study 2, white third-party observers evaluated intergroup interactions in the UG and explicit prejudice explained racially biased fairness evaluations, but resentment did not"
