@@ -107,6 +107,12 @@ The density of original points in an average work---book, paper, article, lectur
 35. [Webb, Eugene, Donald Campbell, Richard Schwartz, and Lee Sechrest. Unobtrusive Measures: Nonreactive Research in the Social Sciences.](summaries/35_unobtrusive_measures.md)  
     [Link to Amazon](https://www.amazon.com/Unobtrusive-Measures-Nonreactive-Research-Sciences/dp/0528686941)
 
+36. [Schlozman, Kay Lehman, and Sidney Verba. Injury to Insult.](summaries/36_injury_to_insult.md)   
+    [Link to Amazon](https://www.amazon.com/Injury-Insult-Unemployment-Political-Response/dp/0674454413/)
+
+37. [Allport, Gordon. The Nature of Prejudice.](summaries/37_nature_of_prejudice.md). 
+    [Link to Amazon](https://www.amazon.com/Nature-Prejudice-25th-Anniversary/dp/0201001799/)
+
 ### Contribute
 
 If you have a suggestion for improving an existing summary or want to contribute a summary, open a PR.
