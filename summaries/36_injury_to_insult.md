@@ -34,11 +34,15 @@ See also: Jennifer Hochschild's 1981 book "What's Fair: American Beliefs about D
   <img src = "../src/injury_to_insult/05_belief_in_american_dream_by_occ_level.jpg" width="500">
   <img src = "../src/injury_to_insult/05_belief_in_american_dream_by_occ_emp.jpg" width="500">
 
+See also Sven Steinmo for his work on political culture ~ the pull yourself up the bootstraps entrepreneurial anti-statist immigrant culture. A lack of feudal history, the rapid rise of petite bourgeoisie, people being better off than their parents at least much of the 19th and 20th century as the vast natural resources of US were exploited to carve out wealth, are other plausible contributing reasons.
+
 ### Support for Various Policy Solutions
 
   <img src = "../src/injury_to_insult/06_policy_by_emp.jpg" width="500">
   <img src = "../src/injury_to_insult/06_policy_by_emp_2.jpg" width="500">
   <img src = "../src/injury_to_insult/06_policy_by_chance_of_finding_a_job.jpg" width="500">
+
+* Racial split may also reduce demand for gov. action.
 
 ### Pol. Participation
 
@@ -50,4 +54,5 @@ See also: Jennifer Hochschild's 1981 book "What's Fair: American Beliefs about D
   <img src = "../src/injury_to_insult/08_party_better_at_unemployment.jpg" width="500">
   <img src = "../src/injury_to_insult/08_party_loyalty_by_emp.jpg" width="500">
   <img src = "../src/injury_to_insult/08_pol_active_unemp_by_party.jpg" width="500">
+
 
