@@ -1,6 +1,6 @@
 ## Injury to Insult
 
-Why do the unemployed not come together as a group to protest or ask for more accomodation from the government?
+Why do the unemployed not come together as a group to protest or ask for greater accommodation from the government (esp. during recessions)?
 
 ### Why No Protests During Recessions?
 
