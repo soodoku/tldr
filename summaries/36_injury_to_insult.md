@@ -45,6 +45,7 @@ Why do the unemployed not come together as a group to protest or ask for greater
 
 ### Party
 
-  <img src = "../src/injury_to_insult/07_party_better_at_unemployment.jpg" width="500">
-  <img src = "../src/injury_to_insult/07_pol_active_unemp_by_party.jpg" width="500">
+  <img src = "../src/injury_to_insult/08_party_better_at_unemployment.jpg" width="500">
+  <img src = "../src/injury_to_insult/08_party_loyalty_by_emp.jpg" width="500">
+  <img src = "../src/injury_to_insult/08_pol_active_unemp_by_party.jpg" width="500">
 
