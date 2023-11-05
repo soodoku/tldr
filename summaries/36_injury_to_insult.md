@@ -34,7 +34,7 @@ See also: Jennifer Hochschild's 1981 book "What's Fair: American Beliefs about D
   <img src = "../src/injury_to_insult/05_belief_in_american_dream_by_occ_level.jpg" width="500">
   <img src = "../src/injury_to_insult/05_belief_in_american_dream_by_occ_emp.jpg" width="500">
 
-See also Sven Steinmo for his work on political culture ~ the pull yourself up the bootstraps entrepreneurial anti-statist immigrant culture. A lack of feudal history, the rapid rise of petite bourgeoisie, people being better off than their parents at least much of the 19th and 20th century as the vast natural resources of US were exploited to carve out wealth, are other plausible contributing reasons.
+See also Sven Steinmo for his work on political culture ~ the pull yourself up the bootstraps entrepreneurial anti-statist immigrant culture. A lack of feudal history, the rapid rise of petite bourgeoisie, people being better off than their parents during at least much of the 19th and 20th century as the vast natural resources of US were exploited to carve out wealth, are other plausible contributing reasons for belief in the American Dream.
 
 ### Support for Various Policy Solutions
 
