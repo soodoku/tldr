@@ -1,9 +1,17 @@
 ## Reaching Beyond Race
 
-### Correlation Affirmative Action and Racial Prejudice
+### Correlation Between Affirmative Action and Racial Prejudice
   
   <img src = "../src/reaching_beyond_race/cor_prejudice_aff_action_1.jpg" width="500">
   <img src = "../src/reaching_beyond_race/cor_prejudice_aff_action_2.jpg" width="500">
+
+### Correlation Between Other Racial Policies for Advancement and Racial Prejudice
+
+The correlation between prejudice and racial policies is also weak, e.g., support for programs to get blacks jobs (the average correlation is .16).
+
+### Cor(Racial prejudice, support for policies) by Liberal/Conservative
+
+### Support for race neutral policies vs. race specific policies
 
 ### Reason Why AA Behind
 
