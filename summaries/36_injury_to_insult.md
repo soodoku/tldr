@@ -7,6 +7,8 @@ Why do the unemployed not come together as a group to protest or ask for greater
   <img src = "../src/injury_to_insult/01_intro_quotes.jpg" width="500">
   <img src = "../src/injury_to_insult/01_why_no_protests_during_recessions.jpg" width="500">
 
+See also: Jennifer Hochschild's 1981 book "What's Fair: American Beliefs about Distributive Justice." Hoschschild begins her book with an excerpt from Arthur Conan Doyle's story, Silver Blaze, featuring the popular fictional detective Sherlock Holmes. In the excerpt, Holmes remarks on the curious fact that the dog didn't bark even when the evidence suggested that it should have. Hochschild uses this analogy to remark on the "curious" fact about the American polity---that it has steadfastly shied away from socialism, even socialist rhetoric, despite rising inequality, and the large pool of likely beneficiaries of socialist policies.
+
 ### Neither Necessary Nor Sufficient Conditions For Mobilization
 
   <img src = "../src/injury_to_insult/02_process_of_mobilization.jpg" width="500">
