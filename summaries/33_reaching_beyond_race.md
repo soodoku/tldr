@@ -7,8 +7,6 @@
 
 ### Correlation Between Other Racial Policies for Advancement and Racial Prejudice
 
-The correlation between prejudice and racial policies is also weak, e.g., support for programs to get blacks jobs (the average correlation is .16).
-
   <img src = "../src/reaching_beyond_race/cor_prejudice_other_policies.jpg" width="500">
 
 ### Cor(Racial prejudice, support for policies) by Liberal/Conservative
@@ -18,6 +16,7 @@ The correlation between prejudice and racial policies is also weak, e.g., suppor
 ### Support for Race Neutral Policies vs. Race Specific Policies
 
   <img src = "../src/reaching_beyond_race/race_neutral_1.MP.jpg" width="500">
+  <img src = "../src/reaching_beyond_race/race_neutral_3.MP.jpg" width="500">
   <img src = "../src/reaching_beyond_race/race_neutral_2.MP.jpg" width="500">
 
 ### Reasons Why AA Behind
