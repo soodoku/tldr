@@ -110,7 +110,7 @@ The density of original points in an average work---book, paper, article, lectur
 36. [Schlozman, Kay Lehman, and Sidney Verba. Injury to Insult.](summaries/36_injury_to_insult.md)   
     [Link to Amazon](https://www.amazon.com/Injury-Insult-Unemployment-Political-Response/dp/0674454413/)
 
-37. [Allport, Gordon. The Nature of Prejudice.](summaries/37_nature_of_prejudice.md).   
+37. [Allport, Gordon. The Nature of Prejudice.](summaries/37_nature_of_prejudice.md)   
     [Link to Amazon](https://www.amazon.com/Nature-Prejudice-25th-Anniversary/dp/0201001799/)
 
 ### Contribute
