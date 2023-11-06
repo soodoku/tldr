@@ -9,11 +9,18 @@
 
 The correlation between prejudice and racial policies is also weak, e.g., support for programs to get blacks jobs (the average correlation is .16).
 
+  <img src = "../src/reaching_beyond_race/cor_prejudice_other_policies.jpg" width="500">
+
 ### Cor(Racial prejudice, support for policies) by Liberal/Conservative
 
-### Support for race neutral policies vs. race specific policies
+  <img src = "../src/reaching_beyond_race/lib_dem.jpg" width="500">
 
-### Reason Why AA Behind
+### Support for Race Neutral Policies vs. Race Specific Policies
+
+  <img src = "../src/reaching_beyond_race/race_neutral_1.MP.jpg" width="500">
+  <img src = "../src/reaching_beyond_race/race_neutral_2.MP.jpg" width="500">
+
+### Reasons Why AA Behind
 
   <img src = "../src/reaching_beyond_race/reasons_why_aa_behind.jpg" width="500">
 
