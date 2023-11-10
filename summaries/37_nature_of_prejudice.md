@@ -1,6 +1,6 @@
 ## Nature of Prejudice
 
-### Theories of Prejudice (Supplements and Organizes Dramatically)
+### Theories of Prejudice (Dramatically Supplemented and Organized.)
 
 * Authoritarian Personality (Adorno et al.)
 
