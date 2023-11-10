@@ -76,27 +76,27 @@
 
 ### Correlates of Prejudice
 
-**Social Mobility**
+#### Social Mobility
 
   <img src = "../src/nature_of_prejudice/06_social_mob_anti_black.jpg" width="500">
   <img src = "../src/nature_of_prejudice/06_social_mob_anti_semitism.jpg" width="500">
 
-**Parental Education**
+#### Parental Education**
 
   <img src = "../src/nature_of_prejudice/09_education_prejudice_2.jpg" width="500">
 
-**Values**
+#### Values
   <img src = "../src/nature_of_prejudice/09_values_prejudice.MP.jpg" width="500">
 
 ### Contact
 
-**Army**
+#### Army
   <img src = "../src/nature_of_prejudice/08_contact_army.jpg" width="500">
 
-**Competition**
+#### Competition
   <img src = "../src/nature_of_prejudice/07_contact_competition.jpg" width="500">
   <img src = "../src/nature_of_prejudice/07_contact_stereotype.jpg" width="500">
 
-**Occupation and Status**
+#### Occupation and Status
   <img src = "../src/nature_of_prejudice/07_contact_occupation.jpg" width="500">
 
