@@ -58,45 +58,45 @@
 
 ~ 'unjustified' affect/beliefs.
 
-  <img src = "../src/reaching_beyond_race/01_def_of_prej.jpg" width="500">
+  <img src = "../src/nature_of_prejudice/01_def_of_prej.jpg" width="500">
 
 ### Prejudice Against Women Among Intellectuals in the 18th and 19th Century
 
-  <img src = "../src/reaching_beyond_race/03_prej_women.MP.jpg" width="500">
-  <img src = "../src/reaching_beyond_race/03_prej_against_women.jpg" width="500">
+  <img src = "../src/nature_of_prejudice/03_prej_women.MP.jpg" width="500">
+  <img src = "../src/nature_of_prejudice/03_prej_against_women.jpg" width="500">
 
 ### Prejudice Against Women Among Intellectuals in the 18th and 19th Century
 
-  <img src = "../src/reaching_beyond_race/03_prej_women.MP.jpg" width="500">
-  <img src = "../src/reaching_beyond_race/03_prej_against_women.jpg" width="500">
+  <img src = "../src/nature_of_prejudice/03_prej_women.MP.jpg" width="500">
+  <img src = "../src/nature_of_prejudice/03_prej_against_women.jpg" width="500">
 
 ### Prejudice Toward Various Racial Groups is Strongly Correlated
 
-  <img src = "../src/reaching_beyond_race/04_correlated_prejudice.MP.jpg" width="500">
+  <img src = "../src/nature_of_prejudice/04_correlated_prejudice.MP.jpg" width="500">
 
 ### Correlates of Prejudice
 
 **Social Mobility**
 
-  <img src = "../src/reaching_beyond_race/06_social_mob_anti_black.jpg" width="500">
-  <img src = "../src/reaching_beyond_race/06_social_mob_anti_semitism.jpg" width="500">
+  <img src = "../src/nature_of_prejudice/06_social_mob_anti_black.jpg" width="500">
+  <img src = "../src/nature_of_prejudice/06_social_mob_anti_semitism.jpg" width="500">
 
 **Parental Education**
 
-  <img src = "../src/reaching_beyond_race/09_education_prejudice_2.jpg" width="500">
+  <img src = "../src/nature_of_prejudice/09_education_prejudice_2.jpg" width="500">
 
 **Values**
-  <img src = "../src/reaching_beyond_race/09_values_prejudice.MP.jpg" width="500">
+  <img src = "../src/nature_of_prejudice/09_values_prejudice.MP.jpg" width="500">
 
 ### Contact
 
 **Army**
-  <img src = "../src/reaching_beyond_race/08_contact_army.jpg" width="500">
+  <img src = "../src/nature_of_prejudice/08_contact_army.jpg" width="500">
 
 **Competition**
-  <img src = "../src/reaching_beyond_race/07_contact_competition.jpg" width="500">
-  <img src = "../src/reaching_beyond_race/07_contact_stereotype.jpg" width="500">
+  <img src = "../src/nature_of_prejudice/07_contact_competition.jpg" width="500">
+  <img src = "../src/nature_of_prejudice/07_contact_stereotype.jpg" width="500">
 
 **Occupation and Status**
-  <img src = "../src/reaching_beyond_race/07_contact_occupation.jpg" width="500">
+  <img src = "../src/nature_of_prejudice/07_contact_occupation.jpg" width="500">
 
