@@ -113,6 +113,9 @@ The density of original points in an average work---book, paper, article, lectur
 37. [Allport, Gordon. The Nature of Prejudice.](summaries/37_nature_of_prejudice.md)   
     [Link to Amazon](https://www.amazon.com/Nature-Prejudice-25th-Anniversary/dp/0201001799/)
 
+38. [Alesina, Alberto, and Geoffrey Carliner. Politics and Economics in the Eighties.](summaries/38_politics_economics_80s.md)   
+    [UC Press](https://press.uchicago.edu/ucp/books/book/chicago/P/bo3684458.html)
+
 ### Contribute
 
 If you have a suggestion for improving an existing summary or want to contribute a summary, open a PR.
