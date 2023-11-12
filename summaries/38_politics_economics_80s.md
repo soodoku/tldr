@@ -1,6 +1,6 @@
 ## Politics and Economics in the Eighties
 
-A unique book in many ways with essays by political scientists and commentaries by economists. The TL;DR is that conventional wisdom about Reaganomics is wrong---under Reagan the welfare spending didn't decline much, tax rates flip flopped, deficits increased by 3x, 
+Essays by political scientists with commentaries by economists. The TL;DR is that conventional wisdom about Reaganomics is wrong---under Reagan, the welfare spending didn't decline much, tax rates flip-flopped, deficits increased by 2x, etc. 
 
 ### Wise and Moderate Voters By Fiorina
 
