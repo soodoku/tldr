@@ -16,7 +16,7 @@ A unique book in many ways with essays by political scientists and commentaries 
 ### No Holds-Barro (McCubbins)
 	
   <img src = "../src/politics_economics_80s/02a_barro_mccubbins.jpg" width="500">
-  <img src = "../src/politics_economics_80s/02c_barro_mccubbins.jp" width="500">
+  <img src = "../src/politics_economics_80s/02c_barro_mccubbins.jpg" width="500">
   <img src = "../src/politics_economics_80s/02d_barro_mccubbins.jpg" width="500">
   <img src = "../src/politics_economics_80s/02f_barro_mccubbins.jpg" width="500">
 
