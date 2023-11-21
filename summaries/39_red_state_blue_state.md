@@ -2,9 +2,17 @@
 
 ### Cor. Econ. and Social Ideology and Income by State 
 
+TL;DR = low corr. and +ve cor. b/w social ideology (more conservative is higher) and income in red states
+
   <img src = "../src/red_state_blue_state/cor_econ_social_ideology_income_by_state.jpg" width="500">
 
-TL;DR = low corr. and +ve cor. b/w social ideology (more conservative is higher) and income in red states
+### Income and Rep. Vote by Red/Blue
+
+  <img src = "../src/red_state_blue_state/income_voting_pattern_by_red_blue.jpg" width="500">
+
+### Cor. County Income And Rep. Vote in Maryland/Texas
+
+  <img src = "../src/red_state_blue_state/maryland_texas_county_income_rep.jpg " width="500">
 
 ### Church Attendance Trends By State Income
 
@@ -26,6 +34,10 @@ two to three times as large as the average distance between representatives and 
 
 https://www.andrewbenjaminhall.com/Hall_APSR.pdf
 
+
+### Second Order Availability Bias
+
+  <img src = "../src/red_state_blue_state/rich_rich_availability_bias.jpg" width="500">
 
 ### Economic Voting to Partisan Retrospection
 
