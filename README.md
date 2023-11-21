@@ -116,7 +116,7 @@ The density of original points in an average work---book, paper, article, lectur
 38. [Alesina, Alberto, and Geoffrey Carliner. Politics and Economics in the Eighties.](summaries/38_politics_economics_80s.md)   
     [UC Press](https://press.uchicago.edu/ucp/books/book/chicago/P/bo3684458.html)
 
-39. [Gelman, Andrew. Red State, Blue State, Rich State, Poor State: Why Americans Vote the Way They Do.](summaries/39_red_state_blue_state.md). 
+39. [Gelman, Andrew. Red State, Blue State, Rich State, Poor State: Why Americans Vote the Way They Do.](summaries/39_red_state_blue_state.md)   
     [Link to Amazon](https://www.amazon.com/Red-State-Blue-Rich-Poor/dp/0691143935)
 
 ### Contribute
