@@ -16,11 +16,21 @@ TL;DR = low corr. and +ve cor. b/w social ideology (more conservative is higher)
 
 ### Cor. County Income And Rep. Vote in Maryland/Texas
 
-  <img src = "../src/red_state_blue_state/maryland_texas_county_income_rep.jpg " width="500">
+  <img src = "../src/red_state_blue_state/maryland_texas_county_income_rep.jpg" width="500">
+
+### Cor. Econ./Social Ideology by Income Across States
+
+  <img src = "../src/red_state_blue_state/cor_econ_social_ideology_income_by_state.jpg" width="500">
 
 ### Church Attendance Trends By State Income
 
   <img src = "../src/red_state_blue_state/church_attendance_by_rich_poor_state.jpg" width="500">
+
+### Normal Vote by Ideology
+
+  <img src = "../src/red_state_blue_state/normal_vote_by_ideology.jpg" width="500">
+
+  GS: since re-election rates are correlated w/ ideology (safe districts elect ideologues), the people who will end up with seniority-based committee positions would be more extreme also.
 
 ### Benefits of Moderation
 
@@ -62,7 +72,6 @@ https://www.andrewbenjaminhall.com/Hall_APSR.pdf
   <img src = "../src/red_state_blue_state/08a_korean_vietnam_war_party.MP.jpg" width="500">
   <img src = "../src/red_state_blue_state/08b_disagreement_over_iraq_war.jpg" width="500">
   <img src = "../src/red_state_blue_state/08c_belief_in_iraq_wmd_by_party.jpg" width="500">
-
 
 
 
