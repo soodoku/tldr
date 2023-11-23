@@ -10,6 +10,10 @@ TL;DR = low corr. and +ve cor. b/w social ideology (more conservative is higher)
 
   <img src = "../src/red_state_blue_state/income_voting_pattern_by_red_blue.jpg" width="500">
 
+### Rich People in Rich States More Dem. over time 
+
+  <img src = "../src/red_state_blue_state/rich_people_rich_states_voting_more_r_over_time.jpg" width="500">
+
 ### Cor. County Income And Rep. Vote in Maryland/Texas
 
   <img src = "../src/red_state_blue_state/maryland_texas_county_income_rep.jpg " width="500">
@@ -38,6 +42,10 @@ https://www.andrewbenjaminhall.com/Hall_APSR.pdf
 ### Second Order Availability Bias
 
   <img src = "../src/red_state_blue_state/rich_rich_availability_bias.jpg" width="500">
+
+### Something Was The Matter W/ Kansas in 2004
+
+  <img src = "../src/red_state_blue_state/kansas_2004.jpg" width="500">
 
 ### Economic Voting to Partisan Retrospection
 
