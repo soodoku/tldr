@@ -15,7 +15,7 @@ Rich people in rich states have increasingly become socially liberal and they ar
 
 ### Cor. Econ. and Social Ideology and Income by State 
 
-TL;DR = low corr. and +ve cor. b/w social ideology (more conservative is higher) and income in red states
+TL;DR = low corr. and +ve cor. b/w social ideology (more conservative is higher) and income in some of the red states. GS: I expect cor. to become negative everywhere.
 
   <img src = "../src/red_state_blue_state/cor_econ_social_ideology_income_by_state.jpg" width="500">
 
