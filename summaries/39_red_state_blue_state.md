@@ -3,13 +3,31 @@
 "Paradoxes" = 
 
 1. Rich states vote Democratic but rich people vote Republican.
-2. Richer counties in rich states vote Democratic (California and NY have some examples where journos are concentrated) --- see <a href = "../src/red_state_blue_state/rich_rich_availability_bias.jpg">the second order availability bias</a>
-   
-Cor(Income, PID) over time: https://github.com/soodoku/anes_inc_pid_cor
+2. Richer counties in rich states vote Democratic (see <a href = "../src/red_state_blue_state/rich_rich_availability_bias.jpg">the second order availability bias</a>)
 
-Rich people in rich states have increasingly become socially liberal and they are voting against their 'class interests.' Rich people in rich states are also becoming economically liberal. see also: https://twitter.com/wpmarble/status/1703798638693212364
+Resolution:
 
-### Party By Income Across States + Something Was The Matter W/ Kansas in 2004
+Rich people in rich states have increasingly become socially liberal and they are voting against their 'class interests.' (Rich people in rich states are also becoming economically liberal.) see also: https://twitter.com/wpmarble/status/1703798638693212364
+
+You also see a dramatic ecological shift (among NH Whites) toward R in the South but also in places like UT. **Majorities of poor people  vote R in a bunch of states.**
+
+### Rich Vote More R
+
+At an individual level, the richer people are likelier to vote R. Though see <a href = "https://github.com/soodoku/anes_inc_pid_cor">2020 (and there seems to be a downward trajectory in the cor among NH Whites)</a> 
+
+  <img src = "../src/red_state_blue_state/01a_rich_poor_gap_over_time.jpg" width="500">
+  <img src = "../src/red_state_blue_state/01b_rich_poor_house_gap_over_time.jpg" width="500">
+  <img src = "../src/red_state_blue_state/01c_rich_poor_gap_over_time_by_south.jpg" width="500">
+  <img src = "../src/red_state_blue_state/01d_rich_poor_2006.jpg" width="500">
+
+### Rich/Poor County-Level Polarization 
+
+OR, WA, and ID show strong over-time patterns of rich counties becoming increasingly D (or poorer counties becoming increasingly R) or both. KY, AK, AL, MS, TN (AL and WI less so) show strong over-time patterns of R-D diff. becoming larger. See NY also.
+
+  <img src = "../src/red_state_blue_state/2a_rich_poor_county_gap_over_time.jpg" width="500">
+  <img src = "../src/red_state_blue_state/2b_rich_poor_county_gap_over_time.jpg" width="500">
+
+### Party By Income Across States (+ Something Was The Matter W/ Kansas in 2004)
 
   <img src = "../src/red_state_blue_state/kansas_2004.jpg" width="500">
 
