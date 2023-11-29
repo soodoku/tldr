@@ -41,9 +41,6 @@ TL;DR = low corr. and +ve cor. b/w social ideology (more conservative is higher)
 
   <img src = "../src/red_state_blue_state/income_voting_pattern_by_red_blue.jpg" width="500">
 
-  <b>Cor. County Income And Rep. Vote in Maryland/Texas (At county level but gets at the same pt.)</b>
-  <img src = "../src/red_state_blue_state/maryland_texas_county_income_rep.jpg" width="500">
-
 ### Rich People in Rich States More Dem. Over Time 
 
   <img src = "../src/red_state_blue_state/rich_people_rich_states_voting_more_r_over_time.jpg" width="500">
