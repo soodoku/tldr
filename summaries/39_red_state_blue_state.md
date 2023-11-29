@@ -1,36 +1,58 @@
 ## Red State Blue State
 
+"Paradoxes" = 
+
+1. Rich states vote Democratic but rich people vote Republican.
+2. Richer counties in rich states vote Democratic (see <a href = "../src/red_state_blue_state/rich_rich_availability_bias.jpg">the second order availability bias</a>)
+
+Resolution:
+
+Rich people in rich states have increasingly become socially liberal and they are voting against their 'class interests.' (Rich people in rich states are also becoming economically liberal.) see also: https://twitter.com/wpmarble/status/1703798638693212364
+
+You also see a dramatic ecological shift (among NH Whites) toward R in the South but also in places like UT. **Majorities of poor people  vote R in a bunch of states.**
+
+### Rich Vote More R
+
+At an individual level, the richer people are likelier to vote R. Though see <a href = "https://github.com/soodoku/anes_inc_pid_cor">2020 (and there seems to be a downward trajectory in the cor among NH Whites)</a> 
+
+  <img src = "../src/red_state_blue_state/01a_rich_poor_gap_over_time.jpg" width="500">
+  <img src = "../src/red_state_blue_state/01b_rich_poor_house_gap_over_time.jpg" width="500">
+  <img src = "../src/red_state_blue_state/01c_rich_poor_gap_over_time_by_south.jpg" width="500">
+  <img src = "../src/red_state_blue_state/01d_rich_poor_2006.jpg" width="500">
+
+### Rich/Poor County-Level Polarization 
+
+OR, WA, and ID show strong over-time patterns of rich counties becoming increasingly D (or poorer counties becoming increasingly R) or both. KY, AK, AL, MS, TN (AL and WI less so) show strong over-time patterns of R-D diff. becoming larger. See NY also.
+
+  <img src = "../src/red_state_blue_state/2a_rich_poor_county_gap_over_time.jpg" width="500">
+  <img src = "../src/red_state_blue_state/2b_rich_poor_county_gap_over_time.jpg" width="500">
+
+### Party By Income Across States (+ Something Was The Matter W/ Kansas in 2004)
+
+  <img src = "../src/red_state_blue_state/kansas_2004.jpg" width="500">
+
 ### Cor. Econ. and Social Ideology and Income by State 
 
-TL;DR = low corr. and +ve cor. b/w social ideology (more conservative is higher) and income in red states
+TL;DR = low corr. and +ve cor. b/w social ideology (more conservative is higher) and income in some of the red states. GS: I expect cor. to become negative everywhere.
 
   <img src = "../src/red_state_blue_state/cor_econ_social_ideology_income_by_state.jpg" width="500">
 
-### Income and Rep. Vote by Red/Blue
+### Income and Rep. Vote Gradient is Smaller in the Blue States Than in the Red States
 
   <img src = "../src/red_state_blue_state/income_voting_pattern_by_red_blue.jpg" width="500">
 
-### Rich People in Rich States More Dem. over time 
+  <b>Cor. County Income And Rep. Vote in Maryland/Texas (At county level but gets at the same pt.)</b>
+  <img src = "../src/red_state_blue_state/maryland_texas_county_income_rep.jpg" width="500">
+
+### Rich People in Rich States More Dem. Over Time 
 
   <img src = "../src/red_state_blue_state/rich_people_rich_states_voting_more_r_over_time.jpg" width="500">
 
-### Cor. County Income And Rep. Vote in Maryland/Texas
-
-  <img src = "../src/red_state_blue_state/maryland_texas_county_income_rep.jpg" width="500">
-
-### Cor. Econ./Social Ideology by Income Across States
-
-  <img src = "../src/red_state_blue_state/cor_econ_social_ideology_income_by_state.jpg" width="500">
-
-### Church Attendance Trends By State Income
-
-  <img src = "../src/red_state_blue_state/church_attendance_by_rich_poor_state.jpg" width="500">
-
 ### Normal Vote by Ideology
 
-  <img src = "../src/red_state_blue_state/normal_vote_by_ideology.jpg" width="500">
+GS: since re-election rates are correlated with ideology (safe districts elect ideologues), the people who will end up with seniority-based committee positions would be more extreme also.
 
-  GS: since re-election rates are correlated w/ ideology (safe districts elect ideologues), the people who will end up with seniority-based committee positions would be more extreme also.
+  <img src = "../src/red_state_blue_state/normal_vote_by_ideology.jpg" width="500">
 
 ### Benefits of Moderation
 
@@ -39,23 +61,9 @@ TL;DR = low corr. and +ve cor. b/w social ideology (more conservative is higher)
 
 c.f. with "When an extremist—as measured by primary-election campaign receipt patterns—wins a “coin-flip” election over a more moderate candidate, the party’s general-election vote share decreases on average by approximately 9–13 percentage points, and the probability that the party wins the seat decreases by 35–54 percentage points."
 
-though remember that what's being compared = 
-
-"In primary races with two major candidates, the race is tentatively identified as being between an extremist
-and a relatively moderate candidate if the difference between their estimated ideological positions is at or
-above the median in the distribution of ideological distances between the top two candidates in all contested primary elections.  This median distance translates to roughly one-third the distance on the DWNOMINATE scale between the medians of the two parties in the 112th Congress, and it is approximately
-two to three times as large as the average distance between representatives and their own party’s median."
+though remember what's being compared = "In primary races with two major candidates, the race is tentatively identified as being between an extremist and a relatively moderate candidate if the difference between their estimated ideological positions is at or above the median in the distribution of ideological distances between the top two candidates in all contested primary elections.  This median distance translates to roughly one-third the distance on the DWNOMINATE scale between the medians of the two parties in the 112th Congress, and it is approximately two to three times as large as the average distance between representatives and their own party’s median."
 
 https://www.andrewbenjaminhall.com/Hall_APSR.pdf
-
-
-### Second Order Availability Bias
-
-  <img src = "../src/red_state_blue_state/rich_rich_availability_bias.jpg" width="500">
-
-### Something Was The Matter W/ Kansas in 2004
-
-  <img src = "../src/red_state_blue_state/kansas_2004.jpg" width="500">
 
 ### Economic Voting to Partisan Retrospection
 
@@ -72,10 +80,3 @@ https://www.andrewbenjaminhall.com/Hall_APSR.pdf
   <img src = "../src/red_state_blue_state/08a_korean_vietnam_war_party.MP.jpg" width="500">
   <img src = "../src/red_state_blue_state/08b_disagreement_over_iraq_war.jpg" width="500">
   <img src = "../src/red_state_blue_state/08c_belief_in_iraq_wmd_by_party.jpg" width="500">
-
-
-
-
-
-
-
