@@ -5,6 +5,8 @@
 1. Rich states (increasingly?) vote Democratic but rich people vote Republican.
 2. Richer counties in rich states vote Democratic (also causes <a href = "../src/red_state_blue_state/rich_rich_availability_bias.jpg">the second order availability bias</a> --- a claim about absolute levels not trends.) but the rich vote Republican.
 
+See also: http://www.stat.columbia.edu/~gelman/research/published/feller_gelman_shor_2012.pdf
+
 Key Claims
 
 1. Rich people in rich states have increasingly become socially liberal and they are voting against their class interests.  (Would have been nice to see how the rich in blue states have become more socially liberal. Could be some version of #2 where socially liberal rich people vote Dem. as R becomes more socially conservative.)
