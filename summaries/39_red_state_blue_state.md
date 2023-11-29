@@ -1,5 +1,14 @@
 ## Red State Blue State
 
+"Paradoxes" = 
+
+1. Rich states vote Democratic but rich people vote Republican.
+2. Richer counties in rich states vote Democratic (California and NY have some examples where journos are concentrated) --- see 'the second order availability bias'
+   
+Cor(Income, PID) over time: https://github.com/soodoku/anes_inc_pid_cor
+
+Rich people in rich states have increasingly become socially liberal and they are voting against their 'class interests.' Rich people in rich states are also becoming economically liberal. 
+
 ### Cor. Econ. and Social Ideology and Income by State 
 
 TL;DR = low corr. and +ve cor. b/w social ideology (more conservative is higher) and income in red states
@@ -28,9 +37,9 @@ TL;DR = low corr. and +ve cor. b/w social ideology (more conservative is higher)
 
 ### Normal Vote by Ideology
 
-  <img src = "../src/red_state_blue_state/normal_vote_by_ideology.jpg" width="500">
+GS: since re-election rates are correlated with ideology (safe districts elect ideologues), the people who will end up with seniority-based committee positions would be more extreme also.
 
-  GS: since re-election rates are correlated w/ ideology (safe districts elect ideologues), the people who will end up with seniority-based committee positions would be more extreme also.
+  <img src = "../src/red_state_blue_state/normal_vote_by_ideology.jpg" width="500">
 
 ### Benefits of Moderation
 
@@ -39,21 +48,17 @@ TL;DR = low corr. and +ve cor. b/w social ideology (more conservative is higher)
 
 c.f. with "When an extremist—as measured by primary-election campaign receipt patterns—wins a “coin-flip” election over a more moderate candidate, the party’s general-election vote share decreases on average by approximately 9–13 percentage points, and the probability that the party wins the seat decreases by 35–54 percentage points."
 
-though remember that what's being compared = 
-
-"In primary races with two major candidates, the race is tentatively identified as being between an extremist
-and a relatively moderate candidate if the difference between their estimated ideological positions is at or
-above the median in the distribution of ideological distances between the top two candidates in all contested primary elections.  This median distance translates to roughly one-third the distance on the DWNOMINATE scale between the medians of the two parties in the 112th Congress, and it is approximately
-two to three times as large as the average distance between representatives and their own party’s median."
+though remember what's being compared = "In primary races with two major candidates, the race is tentatively identified as being between an extremist and a relatively moderate candidate if the difference between their estimated ideological positions is at or above the median in the distribution of ideological distances between the top two candidates in all contested primary elections.  This median distance translates to roughly one-third the distance on the DWNOMINATE scale between the medians of the two parties in the 112th Congress, and it is approximately two to three times as large as the average distance between representatives and their own party’s median."
 
 https://www.andrewbenjaminhall.com/Hall_APSR.pdf
-
 
 ### Second Order Availability Bias
 
   <img src = "../src/red_state_blue_state/rich_rich_availability_bias.jpg" width="500">
 
 ### Something Was The Matter W/ Kansas in 2004
+
+see also: https://twitter.com/wpmarble/status/1703798638693212364
 
   <img src = "../src/red_state_blue_state/kansas_2004.jpg" width="500">
 
