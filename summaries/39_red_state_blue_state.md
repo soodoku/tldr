@@ -2,7 +2,7 @@
 
 "Paradoxes"
 
-1. Rich states vote Democratic but rich people vote Republican.
+1. Rich states (increasingly?) vote Democratic but rich people vote Republican.
 2. Richer counties in rich states vote Democratic (also causes <a href = "../src/red_state_blue_state/rich_rich_availability_bias.jpg">the second order availability bias</a> --- a claim about absolute levels not trends.) but the rich vote Republican.
 
 Key Claims
