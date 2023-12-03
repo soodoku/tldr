@@ -122,6 +122,9 @@ The density of original points in an average work---book, paper, article, lectur
 40. [Yohannan, K. P.](summaries/40_revolution_in_world_missions.md)   
     [Link to Amazon](https://www.amazon.com/Revolution-World-Missions-Journey-Generation/dp/1595890610)
 
+41. [Iyengar, Shanto](summaries/41_is_anyone_responsible.md)   
+    [Link to Amazon](https://www.amazon.com/Anyone-Responsible-Television-Political-American/dp/0226388557)
+
 ### Contribute
 
 If you have a suggestion for improving an existing summary or want to contribute a summary, open a PR.
