@@ -119,10 +119,10 @@ The density of original points in an average work---book, paper, article, lectur
 39. [Gelman, Andrew. Red State, Blue State, Rich State, Poor State: Why Americans Vote the Way They Do.](summaries/39_red_state_blue_state.md)   
     [Link to Amazon](https://www.amazon.com/Red-State-Blue-Rich-Poor/dp/0691143935)
 
-40. [Yohannan, K. P.](summaries/40_revolution_in_world_missions.md)   
+40. [Yohannan, K. P. Revolution in World Missions](summaries/40_revolution_in_world_missions.md)   
     [Link to Amazon](https://www.amazon.com/Revolution-World-Missions-Journey-Generation/dp/1595890610)
 
-41. [Iyengar, Shanto](summaries/41_is_anyone_responsible.md)   
+41. [Iyengar, Shanto. Is Anyone Responsible?](summaries/41_is_anyone_responsible.md)   
     [Link to Amazon](https://www.amazon.com/Anyone-Responsible-Television-Political-American/dp/0226388557)
 
 ### Contribute
