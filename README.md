@@ -125,6 +125,9 @@ The density of original points in an average work---book, paper, article, lectur
 41. [Iyengar, Shanto. Is Anyone Responsible?](summaries/41_is_anyone_responsible.md)   
     [Link to Amazon](https://www.amazon.com/Anyone-Responsible-Television-Political-American/dp/0226388557)
 
+42. [Iyengar, Shanto and Donald Kinder. News That Matters.](summaries/42_news_that_matters.md)   
+    [Link to Amazon](https://www.amazon.com/News-That-Matters-Television-American-ebook/dp/B009KA47PK/)
+
 ### Contribute
 
 If you have a suggestion for improving an existing summary or want to contribute a summary, open a PR.
