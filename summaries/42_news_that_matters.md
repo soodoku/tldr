@@ -10,20 +10,21 @@ TL;DR: Motivating question = how do people come to judgments about topics they h
 
 #### n that matters
 
-	  <img src = "../src/news_that_matters/n_that_matters_1.jpg" width="500">
-	  <img src = "../src/news_that_matters/n_that_matters_2.jpg" width="500">
+<img src = "../src/news_that_matters/n_that_matters_1.jpg" width="500">
+<img src = "../src/news_that_matters/n_that_matters_2.jpg" width="500">
 
 #### Issues
-	- Small n per cell. See ^^
-	- Treatment is complex so hard to uniquely attribute it to X
-	- Lack of adjustment for multiple comparison
-	- Lack of clustered s.e. by respondent if there are multiple DV per respondent
+	
+* Small n per cell. See ^^
+* Treatment is complex so hard to uniquely attribute it to X
+* Lack of adjustment for multiple comparison
+* Lack of clustered s.e. by respondent if there are multiple DV per respondent
 
 ### Agenda Setting
 
-	<img src = "../src/news_that_matters/agenda_setting_1.jpg" width="500">
-	<img src = "../src/news_that_matters/agenda_setting_2.jpg" width="500">
-	<img src = "../src/news_that_matters/agenda_setting_3.jpg" width="500">
+<img src = "../src/news_that_matters/agenda_setting_1.jpg" width="500">
+<img src = "../src/news_that_matters/agenda_setting_2.jpg" width="500">
+<img src = "../src/news_that_matters/agenda_setting_3.jpg" width="500">
 
 ### Vividity Bias
 
@@ -31,11 +32,11 @@ TL;DR: Motivating question = how do people come to judgments about topics they h
 2. In exp. 6, vivid and pallid versions of the same story. 
 3. Exp. 11 is with Umich. undergrads. Exp. 11 conditions = Stats, Stats + interview with White unempoyed, Stats. + interview with Black unemployed
 
-	<img src = "../src/news_that_matters/vivid_pallid_prior.jpg" width="500">
-	<img src = "../src/news_that_matters/vivid_pallid_prior_2.jpg" width="500">
-	<img src = "../src/news_that_matters/vivid_pallid_treatment.jpg" width="500">
-	<img src = "../src/news_that_matters/vivid_pallid_1.jpg" width="500">
-	<img src = "../src/news_that_matters/vivid_pallid_2.jpg" width="500">
+<img src = "../src/news_that_matters/vivid_pallid_prior.jpg" width="500">
+<img src = "../src/news_that_matters/vivid_pallid_prior_2.jpg" width="500">
+<img src = "../src/news_that_matters/vivid_pallid_treatment.jpg" width="500">
+<img src = "../src/news_that_matters/vivid_pallid_1.jpg" width="500">
+<img src = "../src/news_that_matters/vivid_pallid_2.jpg" width="500">
 
 ### Lead Story
 
@@ -45,9 +46,9 @@ TL;DR: Motivating question = how do people come to judgments about topics they h
 
 ### Priming
 
-	<img src = "../src/news_that_matters/priming_1.jpg" width="500">
-	<img src = "../src/news_that_matters/priming_2.jpg" width="500">
-	<img src = "../src/news_that_matters/priming_3.jpg" width="500">
+<img src = "../src/news_that_matters/priming_1.jpg" width="500">
+<img src = "../src/news_that_matters/priming_2.jpg" width="500">
+<img src = "../src/news_that_matters/priming_3.jpg" width="500">
 
 ### Who is Responsible?
 
