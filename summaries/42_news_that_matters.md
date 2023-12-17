@@ -45,6 +45,9 @@ TL;DR: Motivating question = how do people come to judgments about topics they h
 
 ### Priming
 
+	<img src = "../src/news_that_matters/priming_1.jpg" width="500">
+	<img src = "../src/news_that_matters/priming_2.jpg" width="500">
+	<img src = "../src/news_that_matters/priming_3.jpg" width="500">
 
 ### Who is Responsible?
 
