@@ -22,6 +22,9 @@ TL;DR: Motivating question = how do people come to judgments about topics they h
 
 ### Agenda Setting
 
+* combined n for exp. 1, 2, 8, and 9 = 203, 12 treatment conditions in total, so ~ 17 per cell. poor man's est. ~ 10. 
+* 0 story condition for topic a = stories on other topics.
+
 <img src = "../src/news_that_matters/agenda_setting_1.jpg" width="500">
 <img src = "../src/news_that_matters/agenda_setting_2.jpg" width="500">
 <img src = "../src/news_that_matters/agenda_setting_3.jpg" width="500">
@@ -30,27 +33,55 @@ TL;DR: Motivating question = how do people come to judgments about topics they h
 
 1. Single example > Stats.
 2. In exp. 6, vivid and pallid versions of the same story. 
-3. Exp. 11 is with Umich. undergrads. Exp. 11 conditions = Stats, Stats + interview with White unempoyed, Stats. + interview with Black unemployed
+3. Exp. 11 is with Umich. undergrads. Exp. 11 conditions = Stats, Stats + interview with White unempoyed, Stats. + interview with Black unemployed. TL;DR here is perhaps 
 
 <img src = "../src/news_that_matters/vivid_pallid_prior.jpg" width="500">
 <img src = "../src/news_that_matters/vivid_pallid_prior_2.jpg" width="500">
 <img src = "../src/news_that_matters/vivid_pallid_treatment.jpg" width="500">
 <img src = "../src/news_that_matters/vivid_pallid_1.jpg" width="500">
 <img src = "../src/news_that_matters/vivid_pallid_2.jpg" width="500">
+<img src = "../src/news_that_matters/vivid_race.jpg.jpg" width="500">
 
 ### Lead Story
 
+* Exp. 14 --- lead story or midway during 30 min. newscast. 2 topics so 4 conditions in all.
+* Mixed results --- ~ 14 pts on education but 2 on education. week later 83 of 121 responded and apparenly effect on both topics.
 
-### Personal Situation 
+### Het. Treat. for Agenda Setting: Personal Situation 
 
+* Exp. 5. 6 conditions 
+	- 2, and 4 stories by 3 topics.
+	- 0 story condition on topic a = 2 or 4 stories on other topics. this seems like a bad idea.
+
+* The analysis here seems weird. Not the classic interaction term. The hypothesis is that the less informed are more prone to agenda setting.
 
 ### Priming
+
+Post-treatment measures = performance in each area + general performance
+post treat general performance ~ post treat performance in each area * treatment
+hypothesis = beta for topic covered is higher. seems like multiple things could explain the change in beta? what is the right s.e. for this?
+* beta could be higher because of projection --- people adjust their topical ratings to be more consistent with their general eval. of the pres. solve with 2sls with pre-treatment topical ratings as instrument (not clear what's going on). could you not solve it by regressing post-treat general eval. on pre-treat topical * treatment?
+
+* in exp. 8 --- stories chosen to highlight a high degree of pres. responsibility. in others, not so.
+
+* affects performance ratings more than assessments of competence and judgments of integrity. 
 
 <img src = "../src/news_that_matters/priming_1.jpg" width="500">
 <img src = "../src/news_that_matters/priming_2.jpg" width="500">
 <img src = "../src/news_that_matters/priming_3.jpg" width="500">
 
-### Who is Responsible?
+### Priming Responsibility
 
+* Exp. = manipulate who is responsible (pres., no one, not the pres.)
+* The pres. is seen as responsible for energy, inflation, defense, and unemp. by most (see the first col.):
 
+<img src = "../src/news_that_matters/responsible_2.jpg" width="500">
+
+### Het. Treat for Priming
+
+* Apparently doesn't vary that much by pol. sophistication but same issues with the analysis. 
+
+### Electoral Consequences of Priming
+
+* Can affect who wins, who runs for (re-)election, etc.
 
