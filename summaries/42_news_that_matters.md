@@ -1,10 +1,10 @@
 ### News That Matters
 
-TL;DR: Motivating question = how do people come to judgments about topics they have little experience and interest in. Experiments on agenda-setting and priming.
+TL;DR: Motivating question = How do people come to judgments about topics they have little experience and interest in? Experiments on agenda-setting and priming.
 
 ### Research Design
 
-* **Sequential Exp.** A slightly altered 30 min. newscast for 5 days. Asked people to not watch the evening news and then showed last night's (edited) newscast --- added footage while deleting innocuous stuff of equal length. One group saw news stories highlighting pollution, another economic problems, another about issues w/ defense. Treatment: "Each condition was charactertized not only by sustained coverage of the target population but also by the systematic exclusion of news stories dealing with the other two." **Each group served as the control group for the other.** (pg. 9)
+* **Sequential Exp.** A slightly altered 30 min. newscast for 5 days. Asked people to not watch the evening news and then showed last night's (edited) newscast --- added footage while deleting innocuous stuff of equal length. One group saw news stories highlighting pollution, another economic problem, and another about issues w/ defense. Treatment: "Each condition was characterized not only by sustained coverage of the target population but also by the systematic exclusion of news stories dealing with the other two." **Each group served as the control group for the other.** (pg. 9)
 
 * **Assemblage Exp.** One sitting but multiple news stories.
 
@@ -17,8 +17,7 @@ TL;DR: Motivating question = how do people come to judgments about topics they h
 	
 * Small n per cell. See ^^
 * Treatment is complex so hard to uniquely attribute it to X
-* Lack of adjustment for multiple comparison
-* Lack of clustered s.e. by respondent if there are multiple DV per respondent
+* Lack of adjustment for multiple comparisons
 
 ### Agenda Setting
 
@@ -33,7 +32,7 @@ TL;DR: Motivating question = how do people come to judgments about topics they h
 
 1. Single example > Stats.
 2. In exp. 6, vivid and pallid versions of the same story. 
-3. Exp. 11 is with Umich. undergrads. Exp. 11 conditions = Stats, Stats + interview with White unempoyed, Stats. + interview with Black unemployed. TL;DR here is perhaps 
+3. Exp. 11 is with Umich. undergrads. Exp. 11 conditions = Stats, Stats + interview with White unemployed, Stats. + interview with Black unemployed. TL;DR here is perhaps 
 
 <img src = "../src/news_that_matters/vivid_pallid_prior.jpg" width="500">
 <img src = "../src/news_that_matters/vivid_pallid_prior_2.jpg" width="500">
@@ -45,7 +44,7 @@ TL;DR: Motivating question = how do people come to judgments about topics they h
 ### Lead Story
 
 * Exp. 14 --- lead story or midway during 30 min. newscast. 2 topics so 4 conditions in all.
-* Mixed results --- ~ 14 pts on education but 2 on education. week later 83 of 121 responded and apparenly effect on both topics.
+* Mixed results --- ~ 14 pts on education but 2 on education. a week later 83 of 121 responded and apparently an effect on both topics.
 
 ### Het. Treat. for Agenda Setting: Personal Situation 
 
@@ -53,14 +52,14 @@ TL;DR: Motivating question = how do people come to judgments about topics they h
 	- 2, and 4 stories by 3 topics.
 	- 0 story condition on topic a = 2 or 4 stories on other topics. this seems like a bad idea.
 
-* The analysis here seems weird. Not the classic interaction term. The hypothesis is that the less informed are more prone to agenda setting.
+* The analysis here seems weird. Not the classic interaction term. The hypothesis is that the less informed are more prone to agenda-setting.
 
 ### Priming
 
 Post-treatment measures = performance in each area + general performance
-post treat general performance ~ post treat performance in each area * treatment
-hypothesis = beta for topic covered is higher. seems like multiple things could explain the change in beta? what is the right s.e. for this?
-* beta could be higher because of projection --- people adjust their topical ratings to be more consistent with their general eval. of the pres. solve with 2sls with pre-treatment topical ratings as instrument (not clear what's going on). could you not solve it by regressing post-treat general eval. on pre-treat topical * treatment?
+post-treat general performance ~ post-treat performance in each area * treatment
+hypothesis = beta for the topic covered is higher. seems like multiple things could explain the change in beta? what is the right s.e. for this?
+* beta could be higher because of projection --- people adjust their topical ratings to be more consistent with their general eval. of the pres. solve with 2sls with pre-treatment topical ratings as an instrument (not clear what's going on). could you not solve it by regressing post-treat general eval. on pre-treat topical * treatment?
 
 * in exp. 8 --- stories chosen to highlight a high degree of pres. responsibility. in others, not so.
 
@@ -79,7 +78,7 @@ hypothesis = beta for topic covered is higher. seems like multiple things could 
 
 ### Het. Treat for Priming
 
-* Apparently doesn't vary that much by pol. sophistication but same issues with the analysis. 
+* Apparently doesn't vary that much by pol. sophistication but the same issues with the analysis. 
 
 ### Electoral Consequences of Priming
 
