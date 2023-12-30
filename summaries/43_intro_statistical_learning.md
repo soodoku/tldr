@@ -18,9 +18,9 @@ Stat. Learning problem is to approximate f(X)
 $\hat{Y} = \hat{f}(X)$
 
 e = irreducible error
-reducible error = \hat{f}(X) -> f(X)
+reducible error = $\hat{f}(X)$ -> f(X)
 
-E(Y - \hat{Y})^2 = (f(X) - \hat{f}(X))^2 + Var(e)
+$E(Y - \hat{Y})^2 = (f(X) - \hat{f}(X))^2 + Var(\epsilon)$
 
 #### Parametric models use two steps:
 
@@ -61,7 +61,7 @@ E(Y - \hat{Y})^2 = (f(X) - \hat{f}(X))^2 + Var(e)
 
 * F-test
 	- all betas are 0. Alternative is that at least one beta is non-zero
-		- \frac{\frac{(TSS - RSS)}{p}}{\frac{RSS}{n - p - 1}}
+		- $\frac{\frac{(TSS - RSS)}{p}}{\frac{RSS}{n - p - 1}}$
 	
 	- if q betas are 0, calculate RSS without q and with q.
 	- F-test that takes out one variable is the same as t-test
