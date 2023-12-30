@@ -11,11 +11,11 @@
 
 ### Ch. 2. Stat. Learning Basics.
 
-Assume data generation process =
-	Y = f(X) + e
+Assume the data generation process =
+$Y = f(X) + e$
 
 Stat. Learning problem is to approximate f(X)
-	\hat{Y} = \hat{f}(X)
+$\hat{Y} = \hat{f}(X)$
 
 e = irreducible error
 reducible error = \hat{f}(X) -> f(X)
