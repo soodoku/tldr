@@ -128,6 +128,15 @@ The density of original points in an average work---book, paper, article, lectur
 42. [Iyengar, Shanto and Donald Kinder. News That Matters.](summaries/42_news_that_matters.md)   
     [Link to Amazon](https://www.amazon.com/News-That-Matters-Television-American-ebook/dp/B009KA47PK/)
 
+43. [Witten, Daniela, Gareth M. James, Trevor Hastie, Robert Tibshirani. Introduction to Statistical Learning.](summaries/43_intro_statistical_learning.md)   
+    [Link to Amazon](https://www.amazon.com/Introduction-Statistical-Learning-Applications-Statistics/dp/1461471370)
+
+44. [McCloud, Scott. Understanding Comics.](summaries/44_understanding_comics.md)   
+    [Link to Amazon](https://www.amazon.com/Understanding-Comics-Invisible-Scott-McCloud/dp/006097625X/)
+
+45. [Kuklinski, James (Ed.). Thinking about Political Psychology.](summaries/45_tapp.md)   
+    [Link to Amazon](https://www.amazon.com/Thinking-Political-Psychology-Cambridge-Studies/dp/0521593778/)
+
 ### Contribute
 
 If you have a suggestion for improving an existing summary or want to contribute a summary, open a PR.
