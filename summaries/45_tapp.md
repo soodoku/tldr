@@ -30,7 +30,7 @@ From: https://www.hup.harvard.edu/books/9780674707580
 <img src = "../src/tapp/denial_2.jpg" width="500">
 
 ### Luskin on Net Vs. Gross
-<img src = "../src/tapp/denial_1.MP.jpg" width="500">
+<img src = "../src/tapp/luskin_net_gross.jpg" width="500">
 
 
 
