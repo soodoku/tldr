@@ -18,12 +18,16 @@ From: https://www.hup.harvard.edu/books/9780674707580
 <img src = "../src/tapp/projection_linear_2.MP.jpg" width="500">
 <img src = "../src/tapp/projection_linear_3.jpg" width="500">
 
-### Main Effect W/ Interaction
+#### Main Effect W/ Interaction
 <img src = "../src/tapp/projection_main_effect.jpg" width="500">
 
 #### Projectile
 <img src = "../src/tapp/krosnick_projectile.jpg" width="500">
 
-### Luskin Wipes The Floor w/ Lupia
+### Luskin on Brady/Sniderman
+
+<img src = "../src/tapp/denial_1.MP.jpg" width="500">
+<img src = "../src/tapp/denial_2.jpg" width="500">
+
 
 
