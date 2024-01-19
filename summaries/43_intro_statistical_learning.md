@@ -127,17 +127,14 @@ $E(Y - \hat{Y})^2 = (f(X) - \hat{f}(X))^2 + Var(\epsilon)$
 * Regression splines
 
 * Smoothing splines
-	* penalty for the second derivative
-	* Use LOOCV
+	* Knot at each point
+	* Penalty for the second derivative
+	* Use LOOCV for picking the right lambda
 
 * Local Regression
 	* Decide on neighborhood and weights
 	* Fit the regression
 
 * Generalized Additive Models
-
-
-
-
 
 
