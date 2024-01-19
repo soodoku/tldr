@@ -39,7 +39,7 @@ TL;DR: Motivating question = How do people come to judgments about topics they h
 <img src = "../src/news_that_matters/vivid_pallid_treatment.jpg" width="500">
 <img src = "../src/news_that_matters/vivid_pallid_1.jpg" width="500">
 <img src = "../src/news_that_matters/vivid_pallid_2.jpg" width="500">
-<img src = "../src/news_that_matters/vivid_race.jpg.jpg" width="500">
+<img src = "../src/news_that_matters/vivid_race.jpg" width="500">
 
 ### Lead Story
 
