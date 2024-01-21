@@ -111,11 +111,13 @@
 
 * Political Inheritance
 
+	* 156 MPs of 545 with family background but problem esp. acute w/ young MPs + women MPs
+
+	* Young MPs != Evidence of something that is not sclerotic. Every MP in the Lok Sabha under the age of thirty had in effect inherited a seat, and more than two thirds of the sixty-six MPs aged forty or under were HMPs. ... In the Congress party, the situation was yet more extreme: every Congress MP under the age of thirty-five was an HMP.
+
 	<img src = "../src/india_portrait/hereditary.png" width="500">
 
 	* Were women MPs more likely to have reached their position through a family link? Yes: 69.5 percent of women MPs fell into the family politics column.
-
-	* Young MPs != Evidence of something that is not sclerotic. Every MP in the Lok Sabha under the age of thirty had in effect inherited a seat, and more than two thirds of the sixty-six MPs aged forty or under were HMPs. ... In the Congress party, the situation was yet more extreme: every Congress MP under the age of thirty-five was an HMP.
 
 	* India’s next general election was likely to return not a Lok Sabha, a house of the people, but a Vansh Sabha, a house of dynasty.
 
