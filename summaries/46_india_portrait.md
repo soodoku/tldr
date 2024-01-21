@@ -108,11 +108,14 @@
 
 * Political Inheritance
 
+	<img src = "../src/india_portrait/hereditary.jpg" width="500">
+
 	* Were women MPs more likely to have reached their position through a family link? Yes: 69.5 percent of women MPs fell into the family politics column.
 
 	* Young MPs != Evidence of something that is not sclerotic. Every MP in the Lok Sabha under the age of thirty had in effect inherited a seat, and more than two thirds of the sixty-six MPs aged forty or under were HMPs. ... In the Congress party, the situation was yet more extreme: every Congress MP under the age of thirty-five was an HMP.
 
 	* India’s next general election was likely to return not a Lok Sabha, a house of the people, but a Vansh Sabha, a house of dynasty.
+
 
 * Massacres W/o Accountability
 	* in West Bengal, communist cadres had set upon lower-caste Bangladeshi settlers with the support of the police, burned and looted huts, raped women and murdered several hundred people, throwing their bodies into the river—Jyoti Basu, the veteran communist chief minister, did not express regret.
