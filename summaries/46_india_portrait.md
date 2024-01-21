@@ -48,7 +48,7 @@
 	* Behind most of the catastrophic econ. decisions early on under Nehru
 	* Here are some figures for capacity utilization in the heavy machine tool plant, in percentage terms, which show how the matrix did not work: ... These are not misprints: 3 percent of capacity, 11 percent of capacity.
 
-	<img src = "../src/india_portrait/productivity.jpg" width="500">
+	<img src = "../src/india_portrait/productivity.png" width="500">
 
 
 * Ambedkar
@@ -111,7 +111,7 @@
 
 * Political Inheritance
 
-	<img src = "../src/india_portrait/hereditary.jpg" width="500">
+	<img src = "../src/india_portrait/hereditary.png" width="500">
 
 	* Were women MPs more likely to have reached their position through a family link? Yes: 69.5 percent of women MPs fell into the family politics column.
 
