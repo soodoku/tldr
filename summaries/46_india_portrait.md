@@ -48,6 +48,9 @@
 	* Behind most of the catastrophic econ. decisions early on under Nehru
 	* Here are some figures for capacity utilization in the heavy machine tool plant, in percentage terms, which show how the matrix did not work: ... These are not misprints: 3 percent of capacity, 11 percent of capacity.
 
+	<img src = "../src/india_portrait/productivity.jpg" width="500">
+
+
 * Ambedkar
 	* At school he was not allowed to touch a tap, and could only have water when a peon turned one on for him. He had to bring a piece of gunny cloth, or sacking, to class each day and sit or squat on it during lessons, while the upper-caste children sat at desks. At home, the family would cut each other’s hair and wash their own clothes,
 	* His Mahar community was at the upper end of the scale of untouchability, respected in the region around Bombay for military service; he had won a scholarship sponsored by the Maharaja Gaekwad of Baroda ...
