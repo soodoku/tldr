@@ -140,7 +140,6 @@ The density of original points in an average work---book, paper, article, lectur
 46. [French, Patrick. India: A Portrait](summaries/46_india_portrait.md)      
     [Link to Amazon](https://www.amazon.com/India-Portrait-Departures-Patrick-French/dp/0307473481)
 
-
 ### Contribute
 
 If you have a suggestion for improving an existing summary or want to contribute a summary, open a PR.
