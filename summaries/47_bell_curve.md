@@ -40,7 +40,9 @@ Heckman blows a straw man here: https://www.journals.uchicago.edu/doi/10.1086/26
 
 * And so the NLSY became the beneficiary of an expensive, well-designed set of cognitive and aptitude tests that were given under carefully controlled conditions to almost 94 percent of the 12,686 young men and women in the NLSY sample.
 
-<img src = "../src/bell_curve/iq_test_iq_test_cor" width = 400px>
+<img src = "../src/bell_curve/iq_test_iq_test_cor.png" width = 400px>
+
+<img src = "../src/bell_curve/iq_test_mental_test_cor.png" width = 400px>
 
 ### Homogamy
 
@@ -73,6 +75,21 @@ Heckman blows a straw man here: https://www.journals.uchicago.edu/doi/10.1086/26
 <img src = "../src/bell_curve/black_white_diff_nlsy_2.png" width = 400px>
 
 <img src = "../src/bell_curve/black_white_diff_parental_ses.png" width = 400px>
+
+### Controlling for IQ and Racial Gap in Outcomes
+
+<img src = "../src/bell_curve/iq_racial_gap_incarceration.png" width = 400px>
+<img src = "../src/bell_curve/iq_racial_gap_poverty.png" width = 400px>
+<img src = "../src/bell_curve/iq_racial_gap_male_unemployment.png" width = 400px>
+
+See others: 
+
+1. <a href = "../src/bell_curve/iq_racial_gap_mother_welfare.png">Mothers on Welfare</a>
+2. <a href = "../src/bell_curve/iq_racial_gap_women_welfare.png">Women on Welfare</a>
+3. <a href = "../src/bell_curve/iq_racial_gap_illegitimacy.png">Illegitimacy</a>
+4. <a href = "../src/bell_curve/iq_racial_gap_marriage.png">Marriage</a>
+5. <a href = "../src/bell_curve/iq_racial_gap_high_iq_professions.png">High IQ Professions</a>
+6. <a href = "../src/bell_curve/iq_racial_gap_college.png">College</a>
 
 ### Birth Rates by IQ By Agg. Trend in Fertility Rates
 
