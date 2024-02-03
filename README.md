@@ -125,10 +125,10 @@ The density of original points in an average work---book, paper, article, lectur
 41. [Iyengar, Shanto. Is Anyone Responsible?](summaries/41_is_anyone_responsible.md)   
     [Link to Amazon](https://www.amazon.com/Anyone-Responsible-Television-Political-American/dp/0226388557)
 
-42. [Iyengar, Shanto and Donald Kinder. News That Matters.](summaries/42_news_that_matters.md)   
+42. [Iyengar, Shanto, and Donald Kinder. News That Matters.](summaries/42_news_that_matters.md)   
     [Link to Amazon](https://www.amazon.com/News-That-Matters-Television-American-ebook/dp/B009KA47PK/)
 
-43. [Witten, Daniela, Gareth M. James, Trevor Hastie, Robert Tibshirani. Introduction to Statistical Learning.](summaries/43_intro_statistical_learning.md)   
+43. [Witten, Daniela, Gareth M. James, Trevor Hastie, and Robert Tibshirani. Introduction to Statistical Learning.](summaries/43_intro_statistical_learning.md)   
     [Link to Amazon](https://www.amazon.com/Introduction-Statistical-Learning-Applications-Statistics/dp/1461471370)
 
 44. [McCloud, Scott. Understanding Comics.](summaries/44_understanding_comics.md)   
@@ -139,6 +139,10 @@ The density of original points in an average work---book, paper, article, lectur
 
 46. [French, Patrick. India: A Portrait](summaries/46_india_portrait.md)      
     [Link to Amazon](https://www.amazon.com/India-Portrait-Departures-Patrick-French/dp/0307473481)
+
+47. [Hernstein, Richard, and Charles Murray. ](summaries/47_bell_curve.md)      
+    [Link to Amazon](https://www.amazon.com/Bell-Curve-Intelligence-Structure-Paperbacks/dp/0684824299/)
+
 
 ### Contribute
 
