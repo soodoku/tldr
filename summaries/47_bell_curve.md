@@ -45,8 +45,10 @@ Heckman blows a straw man here: https://www.journals.uchicago.edu/doi/10.1086/26
 1. <a href ="../src/bell_curve/white_illegitimate_iq.png">Illegitimacy</a>
 2. <a href ="../src/bell_curve/white_divorce_iq.png">Divorce</a>
 3. <a href ="../src/bell_curve/white_men_unemp_iq.png">Unemployment (men)</a>
-4. <a href ="../src/bell_curve/white_poverty_parent_ses.png">Poverty c.f. parent SES</a>
+4. <a href ="../src/bell_curve/white_iq_crime_young_men.png">Police and Courts</a>
+5. <a href ="../src/bell_curve/white_poverty_parent_ses.png">Poverty c.f. parent SES</a>
 
+white_iq_crime_young_men
 * A white youth reared in a home in which the parent or parents were chronically unemployed, worked at only the most menial of jobs, and had not gotten past ninth grade, but of just average intelligence--an IQ of 100-has nearly a 90 percent chance of being out of poverty by his or her early 30s. Conversely, a white youth born to a solid middle-class family but with an IQ equivalently below average faces a much higher risk of poverty, despite his more fortunate background.
 
 ### Homogamy
