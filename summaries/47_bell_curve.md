@@ -105,7 +105,7 @@ See others:
 	- This would suggest that AA could work. But then there is a bit of a manouvre to get to: "At a practical policy level, the most obvious is that programs to expand opportunity for the disadvantaged are not going to make much difference in getting the most talented youths to college. An extremely high proportion of those who want to go are already going."
 		* In the NLSY, for example, 81 percent of those in the top 5 percent of IQ had obtained at least a bachelor's degree by 1990, when the youngest members of the sample were 25 years old. When we examine the remaining 19 percent who had not obtained college degrees, the efficiency of American society in pushing the most talented to the top looks even more impressive. For example, only a small portion of that 19 percent were smart students who had been raised in a low-income family and did not get to college for lack of opportu- nity. Only 6 percent of persons in the top five IQ centiles did not have a college degree and came from families in the lower half of socioeconomic status
 
-### Misc
+### Misc.
 
 * Birth Rates by IQ By Agg. Trend in Fertility Rates. 
 	More data needed: "data from the National Longitudinal Survey cohorts selected in 1966 and 1968 (the predecessors of the much larger 1979 NLSY sample that we have used so extensively) supporting his hypothesis that people with higher intelligence tend to have fertilty rates as high as or higher than anyone else's in periods of rising fertility but that in periods of falling birth rates, they tend to have lower fertility rates."

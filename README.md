@@ -140,7 +140,7 @@ The density of original points in an average work---book, paper, article, lectur
 46. [French, Patrick. India: A Portrait](summaries/46_india_portrait.md)      
     [Link to Amazon](https://www.amazon.com/India-Portrait-Departures-Patrick-French/dp/0307473481)
 
-47. [Hernstein, Richard, and Charles Murray. ](summaries/47_bell_curve.md)      
+47. [Hernstein, Richard, and Charles Murray. The Bell Curve.](summaries/47_bell_curve.md)      
     [Link to Amazon](https://www.amazon.com/Bell-Curve-Intelligence-Structure-Paperbacks/dp/0684824299/)
 
 
