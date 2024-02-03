@@ -6,11 +6,11 @@
 
 * cor(iq, begin college), and cor(iq, ba completion)
 
-	<img src = "../src/iq_college_start_ba_complete.png" width = 400px>
+	<img src = "../src/bell_curve/iq_college_start_ba_complete.png" width = 400px>
 
 * IQ and college over time (1920 vs. 1960s)
 
-	<img src = "../src/cor_iq_college_over_time.png" width = 400px>
+	<img src = "../src/bell_curve/cor_iq_college_over_time.png" width = 400px>
 
 * Potential Causes of Higher IQ Entering Harvard in the 1960s
 	* More people with $ -> more competition
@@ -20,25 +20,27 @@
 
 * 1990 Cor(iq, college)
 
-	<img src = "../src/iq_college_non_college_elite_1990.png" width = 400px>
+	<img src = "../src/bell_curve/iq_college_non_college_elite_1990.png" width = 400px>
 
 * 1990:  Consider the list of schools that were named as the nation's top twenty-five large universities and the top twenty-five small colleges in a well-known 1990 ranking. Together, these fifty schools accounted for just 59,000 out of approximately 1.2 million students who entered four-year institutions in the fall of 1990- fewer than one out of twenty of the nation's freshmen in four-year colleges. But they took in twelve out of twenty of the students who scored in the 700s on their SAT-Verbaltest. They took in seven out of twenty of students who scored in the 600s.
 
 ### Concentration of High IQ in High IQ Professions
 
-<img src = "../src/iq_consolidation_profession.png" width = 400px>
+<img src = "../src/bell_curve/iq_consolidation_profession.png" width = 400px>
 
 ### IQ and Professional Success
 
-<img src = "../src/predictors_of_professional_success.png" width = 400px>
+<img src = "../src/bell_curve/predictors_of_professional_success.png" width = 400px>
 
-<img src = "../src/iq_professional_success.png" width = 400px>
+<img src = "../src/bell_curve/iq_professional_success.png" width = 400px>
 
 Heckman blows a straw man here: https://www.journals.uchicago.edu/doi/10.1086/262014
 
 ### Data
 
 * And so the NLSY became the beneficiary of an expensive, well-designed set of cognitive and aptitude tests that were given under carefully controlled conditions to almost 94 percent of the 12,686 young men and women in the NLSY sample.
+
+<img src = "../src/bell_curve/iq_test_iq_test_cor" width = 400px>
 
 ### Homogamy
 
@@ -64,13 +66,13 @@ Heckman blows a straw man here: https://www.journals.uchicago.edu/doi/10.1086/26
 
 	* In a regression equation in which both race and socioeconomic background are entered, the difference between whites and blacks shrinks to .76 standard deviation.
 
-<img src = "../data/bell_curve/black_white_diff_across_studies.png" width = 400px>
+<img src = "../src/bell_curve/black_white_diff_across_studies.png" width = 400px>
 
-<img src = "../data/bell_curve/black_white_diff_nlsy_1.png" width = 400px>
+<img src = "../src/bell_curve/black_white_diff_nlsy_1.png" width = 400px>
 
-<img src = "../data/bell_curve/black_white_diff_nlsy_2.png" width = 400px>
+<img src = "../src/bell_curve/black_white_diff_nlsy_2.png" width = 400px>
 
-<img src = "../data/bell_curve/black_white_diff_parental_ses.png" width = 400px>
+<img src = "../src/bell_curve/black_white_diff_parental_ses.png" width = 400px>
 
 ### Birth Rates by IQ By Agg. Trend in Fertility Rates
 
