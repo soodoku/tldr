@@ -50,6 +50,9 @@ Heckman blows a straw man here: https://www.journals.uchicago.edu/doi/10.1086/26
 6. <a href ="../src/bell_curve/white_poverty_parent_ses.png">Poverty c.f. parent SES</a>
 	* A white youth reared in a home in which the parent or parents were chronically unemployed, worked at only the most menial of jobs, and had not gotten past ninth grade, but of just average intelligence--an IQ of 100-has nearly a 90 percent chance of being out of poverty by his or her early 30s. Conversely, a white youth born to a solid middle-class family but with an IQ equivalently below average faces a much higher risk of poverty, despite his more fortunate background.
 7. <a href ="../src/bell_curve/white_women_welfare_iq_parental_ses.png">Women on Welfare by Parental IQ/SES</a>
+8. <a href ="../src/bell_curve/white_unemp_parental_ses.png">Women on Welfare by Parental IQ/SES</a>
+9. <a href ="../src/bell_curve/white_illegitimate_iq_ses.png">Illegitimate IQ/SES</a>
+10. <a href ="../src/bell_curve/white_low_weight_baby_mother_iq_ses.png">White Low Weight Baby IQ/SES</a>
 
 ### Homogamy
 
