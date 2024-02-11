@@ -186,6 +186,8 @@ The book was My Diary in India in the Year 1858–9. The author was William Howa
 
 * "The oldest profession is not prostitution. It is the priesthood."
 
+* "Bombay is a crowd."
+
 * often poor conditions, told only half the story: that the remnants of the old civilization we possessed gave the in-between colonial generations a second scheme of reverences and ambitions, and that this equipped us for the outside world better than might have seemed likely.
 
 ### Screenplay Writing
