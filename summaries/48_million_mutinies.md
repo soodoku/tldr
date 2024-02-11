@@ -21,6 +21,8 @@ The book was My Diary in India in the Year 1858–9. The author was William Howa
 
 	* wider world is unknown; who are without the means of understanding this world; people who after centuries of foreign invasions still cannot protect or defend themselves; people who – Pandy or Sikh, porter or camp-following...Hindu merchant – run with high delight to aid the foreigner to overcome their brethren. That idea of ‘brethren’ – an idea so simple to Russell that the word is used by him with clear irony – is very far from the people to whom he applies it. ...The Hindus would have no loyalty except to their clan; they would have no higher idea of human association, no general idea of the responsibility of man to his fellow. And because of that missing large idea of human association, the country works blindly on, and all the bravery ....the India that will come into being at the end of the period of British rule will be better educated, more creative and full of possibility than the India of a century before; that it will have a larger idea of human association, and that out of this larger idea, and out of the encompassing humiliation of British rule, there will come to India the ideas of country
 
+* It fills me with old nerves to contemplate Indian history, to see (perhaps with a depressive’s exaggeration, or a far-away colonial’s exaggeration) how close we were to cultural destitution, and to wonder at the many accidents which brought freedom and wide human association – which give men self-awareness and strength, the accidents which have brought us to the point where we can in a way meet William Howard Russell, even in those ‘impressions made on my senses by the externals of things’, not with equality – time cannot be bent in that way – but with something like lucidity.
+
 * Awakening
 	* All over India scores of particularities that had been frozen by foreign rule, or by poverty or lack of opportunity or abjectness had begun to flow again.
 
@@ -85,7 +87,6 @@ The book was My Diary in India in the Year 1858–9. The author was William Howa
 	* whereas the brahmins were allowed to go to the sanctum sanctorum, where the idol actually stands. The non-brahmin devotees could see the idol only at a distance.
 
 	* In those days there were two compartments in any brahmin hotel, one for brahmins, one for the others.
-
 
 ### Periyar
 
@@ -161,10 +162,11 @@ The book was My Diary in India in the Year 1858–9. The author was William Howa
 
 * Shoddiness 
 
-	* had a psychological effect on people ...what they aspired to, etc.
+	* But I also recalled something else: the shoddiness of the Indian books we bought, sometimes out of piety towards the ancestral land. I remembered the poor paper, the broken type, the oily ink, the sloping lines, the uneven margins, the rusting metal staples. The idea of India was part of our strength, and it received part of our piety; yet there was this other idea of the Indian reality, of poor goods, of poor machines poorly used.
+
+	* We saw Indian things as not so good quality. I think that people of my father’s generation must have had a remarkable mental or intellectual strength to preserve their souls in the middle of all this Indian shoddiness. People knew that things were not very good. But they had some inspiration they drew from a real or imagined greatness. They had some innate feelings of old cultural strength, which preserved them.
 
 	* My feelings went the other way. In richer countries, where people could create reasonably pleasant home surroundings for themselves, perhaps, after all, public squalor was bearable. In India, where most people lived in such poor conditions, the combination of private squalor and an encompassing squalor outside was quite stupefying. It would have given people not only a low idea of their needs – air, water, space for stretching out – but it must also have given people a low idea of their possibilities, as makers or doers. Some such low idea of human needs and possibilities would surely have been responsible for the general shoddiness of Indian industrial goods, the ugliness and unsuitability of so much of post-independence architecture, the smoking buses and cars, the chemically-tainted streets, the smoking factories.
-
 
 ### Misc.
 
