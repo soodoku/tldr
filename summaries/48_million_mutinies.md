@@ -86,7 +86,6 @@ The book was My Diary in India in the Year 1858–9. The author was William Howa
 
 	* In those days there were two compartments in any brahmin hotel, one for brahmins, one for the others.
 
-* To me, India was a land of caste costume. (Though it was a good deal less so than a country like England, where a whole ritual of costume and colour, marking different jobs, groups, social ranks, sports, activities, gradations of meals, different times of day and year, kept many people in a constant pacific frenzy: in India everyone just had his one costume.)
 
 ### Periyar
 
@@ -173,6 +172,10 @@ The book was My Diary in India in the Year 1858–9. The author was William Howa
 *  This was the identity I took to India on my first visit in 1962. And when I got there I found it had no meaning in India. The idea of an Indian community – in effect, continental idea of our Indian identity – made sense only when the community was very small, a minority, and isolated. In the torrent of India, with its hundreds of millions, where the threat was of chaos and the void, that continental idea was no comfort at all. People needed to hold on to smaller ideas of who and what they were; they found stability in the smaller groupings of region, clan, caste, family.
 
 * Indian Family .... It all comes down to double standards, a lack of sensitivity, a touch of cruelty.’ Cruelty, yes: it was in the nature of Indian family life. The clan that gave protection and identity, and saved people from the void, was itself a little state, and it could be a hard place, full of politics, full of hatreds and changing alliances and moral denunciations. It was the kind of family life I had known for much of my childhood: an early introduction to the ways of the world, and to the nature of cruelty. It had given me, as I suspected it had given Kala, a taste for the other kind of life, the solitary or less crowded life, where one had space around oneself.
+
+* To me, India was a land of caste costume. (Though it was a good deal less so than a country like England, where a whole ritual of costume and colour, marking different jobs, groups, social ranks, sports, activities, gradations of meals, different times of day and year, kept many people in a constant pacific frenzy: in India everyone just had his one costume.)
+
+* "The oldest profession is not prostitution. It is the priesthood."
 
 ### Screenplay Writing
 
