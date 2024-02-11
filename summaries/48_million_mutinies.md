@@ -119,7 +119,7 @@ The book was My Diary in India in the Year 1858–9. The author was William Howa
 
 	* So, in 1951, a lot of the zamindars or big landlords who had big houses in Lucknow – absentee landlords – had to adjust to changing times. A lot of them left for Pakistan.
 
-	* 1971 war was a watershed not only in Muslim lives, but also in Hindu-Muslim relationships. The myth of Muslim superiority was all finished. Here was India playing a decisive role in the sub-continent. Every Muslim had a soft corner in his heart for Pakistan, and everyone was sad that the experiment had failed after less than 25 years. The dream had died. Then the Pakistani soldiers were prisoners of war for two years. That was a constant reminder.
+* 1971 war was a watershed not only in Muslim lives, but also in Hindu-Muslim relationships. The myth of Muslim superiority was all finished. Here was India playing a decisive role in the sub-continent. Every Muslim had a soft corner in his heart for Pakistan, and everyone was sad that the experiment had failed after less than 25 years. The dream had died. Then the Pakistani soldiers were prisoners of war for two years. That was a constant reminder.
 
 * Visit to Pakistan
 	* He said, ‘In India the beggars asked for small change. In Pakistan they asked for a rupee. The customs officers in Pakistan were taller and better built than on the Indian side, and this was the first time I’d seen a Punjabi Muslim. But then I thought – and I wonder whether you’d understand this – “What’s the use of their being Muslims, if they speak this crude Punjabi, and not chaste Urdu?” You see, I had associated Muslims with Urdu and culture.
@@ -129,6 +129,9 @@ The book was My Diary in India in the Year 1858–9. The author was William Howa
 	* Pakistan were relaxed enough about their religion. It was just the wretched laws, hanging like a cloud over one: the call to prayers, the moulvi coming to my friend’s house and asking why he hadn’t seen us at the mosque recently. The thought police. Islam on wheels.
 
 * ‘Most of them are Shias. The highlight of their year is the Mohurram.’ The period of mourning for Hussain, the son of Ali, the Shia hero. ‘Elsewhere Mohurram runs for 12 days, or 40 days. Here in Lucknow it runs for two months and eight days.
+
+* Muslims in India weren’t doing well, because after partition there were no jobs for them, and a general lack of opportunity. There was the resentment of the majority community. It was but natural. First you fight to get a country, and then you refuse to go. ... My brother did brilliantly in his studies, in India and then in the United States. When he came back to India he couldn’t get a job for six months. He went to Pakistan and got a job right away.
+
 
 ### Sikhs
 
