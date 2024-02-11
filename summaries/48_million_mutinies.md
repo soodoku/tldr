@@ -132,22 +132,26 @@ The book was My Diary in India in the Year 1858–9. The author was William Howa
 
 * Muslims in India weren’t doing well, because after partition there were no jobs for them, and a general lack of opportunity. There was the resentment of the majority community. It was but natural. First you fight to get a country, and then you refuse to go. ... My brother did brilliantly in his studies, in India and then in the United States. When he came back to India he couldn’t get a job for six months. He went to Pakistan and got a job right away.
 
-
 ### Sikhs
 
 * With a group as small as the Sikhs, where distinctiveness of dress and appearance was important, there couldn’t be this internal intellectual life;
 
 * Founded on memory of persecution (ala Shias)
 
-* What I recall is that as soon as a Punjabi Suba was formed, Hindus started agitating against it. They burnt a gurdwara’ – a Sikh temple – ‘in Karnal. They attacked a gurdwara in Delhi. Stoning took place. And all over the Punjab towns there was a bit of a commotion.’ 
-
 * Sikhism, Bhindranwale had said, was a revealed religion; the Sikhs were people of the Book. I was struck then by the attempt to equate Sikhism with Christianity; to separate it from its speculative Hindu aspects, even from its guiding idea of salvation as union with God and freedom from transmigration.
+
+* One day, when I was a child, I had water from a well in the village. I didn’t know it was the harijan well. My uncle didn’t allow me to enter the house. I had to sit there in the entrance, and the village granthi – the reader of the Sikh scriptures – was called, and he gave me some water, to purify my misdeed.
 
 * The Nirankaris are as old as independence. They were a reform movement started in Sikhism in the late 19th century. And then one Buta Singh took over that movement,
 
 * There is an irony, though, in the 18th-century Sikh borrowings from the Mogul enemy: today, long after the disappearance of Mogul power, the decorated 18th-century Mogul dome lives on in the Sikh gurdwara, as much an emblem of the Sikh place
 
-* Hymn-singing, from the central gold-domed temple in the pool. ‘And they were singing a couplet: “Nobody can kill one whose God is almighty.” Jisda sahib dada hué usnu marna koi. This inspired us.’
+* From the outside, it seemed that the Sikhs had brought this tragedy on themselves, manufacturing grievances out of their great success in independent India.
+
+* Terrorists
+	* Hymn-singing, from the central gold-domed temple in the pool. ‘And they were singing a couplet: “Nobody can kill one whose God is almighty.” Jisda sahib dada hué usnu marna koi. This inspired us.’
+
+	* One such idea was the idea of seva or service. When terror became an expression of the faith, the idea of seva altered. ..Inderjit used to come to Darbar Sahib [the Golden Temple] and ask for any seva from Bhindranwale. 
 
 ### Psych.
 
@@ -179,6 +183,8 @@ The book was My Diary in India in the Year 1858–9. The author was William Howa
 * To me, India was a land of caste costume. (Though it was a good deal less so than a country like England, where a whole ritual of costume and colour, marking different jobs, groups, social ranks, sports, activities, gradations of meals, different times of day and year, kept many people in a constant pacific frenzy: in India everyone just had his one costume.)
 
 * "The oldest profession is not prostitution. It is the priesthood."
+
+* often poor conditions, told only half the story: that the remnants of the old civilization we possessed gave the in-between colonial generations a second scheme of reverences and ambitions, and that this equipped us for the outside world better than might have seemed likely.
 
 ### Screenplay Writing
 
