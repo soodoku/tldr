@@ -146,6 +146,9 @@ The density of original points in an average work---book, paper, article, lectur
 48. [Naipaul, V. S. India: A Million Mutinies Now.](summaries/48_million_mutinies.md)      
     [Link to Amazon](https://www.amazon.com/India-Mutinies-V-S-Naipaul/dp/0307739732)
 
+49. [Weisberg, Sanford. Applied Linear Regression.](summaries/49_applied_linear_regression.md)      
+    [Book (pdf)](https://www.stat.purdue.edu/~qfsong/teaching/525/book/Weisberg-Applied-Linear-Regression-Wiley.pdf)
+
 ### Contribute
 
 If you have a suggestion for improving an existing summary or want to contribute a summary, open a PR.
