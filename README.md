@@ -149,6 +149,10 @@ The density of original points in an average work---book, paper, article, lectur
 49. [Weisberg, Sanford. Applied Linear Regression.](summaries/49_applied_linear_regression.md)      
     [Book (pdf)](https://www.stat.purdue.edu/~qfsong/teaching/525/book/Weisberg-Applied-Linear-Regression-Wiley.pdf)
 
+50. [Cathcart, Thomas, and Daniel Klein. Plato and a Platypus Walk into a Bar...](summaries/50_plato_platypus.md)      
+    [Link to Amazon](https://www.amazon.com/Plato-Platypus-Walk-into-Understanding/dp/0143113879)
+
+
 ### Contribute
 
 If you have a suggestion for improving an existing summary or want to contribute a summary, open a PR.
