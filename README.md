@@ -152,6 +152,9 @@ The density of original points in an average work---book, paper, article, lectur
 50. [Cathcart, Thomas, and Daniel Klein. Plato and a Platypus Walk into a Bar...](summaries/50_plato_platypus.md)      
     [Link to Amazon](https://www.amazon.com/Plato-Platypus-Walk-into-Understanding/dp/0143113879)
 
+51. [Martin, Robert. Clean Code.](summaries/51_clean_code.md)      
+    [Link to Amazon](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882/)
+    
 ### Contribute
 
 If you have a suggestion for improving an existing summary or want to contribute a summary, open a PR.

@@ -140,6 +140,8 @@ if (employee.isEligibleForFullBenefits())
 
 #### Classes
 
+* Should be small
+
 #### Functions
 
 * DRY
