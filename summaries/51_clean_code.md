@@ -12,9 +12,10 @@
 	* No duplication
 	* Does one thing well
 	* Minimizes the number of entities such as classes, methods, functions, etc.
+	* Runs all tests
 	* Smallest codebase with ^^ constraints
 
-Abtracting out~ cognitively less complex, readable, and 'clean' (duplication, for instance, will make it harder to make a change as you have to now change in two places, which may not be optimal)
+Abtracting out~ cognitively less complex, readable, and 'clean' (duplication, for instance, will make it harder to make a change as you have to now change in two places, which may not be optimal), and testable (makes it easy to see if a change is bad)
 
 #### 5S
 
@@ -89,6 +90,7 @@ if (employee.isEligibleForFullBenefits())
 	* Redundant
 	* Mandated --- autogenerate from type --- probably not useful for most internal codebases.
 	* Attribution
+	* Commented out code
 
 * Good uses?
 	* Regular expressions --- super cryptic --- so comments may be useful
@@ -138,10 +140,6 @@ if (employee.isEligibleForFullBenefits())
 	* Should be able to run in any environment --- test/dev/prod
 	* Clear indication of pass/fail
 
-#### Classes
-
-* Should be small
-
 #### Functions
 
 * DRY
@@ -151,6 +149,8 @@ if (employee.isEligibleForFullBenefits())
 
 * Shouldn't be doing hidden things
 
+* Function Names Should Say What They Do
+
 * Do one thing
 	* If a function does only those steps that are one level below the stated name of the function, then the function is doing one thing.
 	* Can you get another function with a name that isn't a restatement of the core job
@@ -159,6 +159,15 @@ if (employee.isEligibleForFullBenefits())
 
 * Stepdown rule: We want the code to read like a top-down narrative. We want every function to be followed by those at the next level of abstraction so that we can read the program, descending one level of abstraction at a time as we read down the list of functions.
 
+* Not too many arguments
+
+* Boolean arguments loudly declare that the function does more than one thing. They are confusing and should be eliminated.
+
+
+#### Classes
+
+* Should be small
+* Cohesive
 
 #### Futher Reading
 
