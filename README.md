@@ -154,7 +154,10 @@ The density of original points in an average work---book, paper, article, lectur
 
 51. [Martin, Robert. Clean Code.](summaries/51_clean_code.md)      
     [Link to Amazon](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882/)
-    
+
+52. [Kleppman, Martin. Designing Data Intensive Applications.](summaries/52_ddia.md)      
+    [Link to Amazon](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321)
+
 ### Contribute
 
 If you have a suggestion for improving an existing summary or want to contribute a summary, open a PR.
