@@ -158,6 +158,12 @@ The density of original points in an average work---book, paper, article, lectur
 52. [Kleppman, Martin. Designing Data Intensive Applications.](summaries/52_ddia.md)      
     [Link to Amazon](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321)
 
+53. [Ambedkar, B. R. Pakistan or the Partition of India.](summaries/53_ambedkar_pakistan.md)      
+    [Link to Amazon](https://www.amazon.com/Pakistan-Partition-India-Dr-Ambedkar/dp/9386397447) (pdf widely available)
+
+54. [Smil, Vaclav. Numbers Don't Lie.](summaries/54_smil_numbers.md)      
+    [Link to Amazon](https://www.amazon.com/Numbers-Dont-Lie-Stories-Understand/dp/0143136224/)
+
 ### Contribute
 
 If you have a suggestion for improving an existing summary or want to contribute a summary, open a PR.
