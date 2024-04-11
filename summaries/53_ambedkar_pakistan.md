@@ -29,5 +29,5 @@
 
 ### Low SC % in Punjab/Sind
 
-<img src = "../src/ambedkar_pakistan/10_caste_province.png" width = 500px>
+<img src = "../src/ambedkar_pakistan/10_province_caste.png" width = 500px>
 
