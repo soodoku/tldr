@@ -27,4 +27,7 @@
 <img src = "../src/ambedkar_pakistan/09a_urdu_muslim.png" width = 500px>
 <img src = "../src/ambedkar_pakistan/09b_urdu_muslim.png" width = 500px>
 
+### Low SC % in Punjab/Sind
+
+<img src = "../src/ambedkar_pakistan/10_caste_province.png" width = 500px>
 
