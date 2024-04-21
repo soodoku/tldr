@@ -34,3 +34,19 @@
 
 <img src = "../src/sowell_discrimination/med_age_by_race.png" width = 500px>
 
+### Birth Order and IQ
+
+<img src = "../src/sowell_discrimination/02_birth_order_iq.png" width = 500px>
+
+https://www.pnas.org/doi/full/10.1073/pnas.1506451112
+
+Seems like numbers are small. (Sowell acknowledges as much in the end note but argues that it may still be consequential in the tails where a bunch of the dramatic evidence for first born comes from.)
+
+### No Constant 'Superior' Group
+
+Scotts were considered the poorest and the least literate. It was said that no Scottish Baron could write his own name. ... To Adam Smith, Hume, etc. 
+
+Japanese ...
+
+
+
