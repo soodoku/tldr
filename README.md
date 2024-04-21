@@ -164,6 +164,9 @@ The density of original points in an average work---book, paper, article, lectur
 54. [Smil, Vaclav. Numbers Don't Lie.](summaries/54_smil_numbers.md)      
     [Link to Amazon](https://www.amazon.com/Numbers-Dont-Lie-Stories-Understand/dp/0143136224/)
 
+55. [Sowell, Thomas. Discrimination and Disparities.](summaries/55_sowell_discrimination.md)      
+    [Link to Amazon](https://www.amazon.com/Discrimination-Disparities-Thomas-Sowell/dp/1541645634)
+
 ### Contribute
 
 If you have a suggestion for improving an existing summary or want to contribute a summary, open a PR.
