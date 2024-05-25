@@ -167,6 +167,10 @@ The density of original points in an average work---book, paper, article, lectur
 55. [Sowell, Thomas. Discrimination and Disparities.](summaries/55_sowell_discrimination.md)      
     [Link to Amazon](https://www.amazon.com/Discrimination-Disparities-Thomas-Sowell/dp/1541645634)
 
+56. [Lohr, Sharon. Measuring Crime: Behind the Statistics.](summaries/56_measuring_crime.md)      
+    [Link to Routledge](https://www.routledge.com/Measuring-Crime-Behind-the-Statistics/Lohr/p/book/9781138489073)
+
+
 ### Contribute
 
 If you have a suggestion for improving an existing summary or want to contribute a summary, open a PR.
