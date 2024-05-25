@@ -18,19 +18,14 @@
 
 * Law enforcement personnel determine a homicide victim’s race for the FBI statistics, and funeral directors determine it for the CDC statistics. 
 
-* Identifying Race in Death from all causes: Elizabeth Arias and colleagues investigated how well the race on death certificates matched self-reported race. They could not ask decedents their race, but they could discover what race some of them had reported while alive. Arias and her team compared the race and ethnicity reported on a person’s death certificate with the race and ethnicity that the person had previously reported on the Current Population Survey. The Current Population Survey has collected data about unemployment from large representative samples of households since 1940. Enough decedents would have participated in the survey to be able to compare the self-reported race and ethnicity with that on the death certificate. While almost all blacks and whites had the same classification in the survey as on the death certificate, only 88% of the persons who reported they were Hispanic in the survey were listed as Hispanic on the death certificates. Only 51% of the persons who reported that they were American Indians or Alaska Natives in the survey, and 91% who reported they were Asians or Pacific Islanders in the survey, had the same race on the death certificate. Arias’s investigation considered deaths from all causes.
+* Mistakes in Identifying Race in Death from All Causes: Elizabeth Arias and colleagues investigated how well the race on death certificates matched self-reported race. They could not ask decedents their race, but they could discover what race some of them had reported while alive. Arias and her team compared the race and ethnicity reported on a person’s death certificate with the race and ethnicity that the person had previously reported on the Current Population Survey. The Current Population Survey has collected data about unemployment from large representative samples of households since 1940. Enough decedents would have participated in the survey to be able to compare the self-reported race and ethnicity with that on the death certificate. 
+	* **While almost all blacks and whites had the same classification in the survey as on the death certificate, only 88% of the persons who reported they were Hispanic in the survey were listed as Hispanic on the death certificates. Only 51% of the persons who reported that they were American Indians or Alaska Natives in the survey, and 91% who reported they were Asians or Pacific Islanders in the survey, had the same race on the death certificate. Arias’s investigation considered deaths from all causes.**
 
 ### Missing Data
 
-The FBI reported for 2015: “Of the 18,439 city, county, university and college, state, tribal, and federal agencies eligible to participate in the UCR Program, 16,643 submitted data.” 
+* The FBI reported for 2015: “Of the 18,439 city, county, university and college, state, tribal, and federal agencies eligible to participate in the UCR Program, 16,643 submitted data.” 
 
 * "The FBI imputes values for the months and years in which agencies have missing data." The FBI’s imputation method assumes that: (1) for an agency with between 3 and 11 months of reported data, the murder rate for the missing months is the same as for the months reported, and (2) the murder rate for nonreporting agencies is the same as for reporting agencies in the same group. 
-
-### Burglary Vs. Robbery
-
-If someone broke into your house while you were out and stole your television, you were burgled, not robbed. 
-
-"Homicide, rape, robbery, and aggravated assault are violent crimes; an FBI statistic about the number or rate of violent crime includes these four, and only these four, offenses."
 
 ### NIBRS
 
@@ -48,8 +43,11 @@ In the US, it is estimated that only about 55% of serious violent crimes (rape o
 
 ### Misc.
 
+* Violent Crime: "Homicide, rape, robbery, and aggravated assault are violent crimes; an FBI statistic about the number or rate of violent crime includes these four, and only these four, offenses."
+
 * A national survey of nearly 8,000 police officers from large departments, conducted in 2016, estimated that 37% of officers reported formal or informal expectations to meet a predetermined number of tickets, arrests, citations, or summonses.
 
+* Burglary Vs. Robbery: If someone broke into your house while you were out and stole your television, you were burgled, not robbed. 
 
 * Every year since the NCVS began, the violent crime victimization rate has been more than five times as large for persons age 12 to 24 as for persons age 65 and over.
 
