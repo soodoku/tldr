@@ -29,7 +29,7 @@
 
 ### Response Rate for NCVS
 
-<img src = "../src/measuring_crime/response_rate_over_time.png.png" width = 300px>
+<img src = "../src/measuring_crime/response_rate_over_time.png" width = 300px>
 
 
 ### NIBRS
