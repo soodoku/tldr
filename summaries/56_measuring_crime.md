@@ -27,6 +27,11 @@
 
 * "The FBI imputes values for the months and years in which agencies have missing data." The FBI’s imputation method assumes that: (1) for an agency with between 3 and 11 months of reported data, the murder rate for the missing months is the same as for the months reported, and (2) the murder rate for nonreporting agencies is the same as for reporting agencies in the same group. 
 
+### Response Rate for NCVS
+
+<img src = "../src/measuring_crime/response_rate_over_time.png.png" width = 300px>
+
+
 ### NIBRS
 
 "NIBRS asks law enforcement agencies to report each incident in as many offense categories as apply (up to 10). The NIBRS data allow researchers to count offenses in multiple ways. The hierarchy rule can be applied to NIBRS data by counting only the most serious offense in each incident. Alternatively, each of the separate offenses in an incident can be tallied. The FBI has estimated that between 8% and 15% of incidents involve multiple offenses."
@@ -69,3 +74,4 @@ In the US, it is estimated that only about 55% of serious violent crimes (rape o
 
 
 
+<img src = "../src/measuring_crime/violent_crime_by_method.png" width = 300px>
