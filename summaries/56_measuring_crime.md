@@ -35,11 +35,16 @@
 
 In the US, it is estimated that only about 55% of serious violent crimes (rape or sexual assault, robbery, and aggravated assault) and 35% of property crimes (including burglary, motor vehicle theft, and theft but excluding fraud) came to the attention of the police in 2015. Motor vehicle theft typically has one of the highest rates of being reported to the police (usually greater than 75%), and is thought to be high because most insurance companies require a police report to reimburse a claim.
 
-### Sexual Violence
+<img src = "../src/measuring_crime/percent_time_reported_to_police.png" width = 300px>
+
+### Estimates of Sexual Violence
 
 * 2016 STUDY BY THE US Government Accountability Office identified 10 separate data collections about sexual violence conducted by federal agencies since 2010. The estimates for 2011 “ranged from 244,190 rape or sexual assault victimizations to 1,929,000 victims of rape or attempted rape.” The estimate of 244,190 came from the 2011 National Crime Victimization Survey (NCVS). This was not the lowest estimate for the year: the FBI Uniform Crime Reports (UCR) recorded 84,175 rapes known to law enforcement agencies in 2011. The estimate of 1,929,000 came from the 2011 National Intimate Partner and Sexual Violence Survey (NISVS). The Centers for Disease Control and Prevention (CDC) launched the NISVS in 2010 to study sexual violence, stalking, and intimate partner violence. The NISVS asks about past-year and lifetime experiences of sexual violence, and the health consequences of that violence. It is the source of the oft-quoted statistic that 1 in 5 women and 1 in 71 men have been raped at some time during their lives.
 
 * In 2010–2012, according to the NISVS, 1.2% of women age 18 and over had been raped in the previous 12 months— more than six times as large as the NCVS percentage of women age 12 and over who had been raped or sexually assaulted during each
+
+<img src = "../src/measuring_crime/sex_violence_by_age.png" width = 300px>
+
 
 ### Misc.
 
