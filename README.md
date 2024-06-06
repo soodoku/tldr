@@ -170,6 +170,8 @@ The density of original points in an average work---book, paper, article, lectur
 56. [Lohr, Sharon. Measuring Crime: Behind the Statistics.](summaries/56_measuring_crime.md)      
     [Link to Routledge](https://www.routledge.com/Measuring-Crime-Behind-the-Statistics/Lohr/p/book/9781138489073)
 
+57. [Cathcart, Thomas and Daniel Klein. Heidegger and a Hippo Walk Through Those Pearly Gates.](summaries/57_heidegger_hippo.md)      
+    [Link to Amazon](https://www.amazon.com/Heidegger-Hippo-Through-Those-Pearly/dp/0670020834)
 
 ### Contribute
 
