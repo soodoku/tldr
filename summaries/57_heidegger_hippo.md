@@ -1,4 +1,4 @@
-## Heidegger and a Hippo
+## Heidegger and a Hippo ...
 
 <img src = "../src/heidegger_hippo/deadline.png" width = "400px">
 
