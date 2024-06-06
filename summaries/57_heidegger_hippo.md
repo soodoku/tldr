@@ -1,6 +1,6 @@
 ## Heidegger and a Hippo
 
-<img src = "../src/Heidegger_hippo/deadline.png" width = "200px">
+<img src = "../src/heidegger_hippo/deadline.png" width = "200px">
 
 -----
 
