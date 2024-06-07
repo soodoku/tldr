@@ -2,6 +2,16 @@
 
 <img src = "../src/heidegger_hippo/deadline.png" width = "400px">
 
+-------
+
+Al and Betty were eighty-three years old and had been married for sixty years. Though far from rich, they managed to get by through watching their pennies. They were both in very good health, largely due to Betty’s insistence on a healthful diet. On their way to their sixty-fifth high school reunion their plane crashed, sending them off to Heaven. 
+
+At the Pearly Gates Saint Peter escorted them to a beautiful mansion furnished in gold and fine silks, with a fully stocked kitchen and a waterfall in the master bath. A maid could be seen hanging their favorite clothes in the closet. They gasped in astonishment when Saint Peter said, “Welcome to Heaven.This will be your home now. It is your reward.” 
+
+Al looked out the window and saw a championship golf course, more beautiful than any he had ever seen. Saint Peter led them to the clubhouse, where they saw the lavish buffet lunch, with every imaginable delicacy laid out before them, from lobster thermidor to filet mignon to creamy desserts. 
+
+Al glanced nervously at Betty, then turned to their host. “Where are the low-fat and low-cholesterol foods?” he asked.
+
 -----
 
 Millie accompanied her husband Maurice to the doctor’s office. 
