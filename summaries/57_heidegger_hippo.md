@@ -12,6 +12,11 @@ Al looked out the window and saw a championship golf course, more beautiful than
 
 Al glanced nervously at Betty, then turned to their host. “Where are the low-fat and low-cholesterol foods?” he asked.
 
+“That’s the best part,” Saint Peter replied. “You can eat as much as you like of whatever you like, and you will never get fat or sick.This is Heaven!” “No testing my blood sugar or blood pressure?” Al persisted. “Never again,” said St. Pete. “All you do here is enjoy yourself.” 
+
+Al glared at Betty and groaned, “You and your stupid oat bran! We could have been here ten years ago!”
+
+
 -----
 
 Millie accompanied her husband Maurice to the doctor’s office. 
