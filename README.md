@@ -173,6 +173,9 @@ The density of original points in an average work---book, paper, article, lectur
 57. [Cathcart, Thomas and Daniel Klein. Heidegger and a Hippo Walk Through Those Pearly Gates.](summaries/57_heidegger_hippo.md)      
     [Link to Amazon](https://www.amazon.com/Heidegger-Hippo-Through-Those-Pearly/dp/0670020834)
 
+58. [Rodden, Jonathan. Why Cities Lose.](summaries/58_why_cities_lose.md)      
+    [Link to Amazon](https://www.amazon.com/Why-Cities-Lose-Urban-Rural-Political/dp/1541644271)
+
 ### Contribute
 
 If you have a suggestion for improving an existing summary or want to contribute a summary, open a PR.
