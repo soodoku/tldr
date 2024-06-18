@@ -1,5 +1,6 @@
 ## Why Cities Lose
 
+### Density, Mfg., Know Economy Dem Vote share
 
 <img src="../src/why_cities_lose/01_penn_density_dem_vote_share.png" alt="01_penn_density_dem_vote_share" width="300">
 <img src="../src/why_cities_lose/03_density_dem_vote_share.png" alt="03_density_dem_vote_share" width="300">
@@ -10,6 +11,9 @@
 <img src="../src/why_cities_lose/06_geo_concentration_by_type.png" alt="06_geo_concentration_by_type" width="300">
 <img src="../src/why_cities_lose/07_rel_geo_concentration_of_dem_vote_over_time.png" alt="07_rel_geo_concentration_of_dem_vote_over_time" width="300">
 <img src="../src/why_cities_lose/08_know_econ_cor_of_dem_vote_share.png" alt="08_know_econ_cor_of_dem_vote_share" width="300">
+
+### Moral/Econ. Pref.
+
 <img src="../src/why_cities_lose/09_moral_econ_pref_over_time_by_region.png" alt="09_moral_econ_pref_over_time_by_region" width="300">
 <img src="../src/why_cities_lose/10_cut_line_r_d.png" alt="10_cut_line_r_d" width="300">
 
