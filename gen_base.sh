@@ -25,7 +25,7 @@ echo "" >> "$OUTPUT_FILE"
 for FILE in "$IMAGE_DIR"/*; do
   if [ -f "$FILE" ]; then
     FILENAME=$(basename "$FILE")
-    echo "![${FILENAME%.*}]($IMAGE_DIR/$FILENAME)" >> "$OUTPUT_FILE"
+    echo "<img src=\"$FILENAME\" alt=\"${FILENAME%.*}\" width=\"200\">" >> "$OUTPUT_FILE"
   fi
 done
 
