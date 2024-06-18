@@ -1,6 +1,6 @@
 ## Why Cities Lose
 
-![01_penn_density_dem_vote_share](../src/why_cities_lose/01_penn_density_dem_vote_share.png)
+![01_penn_density_dem_vote_share](../src/why_cities_lose/01_penn_density_dem_vote_share.png | width=200)
 ![03_density_dem_vote_share](../src/why_cities_lose/03_density_dem_vote_share.png)
 ![03_mfg_dem_vote_share](../src/why_cities_lose/03_mfg_dem_vote_share.png)
 ![03a_density_left_vote_share](../src/why_cities_lose/03a_density_left_vote_share.png)
