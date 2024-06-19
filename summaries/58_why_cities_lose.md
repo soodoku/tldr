@@ -17,7 +17,6 @@ The Democratic political machines were rooted in ethnic politics rather than cla
 
 Smith was no socialist, and much of his appeal in big cities appears to have been due to the politics of ethnicity and Catholicism. Smith only received 26 percent of the vote in heavily German (and heavily industrialized) Berks County, for instance. The Democratic Party’s full embrace of urban labor did not occur until after FDR’s election in 1932. By 1936, after the heart of the New Deal agenda had been implemented, the urban, industrialized parts of Pennsylvania, including Berks County, had become solidly Democratic.
 
-
 ### Density, Mfg., Know Economy Dem Vote share
 
 
@@ -54,4 +53,20 @@ Smith was no socialist, and much of his appeal in big cities appears to have bee
 <img src="../src/why_cities_lose/12f_dem_packing_pres_cd.png" alt="12f_dem_packing_pres_cd" width="300">
 <img src="../src/why_cities_lose/13_dist_cd_ideology.png" alt="13_dist_cd_ideology" width="300">
 <img src="../src/why_cities_lose/14_vote_share_seat_share.png" alt="14_vote_share_seat_share" width="300">
+
+"However, urban political geography creates a strong countervailing logic. In a number of large, politically competitive states, the Democrats might be in a better position to win statewide Senate elections than to win the median congressional district. In the long run, within relatively competitive states, we should expect to see that senators tend to exhibit more liberal voting behavior than the median member of the congressional delegation."
+
 <img src="../src/why_cities_lose/15_voter_house_senate.png" alt="15_voter_house_senate" width="300">
+
+### Dem. Constraints
+
+1. Partisans from the Pennsylvania or Berks County Democratic Party pushing for smaller Democratic majorities in Reading or Lancaster might find themselves up against longstanding urban incumbents. Thomas Caltagirone has represented District 127 in Reading for over forty years, and Mike Sturla has represented District 96 in Lancaster for over twenty-five years.
+
+2. The pragmatists face a vexing challenge that animates this chapter: the distribution of voters’ ideology across districts is just as skewed as the parties’ vote shares. Like the socialists in early twentieth-century Europe, contemporary voters in urban districts are well to the left of the median suburban district.
+
+3. Because progressive voters are concentrated in cities, the median voter in the United States as a whole is to the left of the median district.
+
+4. In states where progressives are highly concentrated in cities, US Senate candidates are trying to appeal to a relatively progressive statewide median voter, while congressional candidates in the median district are chasing after a more conservative voter.
+
+
+
