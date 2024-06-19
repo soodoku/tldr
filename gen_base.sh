@@ -1,10 +1,10 @@
 #!/bin/bash
 
 # Directory containing the images
-IMAGE_DIR="src/why_cities_lose"
+IMAGE_DIR="src/microphobia"
 
 # Output HTML file
-OUTPUT_FILE="why_cities_lose.md"
+OUTPUT_FILE="summaries/59_microphobia.md"
 
 # Check if the directory is provided and exists
 if [ -z "$IMAGE_DIR" ]; then
@@ -25,7 +25,7 @@ echo "" >> "$OUTPUT_FILE"
 for FILE in "$IMAGE_DIR"/*; do
   if [ -f "$FILE" ]; then
     FILENAME=$(basename "$FILE")
-    echo "<img src=\"$FILENAME\" alt=\"${FILENAME%.*}\" width=\"200\">" >> "$OUTPUT_FILE"
+    echo "<img src=\"$FILENAME\" width=\"350\">" >> "$OUTPUT_FILE"
   fi
 done
 
