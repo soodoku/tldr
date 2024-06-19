@@ -19,7 +19,6 @@ Smith was no socialist, and much of his appeal in big cities appears to have bee
 
 ### Density, Mfg., Know Economy Dem Vote share
 
-
 <img src="../src/why_cities_lose/01_penn_density_dem_vote_share.png" alt="01_penn_density_dem_vote_share" width="300">
 <img src="../src/why_cities_lose/03_density_dem_vote_share.png" alt="03_density_dem_vote_share" width="300">
 <img src="../src/why_cities_lose/03_mfg_dem_vote_share.png" alt="03_mfg_dem_vote_share" width="300">
@@ -67,6 +66,3 @@ Smith was no socialist, and much of his appeal in big cities appears to have bee
 3. Because progressive voters are concentrated in cities, the median voter in the United States as a whole is to the left of the median district.
 
 4. In states where progressives are highly concentrated in cities, US Senate candidates are trying to appeal to a relatively progressive statewide median voter, while congressional candidates in the median district are chasing after a more conservative voter.
-
-
-
