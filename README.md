@@ -179,6 +179,10 @@ The density of original points in an average work---book, paper, article, lectur
 59. [Honeysett, Martin. Micro phobia: How to survive your computer.](summaries/59_microphobia.md)      
     [Link to Amazon](https://www.amazon.com/Micro-phobia-survive-your-computer/dp/0943392284/)
 
+60. [Waldfogel, Joel. Digital Renaissance.](summaries/60_digital_renaissance.md)      
+    [Link to Amazon](https://www.amazon.com/Digital-Renaissance-Economics-Popular-Culture-ebook/dp/B07D54TVC8/)
+
+
 ### Contribute
 
 If you have a suggestion for improving an existing summary or want to contribute a summary, open a PR.
