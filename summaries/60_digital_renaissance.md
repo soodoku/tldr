@@ -35,4 +35,41 @@ Sundance submissions:
 
 <img src="../src/digital_renaissance/movie_quality_rotten_84.png" width="350">
 
+### Rise in the Number of TV Shows Being Produced
+
+<img src="../src/digital_renaissance/new_tv_shows.png" width="350">
+
+### Rise in the Number of Quality TV Shows
+
+<img src="../src/digital_renaissance/tv_shows_ratings.png" width="350">
+
+### Independent TV 
+
+<img src="../src/digital_renaissance/emmy_nominations.png" width="350">
+
+### Rise in the Number of Books Published Each Year
+
+* Books with ISBN
+
+"According to the latest Bowker data (Publishers Weekly, February 20, 2023), 2.3 million books were self-published in the US in 2021"
+"According to Bowker, just 282,500 new titles (combining self-published titles and traditionally published titles) were published in the US in 2005 (Bowker Report, April 14, 2010)."
+
+via https://ideas.bkconnection.com/10-awful-truths-about-publishing
+
+see also: https://wordsrated.com/number-of-books-published-per-year-2021/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
