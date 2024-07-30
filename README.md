@@ -182,6 +182,9 @@ The density of original points in an average work---book, paper, article, lectur
 60. [Waldfogel, Joel. Digital Renaissance.](summaries/60_digital_renaissance.md)      
     [Link to Amazon](https://www.amazon.com/Digital-Renaissance-Economics-Popular-Culture-ebook/dp/B07D54TVC8/)
 
+61. [Yong, Ed. I Contain Multitudes.](summaries/61_multitudes.md)      
+    [Link to Amazon](https://www.amazon.com/Contain-Multitudes-Microbes-Within-Grander/dp/0062368591)
+
 
 ### Contribute
 
