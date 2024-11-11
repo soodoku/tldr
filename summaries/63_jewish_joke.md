@@ -121,7 +121,9 @@ A group of Jews are discussing the state of the world: ‘The economy is crashin
 
 ‘What’s wrong with you people? Why can’t you be a bit more positive? Me, I’m an optimist!’ 
 
-‘You look pretty anxious for an optimist.’ ‘You think it’s easy being an optimist?’
+‘You look pretty anxious for an optimist.’ 
+
+‘You think it’s easy being an optimist?’
 
 ------------
 The citizens of Chelm [fantasy shtetl of Jewish joking lore] used to spend a good deal of time worrying – so much time, in fact, that they soon began to worry about how much they worried. The Grand Council of Wise Men convened a meeting to discuss all this worrying, and to find a solution for it. For seven days and seven nights the wise men of Chelm discussed the problem, until finally the chairman announced a solution: Yossel, the chimney sweep, would be the official Chelm Worrier. In return for one ruble a week, he would do the worrying for everybody in Chelm. The Grand Council members all agreed that this was the ideal solution, but just before the vote was taken, one of the sages rose to speak against the proposal. ‘Wait a minute,’ he announced. ‘If Yossel were to be paid one ruble a week, then what would he have to worry about?’    
@@ -139,8 +141,6 @@ The astronomer was concluding a lecture: ‘Some believe the sun will die out wi
 
 ------------
 One winter in Soviet Moscow, the rumour went around that a meat delivery had arrived from the collective farm. Real sausage! Within minutes, a vast queue wound around Peshkov the butcher’s, like an anaconda around a cow. But after an hour, the manager came out and announced, ‘Comrades, there is less meat than we thought. Can all the Jews leave.’ Out go the Jews. Two hours later, the manager faces the crowd again: ‘I’m afraid there’s even less than we thought – only enough for Party members.’ Half the crowd shuffles off. An hour later: ‘There really is very little meat. Anyone who didn’t fight in the October Revolution must go.’
-
-------------
 
 Now just two old men are left. Three hours later, as darkness falls, the manager emerges: ‘Comrades, there will be no sausage after all today.’ ‘You see,’ says one old man to the other, ‘The Jews get the best deal.’
 
@@ -167,7 +167,6 @@ Mitzy springs to the telephone when it rings and listens with relief to the kind
 ------------
 Mrs Cohen is pleased to announce the birth of her son, Dr David Cohen.
                 
-
 ------------
 Ninety-one-year-old Morris and Sophie, his eighty-nine-year-old wife of sixty-six years, go to their lawyer to get a divorce. Puzzled, the lawyer asks, ‘Why did you wait all this time if you were both so miserable for so long?’ Sophie replies, ‘We were waiting for the children to die.’
 
@@ -179,18 +178,11 @@ little Jewish boy is telling his mother about how he’s won a part in a play at
 My ancestors wandered lost in the wilderness for forty years because even in biblical times, men would not stop to ask for directions.
 
 ------------
-A journalist asks a Pole, a Russian, an American and an Israeli the same question. He asks the Pole, ‘Excuse me, sir, what is your opinion on the meat shortage?’ The Pole replies, ‘What is meat?’ He asks the Russian, ‘Excuse me, sir, what is your opinion on the meat shortage?’ The Russian replies, ‘What is an opinion?’ He asks the American, ‘Excuse me, sir, what is your opinion
-
-------------
-on the meat shortage?’ The American replies, ‘What is a shortage?’ He then asks the Israeli, ‘Excuse me, sir, what is your opinion on the meat shortage?’ And the Israeli replies, ‘What is “excuse me”?’
+A journalist asks a Pole, a Russian, an American and an Israeli the same question. He asks the Pole, ‘Excuse me, sir, what is your opinion on the meat shortage?’ The Pole replies, ‘What is meat?’ He asks the Russian, ‘Excuse me, sir, what is your opinion on the meat shortage?’ The Russian replies, ‘What is an opinion?’ He asks the American, ‘Excuse me, sir, what is your opinion on the meat shortage?’ The American replies, ‘What is a shortage?’ He then asks the Israeli, ‘Excuse me, sir, what is your opinion on the meat shortage?’ And the Israeli replies, ‘What is “excuse me”?’
 
 
 ------------
 
-HOW DO YOU TELL THE DIFFERENCE BETWEEN LIFE AND DEATH? ‘They tried to kill us, we survived, let’s eat’ is the mantra of a people whose history has required them to take crises in their stride. But even then, someone still needs to prepare the food: The dutiful Jewish son is sitting at his father’s bedside. His father is near death. Father: ‘Son.’ Son: ‘Yes, Dad.’
-
-
-------------
 Father (weakly): ‘Son. That smell. Is your mother making my favourite cheesecake?’ Son: ‘Yes, Dad.’ Father (even weaker): ‘Ah, if I could just have one more piece of your mum’s cheesecake. Would you get me a piece?’ Son: ‘OK, Dad.’ (Son leaves and walks towards the kitchen. After a while the son returns and sits down next to his father again.) Father: ‘Is that you, son?’
 
 
