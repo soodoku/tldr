@@ -191,6 +191,10 @@ The density of original points in an average work---book, paper, article, lectur
 63. [Baum, Devorah. The Jewish Joke: A Short History-with Punchlines.](summaries/63_jewish_joke.md)      
     [Link to Amazon](https://www.amazon.com/Jewish-Joke-Short-History-Punchlines/dp/1681777428/)
 
+64. [Freedman, David, Robert Pisani, and Roger Purves. Statistics.](summaries/64_statistics.md)      
+    [Link to Amazon](https://www.amazon.com/Statistics-Third-David-Freedman/dp/0393970833/)
+
+
 
 
 ### Contribute
