@@ -185,6 +185,13 @@ The density of original points in an average work---book, paper, article, lectur
 61. [Yong, Ed. I Contain Multitudes.](summaries/61_multitudes.md)      
     [Link to Amazon](https://www.amazon.com/Contain-Multitudes-Microbes-Within-Grander/dp/0062368591)
 
+62. [Froman, L.A. The Congressional Process.](summaries/62_cong_process.md)      
+    [Link to Amazon](https://www.amazon.com/Congressional-Process-Strategies-Rules-Procedures/dp/0316294039/)
+
+63. [Baum, Devorah. The Jewish Joke: A Short History-with Punchlines.](summaries/63_jewish_joke.md)      
+    [Link to Amazon](https://www.amazon.com/Jewish-Joke-Short-History-Punchlines/dp/1681777428/)
+
+
 
 ### Contribute
 
