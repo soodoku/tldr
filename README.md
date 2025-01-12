@@ -194,6 +194,9 @@ The density of original points in an average work---book, paper, article, lectur
 64. [Freedman, David, Robert Pisani, and Roger Purves. Statistics.](summaries/64_statistics.md)      
     [Link to Amazon](https://www.amazon.com/Statistics-Third-David-Freedman/dp/0393970833/)
 
+65. [Mosteller, Fred, and John Tukey. Statistics.](summaries/65_data_analysis_regression.md)      
+    [Link to Amazon](https://www.amazon.com/Data-Analysis-Regression-Second-Statistics/dp/020104854X)
+
 
 
 
