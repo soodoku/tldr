@@ -194,11 +194,14 @@ The density of original points in an average work---book, paper, article, lectur
 64. [Freedman, David, Robert Pisani, and Roger Purves. Statistics.](summaries/64_statistics.md)      
     [Link to Amazon](https://www.amazon.com/Statistics-Third-David-Freedman/dp/0393970833/)
 
-65. [Mosteller, Fred, and John Tukey. Statistics.](summaries/65_data_analysis_regression.md)      
+65. [Mosteller, Fred, and John Tukey. Data Analysis and Regression.](summaries/65_data_analysis_regression.md)      
     [Link to Amazon](https://www.amazon.com/Data-Analysis-Regression-Second-Statistics/dp/020104854X)
 
+66. [Archer, Jodie, and Matthew Jockers. The Bestseller Code.](summaries/66_bestseller_code.md)      
+    [Link to Amazon](https://www.amazon.com/Bestseller-Code-Anatomy-Blockbuster-Novel/dp/1250088755/)
 
-
+67. [Hazlitt, Henry. Economics in One Lesson.](summaries/67_econ_one_lesson.md)      
+    [Link to Amazon](https://www.amazon.com/Economics-One-Lesson-Shortest-Understand/dp/0517548232/)
 
 ### Contribute
 
