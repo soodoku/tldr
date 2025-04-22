@@ -203,6 +203,9 @@ The density of original points in an average work---book, paper, article, lectur
 67. [Hazlitt, Henry. Economics in One Lesson.](summaries/67_econ_one_lesson.md)      
     [Link to Amazon](https://www.amazon.com/Economics-One-Lesson-Shortest-Understand/dp/0517548232/)
 
+68. [Banerjee, Abhijit. Chhaunk.](summaries/68_chhaunk.md)      
+    [Link to Amazon](https://www.amazon.com/Chhaunk-Economics-Society-Abhijit-Banerjee/dp/9353452422)
+
 ### Contribute
 
-If you have a suggestion for improving an existing summary or want to contribute a summary, open a PR.
+If you have a suggestion for improving an existing summary or would like to contribute a new one, please open a pull request.
