@@ -12,19 +12,18 @@
     https://en.wikipedia.org/wiki/List_of_countries_by_meat_consumption
     so this is already not true: "It turns out that per capita annual meat consumption is very similar in India and Bangladesh, and very little (4 kilograms a year)."
 
-* In India, proportion of 'wasted' children hasn't really changed much, it seems
+* In India, the proportion of 'wasted' children hasn't really changed much, it seems
     * https://www.ghspjournal.org/content/10/5/e2100569
     * https://ourworldindata.org/grapher/share-of-children-with-a-weight-too-low-for-their-height-wasting?tab=chart&country=~IND
 
-* Seema Jayachandran (from Princeton) and Rohini Pande (from Yale) shows,14 while the average Indian child is shorter than the average child in the much poorer countries in sub-Saharan Africa, the oldest male child in Indian families is actually taller. 
+* Seema Jayachandran (from Princeton) and Rohini Pande (from Yale) show while the average Indian child is shorter than the average child in the much poorer countries in sub-Saharan Africa, the oldest male child in Indian families is actually taller. 
     - Had come to similar conclusions earlier: The same facts also tell us that while unsanitary conditions, unclean water and the resulting prevalence of diarrhoeal diseases is an important reason why Indians grow up short, it cannot be the whole story since (a) open defecation is an even bigger problem in many African countries and (b) firstborn boys and other children from the same families presumably grow up under the same environmental conditions.
 
     - Jayachandran and Pande’s assessment is that this misallocation of resources within the family can, by itself, explain perhaps half of the India–Africa gap
 
-* The recent EAT–Lancet reference diet15 suggests that people should get 29 per cent of their calories from proteins. While there is probably a margin of error, the recent estimate16 by a team led by Manika Sharma at International Food Policy Research Institute (IFPRI) in Delhi suggests that rural Indians get just 6 per cent of their calories from proteins, ...Even the richest Indians in the National Sample Survey (NSS) data get only about half of the recommended amount.
+* The recent EAT–Lancet reference diet15 suggests that people should get 29 per cent of their calories from protein. While there is probably a margin of error, the recent estimate16 by a team led by Manika Sharma at the International Food Policy Research Institute (IFPRI) in Delhi suggests that rural Indians get just 6 per cent of their calories from proteins, ...Even the richest Indians in the National Sample Survey (NSS) data get only about half of the recommended amount.
 
 * A remarkable 77 per cent of those imprisoned in India have not been convicted; they are waiting to be tried. More than a quarter of those have been in jail for a year or more, nearly 3 per cent for more than five years. ... In 1979, a Law Commission complained about it. The ratio of undertrials among the imprisoned was then 58 per cent (now it’s nearly 80 per cent). 
-
 
 * [India has] 21 sanctioned judgeships per million population (while the US has 150) and only two-thirds of these are currently filled.
 
@@ -90,13 +89,13 @@
 
 
 
-### Government Policies Cause Culture + Culture as Self-Fulfilling
+### Government Policies Cause Culture + Culture/Econ. as Self-Fulfilling
 
 * Bengali culture, as the cliché goes, is more devoted to eating and travelling than to making money, in contrast particularly with the culture of the immigrants from western India, long settled in Bengal. There are potential historical roots to this divergence – for example, the British systematically undermined the early nineteenth-century boom in Bengali-run businesses. Also, these communities came to Bengal precisely to do business. And in any case, today, most Bengali would-be entrepreneurs suffer from not having other entrepreneurs to learn and get loans from, unlike, for example, the Gujaratis and Marwaris in Bengal.
 
-### Weber and The Problem of Explaining Within Country Change
+### Weber and The Problem of Explaining Within-Country Change
 
-* At some point, to fit the data, Weber’s theory had to be extended to include all of Christianity, Judaism and Confucianism. Will Hinduism be next, notwithstanding the cliché of it being other-worldly? Moreover, while South Korea is now often cited as a shining example of a Confucian success story, in the 1960s, there was a lot of anxiety – in Korea and beyond it – about the same Confucianism, and its emphasis on high thinking and scholarly pursuits rather than manual labour and business creation.
+* At some point, to fit the data, Weber’s theory had to be extended to include all of Christianity, Judaism and Confucianism. Will Hinduism be next, notwithstanding the cliché of it being otherworldly? Moreover, while South Korea is now often cited as a shining example of a Confucian success story, in the 1960s, there was a lot of anxiety – in Korea and beyond it – about the same Confucianism, and its emphasis on high thinking and scholarly pursuits rather than manual labour and business creation.
 
 
 
