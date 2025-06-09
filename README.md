@@ -206,6 +206,15 @@ The density of original points in an average work---book, paper, article, lectur
 68. [Banerjee, Abhijit. Chhaunk.](summaries/68_chhaunk.md)      
     [Link to Amazon](https://www.amazon.com/Chhaunk-Economics-Society-Abhijit-Banerjee/dp/9353452422)
 
+69. [Roth, Alvin. Who Gets What and Why.](summaries/69_who_gets_what.md)      
+    [Link to Amazon](https://www.amazon.com/Who-Gets-What-Why-Matchmaking/dp/0544705289)
+
+70. [Simon, Herbert. Administrative Behavior.](summaries/70_admin_behavior.md)      
+    [Link to Amazon](https://www.amazon.com/Administrative-Behavior-4th-Herbert-Simon/dp/0684835827)
+
+71. [Thaler, Richard, and Cass Sunstein. Nudge.](summaries/71_nudge.md)      
+    [Link to Amazon](https://www.amazon.com/Nudge-Improving-Decisions-Health-Happiness/dp/014311526X)
+
 ### Contribute
 
 If you have a suggestion for improving an existing summary or would like to contribute a new one, please open a pull request.
