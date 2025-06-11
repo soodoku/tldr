@@ -2,19 +2,19 @@
 
 ### Gale-Shapley
 
-Setup:
+**Setup:**
 
-Students have ranked preferences over schools
-Schools have ranked preferences over students
-Schools have limited capacity (number of spots)
+1. Students have ranked preferences over schools
+2. Schools have ranked preferences over students
+3. Schools have limited capacity (number of spots)
 
-Algorithm:
+**Algorithm:**
 
-Round 1: Every student proposes to their #1 choice school
-School decisions: Each school tentatively accepts their most preferred students (up to capacity), rejects the rest
-Round 2: Rejected students propose to their #2 choice school
-School decisions: Schools compare new proposals with current tentative matches, keep the best overall, reject others
-Continue: Until no rejections occur
+1. Round 1: Every student proposes to their #1 choice school
+2. School decisions: Each school tentatively accepts their most preferred students (up to capacity), rejects the rest
+3. Round 2: Rejected students propose to their #2 choice school
+4. School decisions: Schools compare new proposals with current tentative matches, keep the best overall, reject others
+5. Continue: Until no rejections occur
 
 ### 1. Thin Markets
 
