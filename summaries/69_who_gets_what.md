@@ -33,7 +33,7 @@ Most of the markets mentioned in Table 1 are entry-level labor markets for profe
 	1. Not clear why it is optimal for someone lower down the food chain.
 2. Binding agreement around timing. Doesn't seem to work.
 
-### Congestion
+### 3. Congestion
 
 The issue with thick markets ....
 
