@@ -1,5 +1,21 @@
 ## Who Gets What and Why (Alvin Roth)
 
+### Gale-Shapley
+
+Setup:
+
+Students have ranked preferences over schools
+Schools have ranked preferences over students
+Schools have limited capacity (number of spots)
+
+Algorithm:
+
+Round 1: Every student proposes to their #1 choice school
+School decisions: Each school tentatively accepts their most preferred students (up to capacity), rejects the rest
+Round 2: Rejected students propose to their #2 choice school
+School decisions: Schools compare new proposals with current tentative matches, keep the best overall, reject others
+Continue: Until no rejections occur
+
 ### 1. Thin Markets
 
 Every field of wheat can be a little different. For that reason, wheat used to be sold “by sample”—that is, buyers would take a sample of the wheat and evaluate it before making an offer to buy. It was a cumbersome process, and it often involved buyers and sellers who had successfully transacted in the past maintaining a relationship with one another....
