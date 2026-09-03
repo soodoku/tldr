@@ -1,4 +1,4 @@
-## Readings American Political Behavior
+## Readings in American Political Behavior
 
 ### Policy Making
 
