@@ -1,0 +1,28 @@
+name: Images
+
+on:
+  pull_request:
+    paths:
+      - ".github/workflows/images.yml"
+      - "scripts/prepare-images.sh"
+      - "src/**"
+  push:
+    paths:
+      - ".github/workflows/images.yml"
+      - "scripts/prepare-images.sh"
+      - "src/**"
+
+permissions:
+  contents: read
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+      - name: Install ExifTool
+        run: |
+          sudo apt-get update
+          sudo apt-get install --yes --no-install-recommends libimage-exiftool-perl
+      - name: Check images
+        run: scripts/prepare-images.sh --check

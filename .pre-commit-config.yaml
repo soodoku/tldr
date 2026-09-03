@@ -1,0 +1,14 @@
+repos:
+  - repo: local
+    hooks:
+      - id: prepare-images
+        name: Prepare images
+        entry: scripts/prepare-images.sh --fix
+        language: system
+        files: (?i)^src/.*\.(gif|jpe?g|png|tiff?|webp)$
+      - id: prettier
+        name: Prettier
+        entry: npx --yes prettier@3.9.6 --write --ignore-unknown
+        language: system
+        files: \.(markdown|md|ya?ml)$
+        require_serial: true
