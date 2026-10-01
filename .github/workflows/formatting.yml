@@ -9,6 +9,7 @@ on:
       - "**/*.yaml"
       - ".pre-commit-config.yaml"
   push:
+    branches: [master]
     paths:
       - "**/*.md"
       - "**/*.markdown"
