@@ -7,6 +7,7 @@ on:
       - "scripts/prepare-images.sh"
       - "src/**"
   push:
+    branches: [master]
     paths:
       - ".github/workflows/images.yml"
       - "scripts/prepare-images.sh"
