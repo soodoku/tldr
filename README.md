@@ -84,6 +84,7 @@ useful to share the fruits of that labor.
 |  73 | [Jacobson, Gary. The Politics of Congressional Elections.](summaries/73_politics_of_congressional_elex.md)                                                                    | [Amazon](https://www.amazon.com/Politics-Congressional-Elections-Gary-Jacobson/dp/153812341X)                              |
 |  74 | [Wolfinger, Ray (Ed.). Readings in American Political Behavior](summaries/74_readings_am_pol_behavior.md)                                                                     | [Amazon](https://www.amazon.com/Readings-American-Political-Behaviour-Foundations/dp/0137555202/)                          |
 |  75 | [Zaller, John. The Nature and Origins of Mass Opinion.](summaries/75_zaller_nature_origins_mass_opinion.md)                                                                   | [Cambridge](https://www.cambridge.org/core/books/nature-and-origins-of-mass-opinion/70B1485D3A9CFF55ADCCDD42FC7E926A)      |
+|  76 | [Windley, Phillip J. Authorization in Action.](summaries/76_authorization.md)                                                                                                 | [Manning](https://www.manning.com/books/authorization-in-action)                                                           |
 
 ## Contribute
 
