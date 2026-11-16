@@ -1,0 +1,5 @@
+exclude = [
+  # The page loads in a browser, but the server sends an incomplete
+  # certificate chain, so lychee on CI rejects it as UnknownIssuer.
+  'online\.stat\.psu\.edu/',
+]
