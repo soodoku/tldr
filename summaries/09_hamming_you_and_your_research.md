@@ -2,7 +2,7 @@
 
 By Richard Hamming
 
-URL = http://www.cs.virginia.edu/~robins/YouAndYourResearch.html
+URL = https://www.cs.virginia.edu/~robins/YouAndYourResearch.html
 
 Aim = How to do great research
 

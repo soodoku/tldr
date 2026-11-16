@@ -259,7 +259,7 @@
 - In 2015, 1 in 5 births happen in India
 
 - Indian children shorter than children in sub-Saharan Africa (1996)
-  - https://www.unicef.org/pon96/nuenigma.htm
+  - https://web.archive.org/web/20190318220444/https://www.unicef.org/pon96/nuenigma.htm
 
 **Infant Mortality**
 

@@ -21,7 +21,7 @@
 
 - In India, the proportion of 'wasted' children hasn't really changed much, it
   seems
-  - https://www.ghspjournal.org/content/10/5/e2100569
+  - https://web.archive.org/web/20260812155634/https://www.ghspjournal.org/content/10/5/e2100569
   - https://ourworldindata.org/grapher/share-of-children-with-a-weight-too-low-for-their-height-wasting?tab=chart&country=~IND
 
 - Seema Jayachandran (from Princeton) and Rohini Pande (from Yale) show while

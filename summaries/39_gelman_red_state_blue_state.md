@@ -96,7 +96,7 @@ the DWNOMINATE scale between the medians of the two parties in the 112th
 Congress, and it is approximately two to three times as large as the average
 distance between representatives and their own party’s median."
 
-https://www.andrewbenjaminhall.com/Hall_APSR.pdf
+https://web.archive.org/web/20260130214045/https://www.andrewbenjaminhall.com/Hall_APSR.pdf
 
 ### Economic Voting to Partisan Retrospection
 

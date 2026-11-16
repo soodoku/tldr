@@ -170,7 +170,7 @@
     etc., and sums up the signals in an arbitrary way to rank news items. Your
     second version uses the same signals but uses a supervised model to decide
     on the optimal weights."
-    - http://gojiberries.io/2019/04/01/a-b-testing-recommendation-systems/
+    - https://web.archive.org/web/20250117235602/http://gojiberries.io/2019/04/01/a-b-testing-recommendation-systems/
 
   - Shared resources can cause interference. If the treatment leaks memory ...
 
