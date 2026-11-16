@@ -1,0 +1,29 @@
+name: Names and links
+
+on:
+  pull_request:
+  push:
+    branches: [master]
+
+permissions:
+  contents: read
+
+jobs:
+  ls-lint:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+      - uses: actions/setup-node@v7
+        with:
+          node-version: 24
+      - name: Check file and folder names
+        run: npx --yes @ls-lint/ls-lint@2.3.2
+
+  links:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+      - uses: astral-sh/setup-uv@v10
+      # Same hook and arguments as a local commit, so CI and pre-commit cannot drift.
+      - name: Check links within the repo
+        run: uvx pre-commit run lychee --all-files

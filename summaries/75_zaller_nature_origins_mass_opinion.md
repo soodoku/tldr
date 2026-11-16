@@ -11,7 +11,7 @@ Elites determine which arguments are available; citizens’ values, interests, a
 group loyalties affect which ones they accept. Mass opinion therefore reflects
 both elite information and citizens’ filters.
 
-![Figure 2.1, racial liberalism among senators and party identifiers](../src/zaller/ch02_figure_2_1_racial_liberalism_1.jpg)
+![Figure 2.1, racial liberalism among senators and party identifiers](../src/75_zaller_nature_origins_mass_opinion/ch02_figure_2_1_racial_liberalism_1.jpg)
 
 The figure addresses partisan sorting (elite driven), not the larger rise in
 racial liberalism that Zaller describes just before it. Sorting is a
@@ -55,7 +55,7 @@ One prediction of RAS: Polarization among the politically aware.
 Table 2.1 uses a two-wave panel of the same NES respondents interviewed in
 January and June 1980. Many changed answers during those five months.
 
-![Table 2.1, stability of policy responses across two interviews](../src/zaller/ch02_table_2_1_response_stability_2.jpg)
+![Table 2.1, stability of policy responses across two interviews](../src/75_zaller_nature_origins_mass_opinion/ch02_table_2_1_response_stability_2.jpg)
 
 ## Stop-and-think
 
@@ -64,7 +64,7 @@ other group had to consider each side separately before answering. The latter
 procedure is better described as forced bilateral elaboration than as 'stop and
 think.'
 
-![Table 4.2, expressed ambivalence under retrospective and stop-and-think probes](../src/zaller/ch04_table_4_2_expressions_of_ambivalence_2.jpg)
+![Table 4.2, expressed ambivalence under retrospective and stop-and-think probes](../src/75_zaller_nature_origins_mass_opinion/ch04_table_4_2_expressions_of_ambivalence_2.jpg)
 
 The treatment produces far more expressions of conflict. Many respondents can
 retrieve or produce considerations on both sides when asked to search for them.
@@ -95,7 +95,7 @@ considerations expressed earlier?
 
 `answer2 = b0 + b1 answer1 + b2 considerations1 + b3 considerations2 + error`
 
-![Table 4.5, current considerations and current policy responses](../src/zaller/ch04_table_4_5_current_considerations_2.jpg)
+![Table 4.5, current considerations and current policy responses](../src/75_zaller_nature_origins_mass_opinion/ch04_table_4_5_current_considerations_2.jpg)
 
 Second-wave considerations predict the second-wave answer more strongly in five
 of the six comparisons, but the difference is large mainly in the retrospective
@@ -162,7 +162,7 @@ considerations consistent with their ideology, and negative remarks about
 Iran-Contra rise with awareness among Democrats but remain roughly flat among
 Republicans.
 
-![Table 8.3, party, awareness, and negative remarks about Iran-Contra](../src/zaller/ch08_table_8_3_party_awareness_iran_contra_remarks.jpg)
+![Table 8.3, party, awareness, and negative remarks about Iran-Contra](../src/75_zaller_nature_origins_mass_opinion/ch08_table_8_3_party_awareness_iran_contra_remarks.jpg)
 
 These results show greater partisan organization among attentive citizens. They
 do not isolate resistance. A Republican who gives no negative remark may not
@@ -241,7 +241,7 @@ nonlinear model of support before and after Iran-Contra. Awareness enters both
 latent functions, while hawkishness and approval of Reagan help determine
 acceptance.
 
-![Table 7.4, reception-acceptance model of Central America opinion](../src/zaller/ch07_table_7_4_central_america_opinion_change.jpg)
+![Table 7.4, reception-acceptance model of Central America opinion](../src/75_zaller_nature_origins_mass_opinion/ch07_table_7_4_central_america_opinion_change.jpg)
 
 Only the final support response is observed. Reception and acceptance are not
 measured separately, so low reception with high acceptance can look like high
@@ -270,7 +270,7 @@ show growing separation between hawks and doves, but much of the separation
 comes from hawks moving while doves remain near a floor. The figure supports
 divergence between groups, not symmetric movement away from the center.
 
-![Figure 7.6, predicted support for involvement in Central America before and after Iran-Contra](../src/zaller/ch07_figure_7_6_predicted_central_america_support.jpg)
+![Figure 7.6, predicted support for involvement in Central America before and after Iran-Contra](../src/75_zaller_nature_origins_mass_opinion/ch07_figure_7_6_predicted_central_america_support.jpg)
 
 ## Elite discourse
 
@@ -283,7 +283,7 @@ military weakness before the 1980 election to stories about cost overruns and
 waste after Reagan took office. A civil-rights frame for homosexuality became
 more common in network news during the 1970s.
 
-![Figure 12.1, civil-rights framing of homosexuality in network news](../src/zaller/ch12_figure_12_1_civil_rights_frame_homosexuality.jpg)
+![Figure 12.1, civil-rights framing of homosexuality in network news](../src/75_zaller_nature_origins_mass_opinion/ch12_figure_12_1_civil_rights_frame_homosexuality.jpg)
 
 These examples establish changes in the menu of public considerations. They do
 not by themselves show that a single elite event caused the change in discourse
