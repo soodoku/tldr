@@ -4,13 +4,13 @@ on:
   pull_request:
     paths:
       - ".github/workflows/images.yml"
-      - "scripts/prepare-images.sh"
+      - "scripts/prepare_images.sh"
       - "src/**"
   push:
     branches: [master]
     paths:
       - ".github/workflows/images.yml"
-      - "scripts/prepare-images.sh"
+      - "scripts/prepare_images.sh"
       - "src/**"
 
 permissions:
@@ -26,4 +26,4 @@ jobs:
           sudo apt-get update
           sudo apt-get install --yes --no-install-recommends libimage-exiftool-perl
       - name: Check images
-        run: scripts/prepare-images.sh --check
+        run: scripts/prepare_images.sh --check

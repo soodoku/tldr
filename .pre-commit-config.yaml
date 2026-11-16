@@ -1,9 +1,9 @@
 repos:
   - repo: local
     hooks:
-      - id: prepare-images
+      - id: prepare_images
         name: Prepare images
-        entry: scripts/prepare-images.sh --fix
+        entry: scripts/prepare_images.sh --fix
         language: system
         files: (?i)^src/.*\.(gif|jpe?g|png|tiff?|webp)$
       - id: prettier
@@ -12,3 +12,9 @@ repos:
         language: system
         files: \.(markdown|md|ya?ml)$
         require_serial: true
+  - repo: https://github.com/lycheeverse/lychee
+    rev: lychee-v0.24.2
+    hooks:
+      - id: lychee
+        args: [--offline, --include-fragments, --no-progress]
+        types_or: [markdown, html]

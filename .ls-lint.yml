@@ -1,0 +1,11 @@
+# File and folder name rules; see NAMING.md.
+ls:
+  .dir: regex:[a-z0-9]+(_[a-z0-9]+)*
+  .*: regex:([a-z0-9]+(_[a-z0-9]+)*)?
+  .md: regex:[a-z0-9]+(_[a-z0-9]+)* | regex:[A-Z][A-Z0-9_]*
+
+ignore:
+  - .git
+  - .github
+  - .DS_Store
+  - "src/**/*.pdf"
