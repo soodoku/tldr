@@ -80,7 +80,7 @@ The synopsis =
 ## Why is Tech. Useful?
 
 - C/H AER 2010 to spin on +ves of rapid tech. adoption:
-  https://www.dartmouth.edu/~dcomin/files/exploration_technology.pdf
+  https://web.archive.org/web/20201214055151/https://www.dartmouth.edu/~dcomin/files/exploration_technology.pdf
 
 - David McKenzie: small firms do better if they know how to do better
   stock-keeping etc. Tech. can help in that.

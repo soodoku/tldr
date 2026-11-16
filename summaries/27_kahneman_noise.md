@@ -23,7 +23,7 @@
 
 1. More experienced patent examiners seem to grant patents at higher rates
    (about 10% higher).
-   https://users.nber.org/~confer/2008/si2008/IPPI/lemley.pdf
+   https://web.archive.org/web/20250424125146/https://users.nber.org/~confer/2008/si2008/IPPI/lemley.pdf
 
 2. Judges
 
@@ -241,7 +241,7 @@
 
 3. Effect of mood on decision making
    - good mood causes greater use of stereotypes paper:
-     https://philosophy.rutgers.edu/docman-lister/adobe-pdf-documents/195-limateforgas-she-just-doesnt-look-like-a-philosopher-affective-influences-on-the-halo-effect-2011/file
+     https://web.archive.org/web/20250326084506/https://philosophy.rutgers.edu/docman-lister/adobe-pdf-documents/195-limateforgas-she-just-doesnt-look-like-a-philosopher-affective-influences-on-the-halo-effect-2011/file
 
    - good mood causes greater receptivity to bullshit
 

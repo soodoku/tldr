@@ -304,7 +304,7 @@ this.**
   N-grams.)
 
 - Speed Dating data (McFarland, Jurafsky, Rawlings)
-  - Paper = https://nlp.stanford.edu/pubs/mcfarlandjurafskyrawlings.pdf
+  - Paper = https://web.archive.org/web/20240912121541/https://nlp.stanford.edu/pubs/mcfarlandjurafskyrawlings.pdf
   - Women prefer men who are taller, share their hobbies
   - Men prefer women who are skinnier, share their hobbies
   - Men signal interest by

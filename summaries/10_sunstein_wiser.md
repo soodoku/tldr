@@ -82,7 +82,7 @@ leverage groups of people more generally?
         judgments, but, for true and debatable statements, their judgments were
         biased toward collective opinion."
         - Huaye Li and Yasuaki Sakamoto.
-          https://mindmodeling.org/cogsci2013/papers/0516/paper0516.pdf
+          https://web.archive.org/web/20140815195808/http://mindmodeling.org/cogsci2013/papers/0516/paper0516.pdf
       - Salganik and Watts:
         https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3785310/
       - Lorenz. et al. "... we demonstrate by experimental evidence (_N_ = 144)

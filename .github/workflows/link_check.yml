@@ -1,0 +1,24 @@
+name: Web links
+
+# Links to other sites rot without a commit here to notice, so this runs on a
+# schedule. Links within the repo are checked on every pull request by the
+# lychee hook in names_and_links.yml.
+on:
+  schedule:
+    - cron: "0 6 * * 1"
+  push:
+    branches: [master]
+  pull_request:
+    paths: [.github/workflows/link_check.yml]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  links:
+    uses: gojiplus/.github/.github/workflows/reusable-link-check.yml@v1
+    with:
+      paths: |
+        README.md
+        summaries/*.md

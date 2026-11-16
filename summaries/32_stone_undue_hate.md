@@ -44,7 +44,7 @@
       $2.67 on aver- age, while Republicans only gave $2.35). Republicans did
       underestimate Democratic contributions, receiving
       $2.91 on average from them but only expecting $2.43.
-      - https://gojiberries.io/2020/07/31/gaming-measurement-using-economic-games-to-measure-discrimination/
+      - https://web.archive.org/web/20250120220813/https://gojiberries.io/2020/07/31/gaming-measurement-using-economic-games-to-measure-discrimination/
       - Democratic respondents, on average, guessed 58.8 percent of Democrats
         would make the copartisan sacrifice to save the five out-partisans but
         that only 48.2 percent of Republicans would do this (versus a true value

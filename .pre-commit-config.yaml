@@ -12,9 +12,14 @@ repos:
         language: system
         files: \.(markdown|md|ya?ml)$
         require_serial: true
+  # Pinned to the commit that fixes the hook in linked git worktrees
+  # (lycheeverse/lychee#2292), which no release carries yet. Off a release tag
+  # the hook cannot tell which lychee to install, hence LYCHEE_VERSION. Go back
+  # to `rev: lychee-v<version>` and drop that argument at the next release.
   - repo: https://github.com/lycheeverse/lychee
-    rev: lychee-v0.24.2
+    rev: 81cb43e138041299105cdeb84c70e66a137fa1bf
     hooks:
       - id: lychee
-        args: [--offline, --include-fragments, --no-progress]
+        args:
+          [LYCHEE_VERSION=0.24.2, --offline, --include-fragments, --no-progress]
         types_or: [markdown, html]
