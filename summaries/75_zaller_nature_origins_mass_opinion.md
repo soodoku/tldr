@@ -9,7 +9,7 @@
 Claim: Elites supply political arguments; citizens' values, interests, and group
 loyalties filter which ones they accept.
 
-![Figure 2.1, racial liberalism among senators and party identifiers](../src/75_zaller_nature_origins_mass_opinion/ch02_figure_2_1_racial_liberalism_1.jpg)
+![Figure 2.1, racial liberalism among senators and party identifiers](../src/75_zaller_nature_origins_mass_opinion/ch02_figure_2_1_racial_liberalism.jpg)
 
 The figure addresses partisan sorting (elite driven), not the larger rise in
 racial liberalism that Zaller describes just before it. Sorting is a
@@ -19,7 +19,54 @@ things: 1. figure is misleading as it elides over the fact that the scales mean
 diff. things across years, 2. what's the theory of why elites changed, and 3.
 it wasn't clear to me if this was an "impulse response" model and what explained the timelines.
 
+### Where the information comes from
+
+Lippmann: citizens depend on "unseen and usually unknown others" for news of
+the world. Zaller: those others are elites (politicians, officials,
+journalists, activists, experts). Friends and family mostly relay ideas that
+started with elites.
+
+![Information and elite discourse, with Lippmann's Public Opinion](../src/75_zaller_nature_origins_mass_opinion/ch02_information_and_elite_discourse.jpg)
+
+News is selective and stereotyped, and the public wants it that way. Graber's
+subjects grumbled about oversimplified TV news but skipped the longer versions
+as "dull, confusing, and unduly detailed." Lippmann's Miss Sherwin pictures
+World War I as a duel between Joffre and the Kaiser. Stereotypes come from the
+culture, not the person: "we pick out what our culture has already defined for
+us" (Lippmann, p. 61).
+([Graber](../src/75_zaller_nature_origins_mass_opinion/ch02_selective_stereotyped_news.jpg),
+[Miss Sherwin](../src/75_zaller_nature_origins_mass_opinion/ch02_lippmann_stereotypes.jpg))
+
+Frames move with elite discussion. Newsweek, 24 months before the 1980
+election: 57 defense-spending stories, 46 favoring more spending. 24 months
+after: 60 stories, 40 opposed. About 4:1 for more spending → 2:1 against.
+Opinion moved "in tandem."
+
+![Newsweek defense coverage before and after the 1980 election](../src/75_zaller_nature_origins_mass_opinion/ch02_newsweek_defense_spending_frames.jpg)
+
+But: Zaller's own count of one magazine, no coding rules given here. And the
+facts changed: Reagan's buildup arrived, and a $600 screwdriver is only a story
+once the money flows. Coverage could be tracking policy, not leading opinion.
+
+Mainstream vs. polarization. Early Vietnam offered one frame (containing
+communism), and the most media-exposed supported the war most. Later, elites
+split, and exposure predicted polarization: attentive liberals followed liberal
+elites, attentive conservatives followed conservative ones.
+
+![Vietnam, from elite consensus to polarization](../src/75_zaller_nature_origins_mass_opinion/ch02_vietnam_elite_consensus_and_polarization.jpg)
+
+What counts as elite consensus, measured independently of the public pattern
+it's meant to explain?
+
+Awareness is very unequal. About 1.9% of NES respondents could name half the
+Supreme Court. In late 1986, 24% couldn't recognize George Bush or say what
+office he held.
+
+![Distribution of political awareness](../src/75_zaller_nature_origins_mass_opinion/ch02_distribution_of_political_awareness.jpg)
+
 ## The Receive-Accept-Sample model
+
+![Table 4.1, the four RAS axioms](../src/75_zaller_nature_origins_mass_opinion/ch04_table_4_1_ras_axioms.jpg)
 
 What gets stored:
 
@@ -64,10 +111,38 @@ believes in the same variables as McGuire or diff. variables that explain exposu
 
 ## Response instability
 
-Table 2.1 uses a two-wave panel of the same NES respondents interviewed in
-January and June 1980. Many changed answers during those five months.
+The survey interview is "an odd social experience" (Converse): people don't
+want to look unprepared, so they offer opinions on things they've never thought
+about. Trivial changes in order or wording move aggregates 5–10 points.
+Rasinski: 68% say too little is spent on "halting the rising crime rate," 55% on
+"law enforcement." 45% would "not allow" a communist to speak; 20% would
+"forbid" it.
+([p. 28](../src/75_zaller_nature_origins_mass_opinion/ch02_survey_setting_and_nonattitudes.jpg))
 
-![Table 2.1, stability of policy responses across two interviews](../src/75_zaller_nature_origins_mass_opinion/ch02_table_2_1_response_stability_2.jpg)
+Soviet journalists: 37% would allow Communist reporters in the U.S. when asked
+alone; 73% when first asked about U.S. reporters in Russia. Zaller reads this as
+two considerations (anti-communism, reciprocity), with question order deciding
+which is salient. The seed of RAS.
+
+![Question-order effect on admitting Soviet journalists](../src/75_zaller_nature_origins_mass_opinion/ch02_question_order_effects_soviet_journalists.jpg)
+
+But a single attitude plus a consistency norm fits too: you said yes to U.S.
+reporters, so you say yes to Soviet ones to avoid looking like a hypocrite.
+That's self-presentation, not sampling from a pool. Schuman and Presser's own
+words ("feel bound to provide an answer that is consistent with their previous
+response") read closer to that.
+
+Table 2.1 uses a two-wave panel of the same NES respondents interviewed in
+January and June 1980. Many changed answers during those five months. Of
+January's "cooperate with Russia" group, 52% said the same in June and 23% had
+moved to "tougher." Of January's "cut services" group, 54% stayed put. The
+diagonals run from 24% (the middle) to 60%.
+
+![Table 2.1, stability of policy responses across two interviews](../src/75_zaller_nature_origins_mass_opinion/ch02_table_2_1_response_stability.jpg)
+
+But the 7-point scale is collapsed to three bins, so people near a cutpoint
+switch bins with small moves. And two waves can't separate measurement error
+from real change.
 
 ## Stop-and-think about stop-and-think
 
@@ -79,11 +154,19 @@ think.'
 The treatment may reveal thoughts that were already accessible, retrieve
 thoughts that were dormant, or induce new thoughts.
 
-![Table 4.2, expressed ambivalence under retrospective and stop-and-think probes](../src/75_zaller_nature_origins_mass_opinion/ch04_table_4_2_expressions_of_ambivalence_2.jpg)
+![Table 4.2, expressed ambivalence under retrospective and stop-and-think probes](../src/75_zaller_nature_origins_mass_opinion/ch04_table_4_2_expressions_of_ambivalence.jpg)
 
 The treatment produces far more expressions of conflict.
 Interpretation? Many respondents can retrieve or produce considerations
 on both sides when asked to search for them.
+
+Table 4.3: The direction of open-ended remarks correlates .67–.83 with the
+answer in the retrospective condition, but only .31–.63 in stop-and-think.
+Retrospective remarks come after the answer, so they may be rationalizations of
+it. Stop-and-think remarks come first but are forced to be two-sided, so they
+say less about the answer. Neither shows the remarks produce the answer.
+
+![Table 4.3, direction of open-ended remarks and direction of opinion](../src/75_zaller_nature_origins_mass_opinion/ch04_table_4_3_considerations_and_opinions.jpg)
 
 ### Sniderman, Sniderman
 
@@ -103,6 +186,30 @@ side.
 
 ![Sniderman Table 1.2, false positives under the pairing rule](../src/75_zaller_nature_origins_mass_opinion/sniderman_table_1_2_pairing_rule_false_positives.jpg)
 
+Sniderman's Table 1.2 number (share of the "conflicted" who are really
+one-sided) is his own. His conflict count isn't new: he recomputes Zaller and
+Feldman's measure (the smaller of liberal and conservative thoughts) from the
+raw data, with Zaller's help: "not identical," but "strikingly similar" (n. 22;
+App. Table A.2). Close: e.g., 37/32/30% vs. 37/31/29% of stop-and-think
+respondents with no conflict.
+
+Table 1.1 splices that replication (conflict rows) onto a "reproduction" of the
+original (ambivalence and two-sided rows, App. Table A.1). But A.1's two-sided
+row doesn't match what Zaller and Feldman (1992, Table 2) print. Retrospective
+jobs: 14% vs. 25% with at least one. Stop-and-think services: 7% vs. 15%. A
+transcription problem, not a different calculation.
+
+![Sniderman Table 1.1, replication of the Zaller–Feldman ambivalence measures](../src/75_zaller_nature_origins_mass_opinion/sniderman_democratic_faith_table_1_1_pairing_rule.png)
+
+The other two measures (spontaneous ambivalence, two-sided remarks) say
+ambivalence is the exception: median 80% free of it in the retrospective
+condition, 71% in stop-and-think (same with Zaller and Feldman's printed numbers). Zaller and Feldman reach "substantial"
+ambivalence partly by summing all three into "total indications" (n. 23).
+
+Small thing: in Zaller and Feldman (1992, Table 2), the aid-to-Black-people
+ambivalence row reads 78.8% and 27.8%, which sum to 106.6%. The book prints
+79 and 21.
+
 Related:
 
 - Gelman, [A coding problem in the classic study, Nature and Origins of Mass
@@ -121,7 +228,9 @@ Table 4.5 is plausibly there to test if accessibility causes responses condition
 
 `answer2 = b0 + b1 answer1 + b2 considerations1 + b3 considerations2 + error`
 
-![Table 4.5, current considerations and current policy responses](../src/75_zaller_nature_origins_mass_opinion/ch04_table_4_5_current_considerations_2.jpg)
+([Zaller's statement of the model](../src/75_zaller_nature_origins_mass_opinion/ch04_current_considerations_model.jpg))
+
+![Table 4.5, current considerations and current policy responses](../src/75_zaller_nature_origins_mass_opinion/ch04_table_4_5_current_considerations.jpg)
 
 We could randomly make one of the considerations that have been elicited before accessible to test if accessibility causes reported attitudes?
 
@@ -153,6 +262,14 @@ More thought doesn't necessarily produce a more stable answer.
 ![Table 5.3, test-retest correlations by probe condition and political awareness](../src/75_zaller_nature_origins_mass_opinion/ch05_table_5_3_stop_think_test_retest.jpg)
 
 Highly aware respondents give more ideologically consistent considerations.
+Table 8.2: consistent remarks rise with awareness (unweighted mean 2.34 → 4.96);
+inconsistent ones stay flat and drop only in the top bin (2.37 → 2.08). Zaller:
+"helpful but not clinching." The top bin has 13–14 people per issue. More aware
+people also just say more; as a ratio, consistent to inconsistent goes from
+about 1.0 to 2.4.
+
+![Table 8.2, ideology, awareness, and consistency of considerations](../src/75_zaller_nature_origins_mass_opinion/ch08_table_8_2_ideology_awareness_considerations.jpg)
+
 Negative Iran-Contra remarks rise with awareness among Democrats, but are
 roughly flat among Republicans (Table 8.3).
 
