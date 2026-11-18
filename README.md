@@ -87,6 +87,8 @@ useful to share the fruits of that labor.
 |  77 | [Shermer, Michael. The Believing Brain.](summaries/77_shermer_believing_brain.md)                                                                                                  | [Amazon](https://www.amazon.com/dp/1250008808)                                                                             |
 |  78 | [Banerjee, Abhijit, and Esther Duflo. Poor Economics.](summaries/78_banerjee_poor_economics.md)                                                                                    | [Publisher](https://hachettebookgroupusdistribution.com/titles/abhijit-v-banerjee/poor-economics/9781541706187)            |
 |  79 | [Fisher, R. A. Statistical Methods for Research Workers.](summaries/79_fisher_statistical_methods_for_research_workers.md)                                                         | [Text](https://psychclassics.yorku.ca/Fisher/Methods/chap1.htm)                                                            |
+|  80 | [Westen, Drew. The Political Brain.](summaries/80_westen_political_brain.md)                                                                                                       | [Publisher](https://www.hachettebookgroup.com/titles/drew-westen/the-political-brain/9781586485733/)                       |
+|  81 | [Yunus, Muhammad. Banker to the Poor.](summaries/81_yunus_banker_to_the_poor.md)                                                                                                   | [Publisher](https://www.hachettebookgroup.com/titles/muhammad-yunus/banker-to-the-poor/9781586481988/)                     |
 
 ## Contribute
 
