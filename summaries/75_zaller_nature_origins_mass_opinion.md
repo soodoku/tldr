@@ -186,19 +186,24 @@ side.
 
 ![Sniderman Table 1.2, false positives under the pairing rule](../src/75_zaller_nature_origins_mass_opinion/sniderman_table_1_2_pairing_rule_false_positives.jpg)
 
-Sniderman also re-ran the Zaller–Feldman data, with Zaller's help: "not
-identical," but "strikingly similar" (n. 22). The conflict counts are close.
-Stop-and-think respondents with no conflicting considerations: 37/32/30% in the
-replication vs. 37/31/29% in the original. The two-sided remarks aren't close.
-Retrospective jobs: 14% vs. 25% with at least one. Stop-and-think services: 7%
-vs. 15%. A measure that moves that much when the same open-ended answers are
-recoded is fragile.
+Sniderman's Table 1.2 number (share of the "conflicted" who are really
+one-sided) is his own. His conflict count isn't new: he recomputes Zaller and
+Feldman's measure (the smaller of liberal and conservative thoughts) from the
+raw data, with Zaller's help: "not identical," but "strikingly similar" (n. 22;
+App. Table A.2). Close: e.g., 37/32/30% vs. 37/31/29% of stop-and-think
+respondents with no conflict.
+
+Table 1.1 splices that replication (conflict rows) onto a "reproduction" of the
+original (ambivalence and two-sided rows, App. Table A.1). But A.1's two-sided
+row doesn't match what Zaller and Feldman (1992, Table 2) print. Retrospective
+jobs: 14% vs. 25% with at least one. Stop-and-think services: 7% vs. 15%. A
+transcription problem, not a different calculation.
 
 ![Sniderman Table 1.1, replication of the Zaller–Feldman ambivalence measures](../src/75_zaller_nature_origins_mass_opinion/sniderman_democratic_faith_table_1_1_pairing_rule.png)
 
 The other two measures (spontaneous ambivalence, two-sided remarks) say
 ambivalence is the exception: median 80% free of it in the retrospective
-condition, 71% in stop-and-think. Zaller and Feldman reach "substantial"
+condition, 71% in stop-and-think (same with Zaller and Feldman's printed numbers). Zaller and Feldman reach "substantial"
 ambivalence partly by summing all three into "total indications" (n. 23).
 
 Small thing: in Zaller and Feldman (1992, Table 2), the aid-to-Black-people
