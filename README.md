@@ -89,6 +89,7 @@ useful to share the fruits of that labor.
 |  79 | [Fisher, R. A. Statistical Methods for Research Workers.](summaries/79_fisher_statistical_methods_for_research_workers.md)                                                         | [Text](https://psychclassics.yorku.ca/Fisher/Methods/chap1.htm)                                                            |
 |  80 | [Westen, Drew. The Political Brain.](summaries/80_westen_political_brain.md)                                                                                                       | [Publisher](https://www.hachettebookgroup.com/titles/drew-westen/the-political-brain/9781586485733/)                       |
 |  81 | [Yunus, Muhammad. Banker to the Poor.](summaries/81_yunus_banker_to_the_poor.md)                                                                                                   | [Publisher](https://www.hachettebookgroup.com/titles/muhammad-yunus/banker-to-the-poor/9781586481988/)                     |
+|  82 | [Rosling, Hans, Ola Rosling, and Anna Rosling Rönnlund. Factfulness.](summaries/82_rosling_factfulness.md)                                                                         | [Flatiron](https://us.macmillan.com/books/9781250123824/factfulness/)                                                      |
 
 ## Contribute
 
